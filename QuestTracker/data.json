@@ -10580,6 +10580,22 @@
                                     ],
                                     "Area": "Shrouded Laboratory",
                                     "Level": 100
+                                },
+                                {
+                                    "Title": "A Vandal in the Wild",
+                                    "Id": [
+                                        70914
+                                    ],
+                                    "Area": "Solution Nine",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "On the Trail of Destruction",
+                                    "Id": [
+                                        70915
+                                    ],
+                                    "Area": "Shaaloani",
+                                    "Level": 100
                                 }
                             ]
                         }
@@ -11168,6 +11184,30 @@
                                     "Title": "\uE0BF Forging the Phantasmal",
                                     "Id": [
                                         70856
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Keeping the Old Ways Alive",
+                                    "Id": [
+                                        70916
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "Aether, Aether, Everywhere",
+                                    "Id": [
+                                        70917
+                                    ],
+                                    "Area": "Phantom Village",
+                                    "Level": 100
+                                },
+                                {
+                                    "Title": "\uE0BF Wrought by Hands Phantasmal",
+                                    "Id": [
+                                        70918
                                     ],
                                     "Area": "Phantom Village",
                                     "Level": 100
@@ -11847,6 +11887,22 @@
                                     ],
                                     "Area": "Old Sharlayan",
                                     "Level": 10
+                                },
+                                {
+                                    "Title": "Go Forth, Brave Explorers",
+                                    "Id": [
+                                        70945
+                                    ],
+                                    "Area": "Sinus Ardorum",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "The Brightest Star",
+                                    "Id": [
+                                        70946
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
                                 }
                             ]
                         },
@@ -11867,6 +11923,38 @@
                                         70860
                                     ],
                                     "Area": "Sinus Ardorum",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Discernment",
+                                    "Id": [
+                                        70947
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Perspective Reflected",
+                                    "Id": [
+                                        70948
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "Pilot Wanted",
+                                    "Id": [
+                                        70949
+                                    ],
+                                    "Area": "Phaenna",
+                                    "Level": 10
+                                },
+                                {
+                                    "Title": "A Manager's Delegation",
+                                    "Id": [
+                                        70950
+                                    ],
+                                    "Area": "Phaenna",
                                     "Level": 10
                                 }
                             ]
@@ -11953,6 +12041,43 @@
                                     ],
                                     "Area": "Phantom Village",
                                     "Level": 100
+                                }
+                            ]
+                        },
+                        {
+                            "Title": "Pilgrim's Traverse",
+                            "Quests": [
+                                {
+                                    "Title": "Pilgrimage of Light",
+                                    "Id": [
+                                        70941
+                                    ],
+                                    "Area": "The Crystarium",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "Faerie Tale",
+                                    "Id": [
+                                        70942
+                                    ],
+                                    "Area": "Il Mheg",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "A Branch and Their Sapling",
+                                    "Id": [
+                                        70943
+                                    ],
+                                    "Area": "Il Mheg",
+                                    "Level": 91
+                                },
+                                {
+                                    "Title": "The Pilgrim's Answer",
+                                    "Id": [
+                                        70944
+                                    ],
+                                    "Area": "Unknown",
+                                    "Level": 91
                                 }
                             ]
                         }
@@ -32192,6 +32317,294 @@
                         }
                     ],
                     "Quests": []
+                },
+                {
+                    "Title": "Yok Huy Quests",
+                    "Categories": [
+                        {
+                            "Title": "Main Quests",
+                            "Quests": [
+                                {
+                                    "Title": "\uE0BE Frosty Neighbors",
+                                    "Id": [
+                                        70866
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Still as Stone",
+                                    "Id": [
+                                        70867
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Buried Memories",
+                                    "Id": [
+                                        70868
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Pact",
+                                    "Id": [
+                                        70869
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Forged in Corn",
+                                    "Id": [
+                                        70870
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE With High Spirits",
+                                    "Id": [
+                                        70871
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                }
+                            ]
+                        },
+                        {
+                            "Title": "Daily Quests",
+                            "Quests": [
+                                {
+                                    "Title": "\uE0BE Snow on the Mountain",
+                                    "Id": [
+                                        70872
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Work of Cart",
+                                    "Id": [
+                                        70873
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Will Work for Supplies",
+                                    "Id": [
+                                        70874
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Getting a Glow On",
+                                    "Id": [
+                                        70875
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Hold My Hand Warmers",
+                                    "Id": [
+                                        70876
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE For a Goods Cause",
+                                    "Id": [
+                                        70877
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Happiness Is a Warm Poncho",
+                                    "Id": [
+                                        70878
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Worth Their Salt",
+                                    "Id": [
+                                        70879
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Tradition for Trade",
+                                    "Id": [
+                                        70880
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Few Tools Short of a Toolbox",
+                                    "Id": [
+                                        70881
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Romanced by the Stone",
+                                    "Id": [
+                                        70882
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Every Last Pebble",
+                                    "Id": [
+                                        70883
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Trail Fix",
+                                    "Id": [
+                                        70884
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Working Stew Hard",
+                                    "Id": [
+                                        70885
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Snack in Hand",
+                                    "Id": [
+                                        70886
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Seasoned Stories",
+                                    "Id": [
+                                        70887
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Larder for the Long Term",
+                                    "Id": [
+                                        70888
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Table for Too Few",
+                                    "Id": [
+                                        70889
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE I Want to Trade My Icicle",
+                                    "Id": [
+                                        70890
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Larder Logistics",
+                                    "Id": [
+                                        70891
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Weight of Generosity",
+                                    "Id": [
+                                        70892
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Growing Field",
+                                    "Id": [
+                                        70893
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE The Crystals' Favor",
+                                    "Id": [
+                                        70894
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Big Mountain, Little Climbers",
+                                    "Id": [
+                                        70895
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Scouring for Flowers",
+                                    "Id": [
+                                        70896
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Rock-solid Repair Job",
+                                    "Id": [
+                                        70897
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE Mad about Brew",
+                                    "Id": [
+                                        70898
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                },
+                                {
+                                    "Title": "\uE0BE A Feast of Indecision",
+                                    "Id": [
+                                        70899
+                                    ],
+                                    "Area": "Urqopacha",
+                                    "Level": 90
+                                }
+                            ]
+                        }
+                    ],
+                    "Quests": []
                 }
             ]
         },
@@ -41993,6 +42406,14 @@
                                     ],
                                     "Area": "The Gold Saucer",
                                     "Level": 15
+                                },
+                                {
+                                    "Title": "The White Wanderer",
+                                    "Id": [
+                                        70910
+                                    ],
+                                    "Area": "Tuliyollal",
+                                    "Level": 100
                                 }
                             ]
                         }
