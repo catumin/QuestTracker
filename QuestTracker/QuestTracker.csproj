@@ -1,35 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project Sdk="Dalamud.NET.Sdk/13.0.0">
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/14.0.1">
   <PropertyGroup>
-    <PluginVersion>1.1.2.0</PluginVersion>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <TargetFramework>net9.0-windows</TargetFramework>
-    <Platforms>x64</Platforms>
-    <Company>isaiahcat</Company>
-    <AssemblyTitle>QuestTracker</AssemblyTitle>
-    <Product>QuestTracker</Product>
-    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <Version>1.1.3.0</Version>
+    <PackageProjectUrl>https://github.com/catumin/QuestTracker</PackageProjectUrl>
+    <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
+    <IsPackable>false</IsPackable>
+    <Company>isaiahcat,catumin</Company>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
-    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-    <LangVersion>latest</LangVersion>
-    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
-    <Version>$(PluginVersion)</Version>
-    <FileVersion>$(PluginVersion)</FileVersion>
-    <AssemblyVersion>$(PluginVersion)</AssemblyVersion>
   </PropertyGroup>
 
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
-    <DebugType>full</DebugType>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-  </PropertyGroup>
-
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
-    <DebugType>pdbonly</DebugType>
-  </PropertyGroup>
-    
   <ItemGroup>
     <EmbeddedResource Include="data.json" />
   </ItemGroup>
