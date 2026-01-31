@@ -160,11 +160,9 @@ namespace QuestTrackerReborn
             else
             {
                 float availableWidth = ImGui.GetContentRegionAvail().X;
-                float searchBoxWidth = 400;
                 float spacing = ImGui.GetStyle().ItemSpacing.X;
-                float comboWidth = 400;
 
-                ImGui.SetNextItemWidth(comboWidth);
+                ImGui.SetNextItemWidth(availableWidth);
                 if (ImGui.BeginCombo("##category_dropdown", GetDisplayText(configuration.CategorySelection)))
                 {
                     foreach (var category in plugin.QuestData.Categories)
@@ -185,13 +183,8 @@ namespace QuestTrackerReborn
                     ImGui.EndCombo();
                 }
 
-                // Right-align the search box on the same line
-                ImGui.SameLine(availableWidth - searchBoxWidth);
-                ImGui.SetNextItemWidth(searchBoxWidth);
-                ImGui.InputTextWithHint("##search_input", "Search all quests...", ref searchText, 256);
-
                 ImGui.Spacing();
-                ImGui.SetNextItemWidth(comboWidth);
+                ImGui.SetNextItemWidth(availableWidth);
                 if (ImGui.BeginCombo("##subcategory_dropdown", GetDisplayText(configuration.SubcategorySelection)))
                 {
                     foreach (var category in configuration.CategorySelection.Categories)
@@ -208,6 +201,11 @@ namespace QuestTrackerReborn
 
                     ImGui.EndCombo();
                 }
+
+                // Right-align the search box on the same line
+                ImGui.Spacing();
+                ImGui.SetNextItemWidth(availableWidth);
+                ImGui.InputTextWithHint("##search_input", "Search all quests...", ref searchText, 256);
 
                 ImGui.Spacing();
                 if (configuration.SubcategorySelection.Categories.Count > 0)
