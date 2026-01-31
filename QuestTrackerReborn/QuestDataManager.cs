@@ -159,7 +159,11 @@ namespace QuestTrackerReborn
                         (QuestManager.IsQuestComplete(69339) && quest.Id.Contains(69338)) || 
                     // Qitari "The Third Stela"
                         (QuestManager.IsQuestComplete(69340) && quest.Id.Contains(69341)) || 
-                        (QuestManager.IsQuestComplete(69341) && quest.Id.Contains(69340))) 
+                        (QuestManager.IsQuestComplete(69341) && quest.Id.Contains(69340)) ||
+                    // An-Ill Conceived Venture
+                        (QuestManager.IsQuestComplete(66968) && quest.Id.Contains(66969) || quest.Id.Contains(66970)) ||
+                        (QuestManager.IsQuestComplete(66969) && quest.Id.Contains(66968) || quest.Id.Contains(66970)) ||
+                        (QuestManager.IsQuestComplete(66970) && quest.Id.Contains(66968) || quest.Id.Contains(66969)))
                     {
                         questData.Quests.Remove(quest);
                     }
