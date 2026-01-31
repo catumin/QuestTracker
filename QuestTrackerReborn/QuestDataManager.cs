@@ -92,6 +92,22 @@ namespace QuestTrackerReborn
         {
             UpdateQuestData(plugin.QuestData);
         }
+
+        private bool IsVariantComplete(Quest quest, int[] ids)
+        {
+            foreach (int id in ids)
+            {
+                if (quest.Id.Contains((uint)id))
+                {
+                    foreach (int other in ids)
+                    {
+                        if (other != id && QuestManager.IsQuestComplete((ushort)other))
+                            return true;
+                    }
+                }
+            }
+            return false;
+        }
         
         private void UpdateQuestData(QuestData questData)
         {
@@ -144,30 +160,23 @@ namespace QuestTrackerReborn
                         continue;
                     }
                     
-                    // ARR "Call of the Wild" Tribal Alliance Quests
-                    if ((QuestManager.IsQuestComplete(67001) && (quest.Id.Contains(67002) || quest.Id.Contains(67003))) ||
-                        (QuestManager.IsQuestComplete(67002) && (quest.Id.Contains(67001) || quest.Id.Contains(67003))) ||
-                        (QuestManager.IsQuestComplete(67003) && (quest.Id.Contains(67001) || quest.Id.Contains(67002))) ||
-                    // YorHa "Heads or Tails"
-                        (QuestManager.IsQuestComplete(69256) && quest.Id.Contains(69257)) || 
-                        (QuestManager.IsQuestComplete(69257) && quest.Id.Contains(69256)) || 
-                    // Qitari "The First Stela"
-                        (QuestManager.IsQuestComplete(69336) && quest.Id.Contains(69337)) || 
-                        (QuestManager.IsQuestComplete(69337) && quest.Id.Contains(69336)) || 
-                    // Qitari "The Second Stela"
-                        (QuestManager.IsQuestComplete(69338) && quest.Id.Contains(69339)) || 
-                        (QuestManager.IsQuestComplete(69339) && quest.Id.Contains(69338)) || 
-                    // Qitari "The Third Stela"
-                        (QuestManager.IsQuestComplete(69340) && quest.Id.Contains(69341)) || 
-                        (QuestManager.IsQuestComplete(69341) && quest.Id.Contains(69340)) ||
-                    // An-Ill Conceived Venture
-                        (QuestManager.IsQuestComplete(66968) && quest.Id.Contains(66969) || quest.Id.Contains(66970)) ||
-                        (QuestManager.IsQuestComplete(66969) && quest.Id.Contains(66968) || quest.Id.Contains(66970)) ||
-                        (QuestManager.IsQuestComplete(66970) && quest.Id.Contains(66968) || quest.Id.Contains(66969)))
+                    if (// ARR "Call of the Wild" Alliance Quests
+                        IsVariantComplete(quest, [67001, 67002, 67003]) ||
+                        // YorHa "Heads or Tails"
+                        IsVariantComplete(quest, [69256, 69257]) ||
+                        // Qitari "The First Stela"
+                        IsVariantComplete(quest, [69336, 69337]) ||
+                        // Qitari "The Second Stela"
+                        IsVariantComplete(quest, [69338, 69339]) ||
+                        // Qitari "The Third Stela"
+                        IsVariantComplete(quest, [69340, 69341]) ||
+                        // An Ill-conceived Venture
+                        IsVariantComplete(quest, [66968, 66969, 66970])
+                       )
                     {
                         questData.Quests.Remove(quest);
                     }
-
+                    
                     if (IsQuestComplete(quest)) questData.NumComplete++;
 
                     quest.Hide = (configuration.DisplayOption == 1 && !IsQuestComplete(quest)) ||
