@@ -6,7 +6,7 @@ using Dalamud.Plugin;
 using Dalamud.Plugin.Services;
 using Newtonsoft.Json;
 
-namespace QuestTracker;
+namespace QuestTrackerReborn;
 
 public class DataConverter
 {

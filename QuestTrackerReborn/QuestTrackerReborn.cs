@@ -1,12 +1,12 @@
-﻿using Dalamud.Game.Command;
+using Dalamud.Game.Command;
 using Dalamud.Plugin;
 using Dalamud.Plugin.Services;
 
-namespace QuestTracker
+namespace QuestTrackerReborn
 {
     public sealed class Plugin : IDalamudPlugin
     {
-        public string Name => "Quest Tracker";
+        public string Name => "Quest Tracker Reborn";
 
         private const string CommandName = "/qt";
         
@@ -46,12 +46,12 @@ namespace QuestTracker
 
             CommandManager.AddHandler(CommandName, new CommandInfo(OnCommand)
             {
-                HelpMessage = "Opens the Quest Tracker"
+                HelpMessage = "Opens the Quest Tracker Reborn"
             });
             
             CommandManager.AddHandler(CommandNameAlt, new CommandInfo(OnCommand)
             {
-                HelpMessage = "Opens the Quest Tracker"
+                HelpMessage = "Opens the Quest Tracker Reborn"
             });
 
             PluginInterface.UiBuilder.Draw += DrawUI;

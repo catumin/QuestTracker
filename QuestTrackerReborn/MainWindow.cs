@@ -9,7 +9,7 @@ using Dalamud.Interface.Utility;
 using Dalamud.Interface.Windowing;
 using Lumina.Excel.Sheets;
 
-namespace QuestTracker
+namespace QuestTrackerReborn
 {
     class MainWindow : Window, IDisposable
     {
@@ -38,7 +38,7 @@ namespace QuestTracker
         private string searchText = "";
 
         public MainWindow(Plugin plugin, QuestDataManager questDataManager, Configuration configuration)
-            : base("Quest Tracker##main_window", ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse)
+            : base("Quest Tracker Reborn##main_window", ImGuiWindowFlags.NoScrollbar | ImGuiWindowFlags.NoScrollWithMouse)
         {
             this.plugin = plugin;
             this.questDataManager = questDataManager;
