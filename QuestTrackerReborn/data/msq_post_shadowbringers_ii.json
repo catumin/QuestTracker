@@ -1,0 +1,157 @@
+{
+  "Title": "Post-Shadowbringers Main Scenario Quests II",
+  "Quests": [
+    {
+      "Title": "Alisaie's Quest",
+      "Id": [
+        69543
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "The Wisdom of Allag",
+      "Id": [
+        69544
+      ],
+      "Area": "Azys Lla",
+      "Level": 80
+    },
+    {
+      "Title": "Reviving the Legacy",
+      "Id": [
+        69545
+      ],
+      "Area": "Azys Lla",
+      "Level": 80
+    },
+    {
+      "Title": "Forget Us Not",
+      "Id": [
+        69546
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "Like Master, Like Pupil",
+      "Id": [
+        69547
+      ],
+      "Area": "Limsa Lominsa Upper Decks",
+      "Level": 80
+    },
+    {
+      "Title": "The Admiral's Resolve",
+      "Id": [
+        69548
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 80
+    },
+    {
+      "Title": "The Search for Sicard",
+      "Id": [
+        69549
+      ],
+      "Area": "Limsa Lominsa Lower Decks",
+      "Level": 80
+    },
+    {
+      "Title": "On Rough Seas",
+      "Id": [
+        69550
+      ],
+      "Area": "Lower La Noscea",
+      "Level": 80
+    },
+    {
+      "Title": "The Great Ship Vylbrand",
+      "Id": [
+        69551
+      ],
+      "Area": "Command Room",
+      "Level": 80
+    },
+    {
+      "Title": "Futures Rewritten",
+      "Id": [
+        69552
+      ],
+      "Area": "Outer La Noscea",
+      "Level": 80
+    },
+    {
+      "Title": "Unto the Breach",
+      "Id": [
+        69594
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "Here Be Dragons",
+      "Id": [
+        69595
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Righteous Indignation",
+      "Id": [
+        69596
+      ],
+      "Area": "Azys Lla",
+      "Level": 80
+    },
+    {
+      "Title": "For Vengeance",
+      "Id": [
+        69597
+      ],
+      "Area": "Azys Lla",
+      "Level": 80
+    },
+    {
+      "Title": "The Flames of War",
+      "Id": [
+        69598
+      ],
+      "Area": "Azys Lla",
+      "Level": 80
+    },
+    {
+      "Title": "When the Dust Settles",
+      "Id": [
+        69599
+      ],
+      "Area": "Ul'dah - Steps of Nald",
+      "Level": 80
+    },
+    {
+      "Title": "The Company We Keep",
+      "Id": [
+        69600
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "On Official Business",
+      "Id": [
+        69601
+      ],
+      "Area": "The Fringes",
+      "Level": 80
+    },
+    {
+      "Title": "Death Unto Dawn",
+      "Id": [
+        69602
+      ],
+      "Area": "Lotus Stand",
+      "Level": 80
+    }
+  ]
+}

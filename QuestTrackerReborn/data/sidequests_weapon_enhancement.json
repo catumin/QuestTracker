@@ -1,0 +1,639 @@
+{
+  "Title": "Weapon Enhancement Sidequests",
+  "Categories": [
+    {
+      "Title": "Zodiac Weapons",
+      "Quests": [
+        {
+          "Title": "Up in Arms",
+          "Id": [
+            66971
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Trials of the Braves",
+          "Id": [
+            66972
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Celestial Radiance",
+          "Id": [
+            66998
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Star Light, Star Bright",
+          "Id": [
+            67000
+          ],
+          "Area": "Central Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "Mmmmmm, Soulglazed Relics",
+          "Id": [
+            65742
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Wherefore Art Thou, Zodiac",
+          "Id": [
+            65892
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "A Ponze of Flesh",
+          "Id": [
+            65893
+          ],
+          "Area": "Mor Dhona",
+          "Level": 50
+        },
+        {
+          "Title": "Labor of Love",
+          "Id": [
+            65894
+          ],
+          "Area": "Mor Dhona",
+          "Level": 50
+        },
+        {
+          "Title": "Method in His Malice",
+          "Id": [
+            65895
+          ],
+          "Area": "Central Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "A Treasured Mother",
+          "Id": [
+            65896
+          ],
+          "Area": "Mor Dhona",
+          "Level": 50
+        },
+        {
+          "Title": "His Dark Materia",
+          "Id": [
+            65897
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Rise and Shine",
+          "Id": [
+            66096
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "The Vital Title",
+          "Id": [
+            67823,
+            66097
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Anima Weapons",
+      "Quests": [
+        {
+          "Title": "An Unexpected Proposal",
+          "Id": [
+            67747
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        },
+        {
+          "Title": " Soul without Life",
+          "Id": [
+            67748
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " Toughening Up",
+          "Id": [
+            67749
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " Coming into Its Own",
+          "Id": [
+            67750
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " Finding Your Voice",
+          "Id": [
+            67820
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " A Dream Fulfilled",
+          "Id": [
+            67864
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " Future Proof",
+          "Id": [
+            67915
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": "Seeking Inspiration",
+          "Id": [
+            67916
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        },
+        {
+          "Title": "Cut from a Different Cloth",
+          "Id": [
+            67917
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        },
+        {
+          "Title": " Born Again Anima",
+          "Id": [
+            67932
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": "Some Assembly Required",
+          "Id": [
+            67933
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": "Body and Soul",
+          "Id": [
+            67934
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": "Words of Wisdom",
+          "Id": [
+            67939
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        },
+        {
+          "Title": " Best Friends Forever",
+          "Id": [
+            67940
+          ],
+          "Area": "Azys Lla",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "The Forbidden Land, Eureka",
+      "Quests": [
+        {
+          "Title": "And We Shall Call It Eureka",
+          "Id": [
+            68614
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Resistance Weapons",
+      "Quests": [
+        {
+          "Title": "Hail to the Queen",
+          "Id": [
+            69370
+          ],
+          "Area": "Kugane",
+          "Level": 80
+        },
+        {
+          "Title": "Path to the Past",
+          "Id": [
+            69371
+          ],
+          "Area": "Yanxia",
+          "Level": 80
+        },
+        {
+          "Title": "The Bozja Incident",
+          "Id": [
+            69372
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 80
+        },
+        {
+          "Title": " Fire in the Forge",
+          "Id": [
+            69380
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " Resistance Is (Not) Futile",
+          "Id": [
+            69381
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Where Eagles Nest",
+          "Id": [
+            69477
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "An Expected Engagement",
+          "Id": [
+            69479
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Lost No Longer",
+          "Id": [
+            69480
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "On the Offensive",
+          "Id": [
+            69481
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Time to Focus",
+          "Id": [
+            69482
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Third Time's the Charm",
+          "Id": [
+            69483
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Pressing Forward",
+          "Id": [
+            69484
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Signature Acquired",
+          "Id": [
+            69485
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "Picking Up the Trail",
+          "Id": [
+            69486
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "The Lady of Blades",
+          "Id": [
+            69487
+          ],
+          "Area": "Bozjan Southern Front",
+          "Level": 80
+        },
+        {
+          "Title": "A Sober Proposal",
+          "Id": [
+            69505
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " For Want of a Memory",
+          "Id": [
+            69506
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " The Will to Resist",
+          "Id": [
+            69507
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "A Sign of What's to Come",
+          "Id": [
+            69561
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Fit for a Queen",
+          "Id": [
+            69562
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "One Man's Relic",
+          "Id": [
+            69564
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Let Me Holster That for You",
+          "Id": [
+            69565
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "In the Queen's Image",
+          "Id": [
+            69573
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " Change of Arms",
+          "Id": [
+            69574
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "The Resistance Remembers",
+          "Id": [
+            69575
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " A New Path of Resistance",
+          "Id": [
+            69576
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "A New Playing Field",
+          "Id": [
+            69620
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Resolve Unshaken",
+          "Id": [
+            69621
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "Where Eagles Roost",
+          "Id": [
+            69628
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "Reaching Out",
+          "Id": [
+            69622
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "In Their Shadow",
+          "Id": [
+            69629
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "Renewed Focus",
+          "Id": [
+            69623
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "March of the Bloody Queen",
+          "Id": [
+            69624
+          ],
+          "Area": "Zadnor",
+          "Level": 80
+        },
+        {
+          "Title": "A Ruined Opportunity",
+          "Id": [
+            69631
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "What Dreams Are Made Of",
+          "Id": [
+            69632
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Spare Parts",
+          "Id": [
+            69633
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "Tell Me a Story",
+          "Id": [
+            69634
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "A Fond Memory",
+          "Id": [
+            69635
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": "A Done Deal",
+          "Id": [
+            69636
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        },
+        {
+          "Title": " Irresistible",
+          "Id": [
+            69637
+          ],
+          "Area": "Gangos",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Phantom Weapons",
+      "Quests": [
+        {
+          "Title": "Arcane Artistry",
+          "Id": [
+            70855
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": " Forging the Phantasmal",
+          "Id": [
+            70856
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": "Keeping the Old Ways Alive",
+          "Id": [
+            70916
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": "Aether, Aether, Everywhere",
+          "Id": [
+            70917
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": " Wrought by Hands Phantasmal",
+          "Id": [
+            70918
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+    "Title": "Timeworn Techniques",
+    "Id": [
+      70990
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  },
+  {
+    "Title": "In Pursuit of Perfection",
+    "Id": [
+      70991
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  },
+  {
+    "Title": "A Phantom Reborn",
+    "Id": [
+      70992
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  }
+      ]
+    }
+  ]
+}

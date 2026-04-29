@@ -1,0 +1,548 @@
+{
+  "Title": "Disciple of the Land Quests",
+  "Categories": [
+    {
+      "Title": "Miner Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Miner",
+          "Id": [
+            66133
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Pickaxe",
+          "Id": [
+            66135
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Know Thy Land",
+          "Id": [
+            66136
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "The Cutting Edge",
+          "Id": [
+            66138
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "Getting in Deep",
+          "Id": [
+            66139
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "Old Wisdom, New Ways",
+          "Id": [
+            66140
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "Water from Stone",
+          "Id": [
+            66141
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Obsidian Race",
+          "Id": [
+            66142
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Amethysts Are Forever",
+          "Id": [
+            66179
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "To Die For",
+          "Id": [
+            66180
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "Gulley of Woes",
+          "Id": [
+            66181
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Canyon of Regret",
+          "Id": [
+            66182
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Breaking New Ground",
+          "Id": [
+            67616
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Sellspade",
+          "Id": [
+            67617
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "The Same Vein",
+          "Id": [
+            67618
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "Digging Deeper",
+          "Id": [
+            67619
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "The Hole Truth",
+          "Id": [
+            67620
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Gift of the Gob",
+          "Id": [
+            68090
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Thick Skin",
+          "Id": [
+            68091
+          ],
+          "Area": "Idyllshire",
+          "Level": 63
+        },
+        {
+          "Title": "Pedal to the Metal",
+          "Id": [
+            68092
+          ],
+          "Area": "Idyllshire",
+          "Level": 65
+        },
+        {
+          "Title": "Where the Money Takes You",
+          "Id": [
+            68093
+          ],
+          "Area": "Idyllshire",
+          "Level": 68
+        },
+        {
+          "Title": "A Miner Success",
+          "Id": [
+            68094
+          ],
+          "Area": "Idyllshire",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Botanist Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Botanist",
+          "Id": [
+            65539
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Hatchet",
+          "Id": [
+            65744
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Sap for Smiles",
+          "Id": [
+            65540
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Weapons of a Feather",
+          "Id": [
+            65541
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Haste Makes Waste",
+          "Id": [
+            65542
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "Dressed to Harvest",
+          "Id": [
+            65543
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "Aromatic Aspirations",
+          "Id": [
+            65544
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "What Nature Giveth",
+          "Id": [
+            65545
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "A Feast to Say the Least",
+          "Id": [
+            65546
+          ],
+          "Area": "Gridania",
+          "Level": 35
+        },
+        {
+          "Title": "Crisis of Faith",
+          "Id": [
+            65547
+          ],
+          "Area": "Gridania",
+          "Level": 40
+        },
+        {
+          "Title": "Botanist in a Bind",
+          "Id": [
+            65548
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Seeds of Hope",
+          "Id": [
+            65549
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Call from the Clouds",
+          "Id": [
+            67584
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Onions of Life Bestowing",
+          "Id": [
+            67585
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "Two Nations, One Seed",
+          "Id": [
+            67586
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "Love for Harmony",
+          "Id": [
+            67587
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Seeds Know No Borders",
+          "Id": [
+            67588
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Never Meet Your Heroes",
+          "Id": [
+            68156
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "You Say Popoto, I Say...",
+          "Id": [
+            68157
+          ],
+          "Area": "Idyllshire",
+          "Level": 63
+        },
+        {
+          "Title": "Walking for Walker's",
+          "Id": [
+            68158
+          ],
+          "Area": "Idyllshire",
+          "Level": 65
+        },
+        {
+          "Title": "The White Death",
+          "Id": [
+            68159
+          ],
+          "Area": "Idyllshire",
+          "Level": 68
+        },
+        {
+          "Title": "Edgyth's Winning Streak",
+          "Id": [
+            68160
+          ],
+          "Area": "Idyllshire",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Fisher Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Fisher",
+          "Id": [
+            66643
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Fishing Rod",
+          "Id": [
+            66644
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Bigger Fish to Fry",
+          "Id": [
+            66645
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "The Princess and the Fish",
+          "Id": [
+            66646
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Every Fish Has a Silver Lining",
+          "Id": [
+            66647
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "A Fish in Hot Water",
+          "Id": [
+            66648
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "A Game of Cat and Fish",
+          "Id": [
+            66649
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "Like Fish Passing in the Night",
+          "Id": [
+            66650
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "A Fish out of Water",
+          "Id": [
+            66651
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 35
+        },
+        {
+          "Title": "Fishing in the Rain",
+          "Id": [
+            66652
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 40
+        },
+        {
+          "Title": "I Believe Fish Can Fly",
+          "Id": [
+            66653
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "So Long, and Thanks for All the Fish",
+          "Id": [
+            66654
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Plenty More Fish in the Sea",
+          "Id": [
+            67621
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Icepick Challenge",
+          "Id": [
+            67622
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "Invasion of the Supper Snatchers",
+          "Id": [
+            67623
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "One Man's Fish Is Another Man's Poison",
+          "Id": [
+            67624
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Carpe Diem",
+          "Id": [
+            67625
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Whither Wawalago Wanders",
+          "Id": [
+            68431
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "A Rousing Reunion",
+          "Id": [
+            68432
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 63
+        },
+        {
+          "Title": "Search for the Spawning Grounds",
+          "Id": [
+            68433
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 65
+        },
+        {
+          "Title": "Always a Bigger Fish",
+          "Id": [
+            68434
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 68
+        },
+        {
+          "Title": "Farewell, and Thanks for the Fish",
+          "Id": [
+            68435
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

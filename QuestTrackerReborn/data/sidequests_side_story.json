@@ -1,0 +1,430 @@
+{
+  "Title": "Side Story Quests",
+  "Categories": [
+    {
+      "Title": "Tales from the Calamity",
+      "Quests": [
+        {
+          "Title": " Remembering the Past",
+          "Id": [
+            70315
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": " Preserving the Future",
+          "Id": [
+            70316
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Delivery Moogle Quests",
+      "Quests": [
+        {
+          "Title": "Of Errant Epistles",
+          "Id": [
+            67017
+          ],
+          "Area": "Mor Dhona",
+          "Level": 50
+        },
+        {
+          "Title": "A Debt Unpaid",
+          "Id": [
+            67019
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Carline Memories",
+          "Id": [
+            67018
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Dream On",
+          "Id": [
+            67020
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Spirits Most Foul",
+          "Id": [
+            67067
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Dubious Dancing",
+          "Id": [
+            67068
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Stroking the Haft",
+          "Id": [
+            67069
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Thwack-a-Mole",
+          "Id": [
+            67021
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Sweet Words, Shadowy Dealings",
+          "Id": [
+            65569
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Captain of Her Heart",
+          "Id": [
+            67107
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Sudul Eht Nioj",
+          "Id": [
+            65572
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Of Siblings and Side-whiskers",
+          "Id": [
+            67109
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Death of a Mailman",
+          "Id": [
+            67106
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "All in the Family",
+          "Id": [
+            67112
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Duel Personalities",
+          "Id": [
+            67113
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Lone Survivor",
+          "Id": [
+            65777
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Guildmaster, Prelate, and Plot",
+          "Id": [
+            65778
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Past Is a Story We Never Tell",
+          "Id": [
+            67110
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Thanks for Your Support",
+          "Id": [
+            67108
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Hostages to Fortune",
+          "Id": [
+            67111
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "A Qiqirn Always Pays His Debts",
+          "Id": [
+            65779
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Hazy Professor",
+          "Id": [
+            65780
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Blues on Emerald Avenue",
+          "Id": [
+            65776
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Better Left Unfound",
+          "Id": [
+            66032
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Little Postmoogle That Could",
+          "Id": [
+            65898
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Scholasticate Quests",
+      "Quests": [
+        {
+          "Title": "Keeping the Ledger",
+          "Id": [
+            67405
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Contradicting Convictions",
+          "Id": [
+            67688
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Benefits of Consultation",
+          "Id": [
+            67689
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Balancing the Spear",
+          "Id": [
+            67690
+          ],
+          "Area": "Saint Endalim's Scholasticate",
+          "Level": 60
+        },
+        {
+          "Title": "More than Meets Her Eye",
+          "Id": [
+            67691
+          ],
+          "Area": "Saint Endalim's Scholasticate",
+          "Level": 60
+        },
+        {
+          "Title": "Divine Reckoning",
+          "Id": [
+            67743
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Through the Grapevine",
+          "Id": [
+            67744
+          ],
+          "Area": "Saint Endalim's Scholasticate",
+          "Level": 60
+        },
+        {
+          "Title": "A Familial Resemblance",
+          "Id": [
+            67745
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Finding Ulaa",
+          "Id": [
+            67746
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Student Body's Revenge",
+          "Id": [
+            67897
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Whipping Boy",
+          "Id": [
+            67898
+          ],
+          "Area": "Saint Endalim's Scholasticate",
+          "Level": 60
+        },
+        {
+          "Title": "Letters from No One",
+          "Id": [
+            67899
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Life and Lies of Father Saturnois",
+          "Id": [
+            67900
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Void Quests",
+      "Quests": [
+        {
+          "Title": "The Hero's Journey",
+          "Id": [
+            69522
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        },
+        {
+          "Title": "One Step Closer",
+          "Id": [
+            69523
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        },
+        {
+          "Title": "A Bounty of Hunters",
+          "Id": [
+            69524
+          ],
+          "Area": "Lakeland",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Tataru's Grand Endeavor",
+      "Quests": [
+        {
+          "Title": "Small Business, Big Dreams",
+          "Id": [
+            70119
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Soaring Profits",
+          "Id": [
+            70186
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "An Auspicious Opportunity",
+          "Id": [
+            70198
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Aggressive Expansion",
+          "Id": [
+            70297
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Forever in Our Hearts",
+          "Id": [
+            70298
+          ],
+          "Area": "Terncliff",
+          "Level": 90
+        },
+        {
+          "Title": "Treasured Bonds",
+          "Id": [
+            70348
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "More Precious than Gil",
+          "Id": [
+            70349
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

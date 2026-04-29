@@ -1,0 +1,471 @@
+{
+  "Title": "Kholusian Sidequests",
+  "Categories": [
+    {
+      "Title": "Eulmore",
+      "Quests": [
+        {
+          "Title": " My Heart Will (Not) Go On",
+          "Id": [
+            69052
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Near, Far, Wherever You Are",
+          "Id": [
+            69053
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " The Invisible Hand",
+          "Id": [
+            69054
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Scattered to the Winds",
+          "Id": [
+            69055
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " One Good Meal",
+          "Id": [
+            69056
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Little and Late",
+          "Id": [
+            69057
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Children of the Derelicts",
+          "Id": [
+            69058
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Rebuild, Reuse, Recycle",
+          "Id": [
+            69059
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": " Of Legacies Lost and Reclaimed",
+          "Id": [
+            69060
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": "Oh, Beehive Yourself",
+          "Id": [
+            69265
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": "Commercially Flyable",
+          "Id": [
+            69266
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": "A Ship on His Shoulder",
+          "Id": [
+            69267
+          ],
+          "Area": "Eulmore",
+          "Level": 70
+        },
+        {
+          "Title": "Yet Another Striking Opportunity",
+          "Id": [
+            69137
+          ],
+          "Area": "Eulmore",
+          "Level": 80
+        },
+        {
+          "Title": "Akadaemia Anyder",
+          "Id": [
+            69132
+          ],
+          "Area": "Eulmore",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Kholusia",
+      "Quests": [
+        {
+          "Title": " Before the Tide Comes",
+          "Id": [
+            68885
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Retaking Territory",
+          "Id": [
+            68886
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Clam to Die For",
+          "Id": [
+            68887
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Meating Long Overdue",
+          "Id": [
+            68888
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Redolent Refuse",
+          "Id": [
+            68889
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Feeling in the Belly",
+          "Id": [
+            68890
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Songstress of the Sea",
+          "Id": [
+            68891
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Witch of the Sea",
+          "Id": [
+            68892
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Following the Grain",
+          "Id": [
+            68893
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Bridge to the Other Side",
+          "Id": [
+            68894
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Drop of Sunshine",
+          "Id": [
+            68895
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Village of Woe",
+          "Id": [
+            68907
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Talos, Interrupted",
+          "Id": [
+            68908
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " The Cape in Bloom",
+          "Id": [
+            68909
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Wright for the Job",
+          "Id": [
+            68910
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Plankless Task",
+          "Id": [
+            68896
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Good, Honest Dirt",
+          "Id": [
+            69080
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Sisterly Concern",
+          "Id": [
+            69081
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Supplying Estimates",
+          "Id": [
+            69079
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Hobgob Smacker",
+          "Id": [
+            69074
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Timber for the Taking",
+          "Id": [
+            69076
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Fresh Off the Wing",
+          "Id": [
+            69078
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Fugitive of Fear",
+          "Id": [
+            69073
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Rising to Her Apology",
+          "Id": [
+            69077
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Small Nuisances",
+          "Id": [
+            69075
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Rocky Relationship",
+          "Id": [
+            69082
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Too Sweet to Eat",
+          "Id": [
+            69083
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Killer on the Loose",
+          "Id": [
+            69084
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " All for the Boom",
+          "Id": [
+            69085
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Distract and Rescue",
+          "Id": [
+            69086
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Beneath the Beard",
+          "Id": [
+            69087
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Short on Courage",
+          "Id": [
+            69088
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Knocking the Knockers",
+          "Id": [
+            69089
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Goggeo and Tholliet",
+          "Id": [
+            69090
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " With Ale Due Respect",
+          "Id": [
+            69091
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Brew as the Tholl Do",
+          "Id": [
+            69097
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Bringing the Nibbles",
+          "Id": [
+            69098
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " You Know the Words",
+          "Id": [
+            69099
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Disagreeable Dwarf",
+          "Id": [
+            69092
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Almost a Friend",
+          "Id": [
+            69093
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " A Practiced Greeting",
+          "Id": [
+            69094
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Learning to Lali-ho",
+          "Id": [
+            69095
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        },
+        {
+          "Title": " Ronitt to the Rescue",
+          "Id": [
+            69096
+          ],
+          "Area": "Kholusia",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

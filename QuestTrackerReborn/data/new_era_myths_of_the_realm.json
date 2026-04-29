@@ -1,0 +1,85 @@
+{
+  "Title": "Chronicles of a New Era - Myths of the Realm",
+  "Quests": [
+    {
+      "Title": "A Mission in Mor Dhona",
+      "Id": [
+        70072
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 90
+    },
+    {
+      "Title": "The Realm of the Gods",
+      "Id": [
+        70073
+      ],
+      "Area": "The Omphalos",
+      "Level": 90
+    },
+    {
+      "Title": "A Divine Dilemma",
+      "Id": [
+        70074
+      ],
+      "Area": "The Omphalos",
+      "Level": 90
+    },
+    {
+      "Title": "The Face of an Explorer",
+      "Id": [
+        70075
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 90
+    },
+    {
+      "Title": "Return to the Phantom Realm",
+      "Id": [
+        70202
+      ],
+      "Area": "Mor Dhona",
+      "Level": 90
+    },
+    {
+      "Title": "In Heavenly Company",
+      "Id": [
+        70203
+      ],
+      "Area": "The Omphalos",
+      "Level": 90
+    },
+    {
+      "Title": "Divine Nonintervention",
+      "Id": [
+        70204
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 90
+    },
+    {
+      "Title": "The Secret of the Twelve",
+      "Id": [
+        70205
+      ],
+      "Area": "South Shroud",
+      "Level": 90
+    },
+    {
+      "Title": "The Heart of the Myth",
+      "Id": [
+        70327
+      ],
+      "Area": "Mor Dhona",
+      "Level": 90
+    },
+    {
+      "Title": "Embraced by Gods",
+      "Id": [
+        70328
+      ],
+      "Area": "The Twelve's Embrace",
+      "Level": 90
+    }
+  ]
+}

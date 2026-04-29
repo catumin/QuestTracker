@@ -1,0 +1,287 @@
+{
+  "Title": "Pelupelu Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " An Intrepid New Enterprise",
+          "Id": [
+            70729
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": " A Tentative First Tour",
+          "Id": [
+            70730
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Earthenshire Awaits",
+          "Id": [
+            70731
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Recruitment Drive",
+          "Id": [
+            70732
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " A Guest from Across the Salt",
+          "Id": [
+            70733
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Partners in Pel",
+          "Id": [
+            70734
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " A Notion of Promotion",
+          "Id": [
+            70735
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " A Sackful of Memories",
+          "Id": [
+            70736
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Ferocious Foliage, Fearful Tourists",
+          "Id": [
+            70737
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Community Outreach in Kozanuakiy",
+          "Id": [
+            70738
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Preventative Measures",
+          "Id": [
+            70739
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Burden of Beasts",
+          "Id": [
+            70740
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Growing as a Guide",
+          "Id": [
+            70741
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Bag Your Pardon",
+          "Id": [
+            70742
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Thrilled to Be Here",
+          "Id": [
+            70743
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Canvassing in Kozama'uka",
+          "Id": [
+            70744
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Reed between the Lines",
+          "Id": [
+            70745
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " The Rudiments of Fiend Removal",
+          "Id": [
+            70746
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " The Nectar Collector",
+          "Id": [
+            70747
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Starting from Scrap",
+          "Id": [
+            70748
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Advisor vs. Predator",
+          "Id": [
+            70749
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Let Mobbie Be Your Guide",
+          "Id": [
+            70750
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " The Popularity of Punutiys",
+          "Id": [
+            70751
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Breath of Foul Air",
+          "Id": [
+            70752
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Big Bellies to Fill",
+          "Id": [
+            70753
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " The Hand That Feeds",
+          "Id": [
+            70754
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Born to Run Away",
+          "Id": [
+            70755
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Bird Meat's Back on the Menu",
+          "Id": [
+            70756
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " A Sympathetic Ear",
+          "Id": [
+            70757
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Worth the Weight",
+          "Id": [
+            70758
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " In Time for Lunch",
+          "Id": [
+            70759
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " His Swarm Enemy",
+          "Id": [
+            70760
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Seasoned Adventurer",
+          "Id": [
+            70761
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        },
+        {
+          "Title": " Animal Friendship",
+          "Id": [
+            70762
+          ],
+          "Area": "Kozama'uka",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

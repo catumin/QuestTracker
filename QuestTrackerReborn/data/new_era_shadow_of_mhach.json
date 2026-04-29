@@ -1,0 +1,61 @@
+{
+  "Title": "Chronicles of a New Era - The Shadow of Mhach",
+  "Quests": [
+    {
+      "Title": "Sky Pirates",
+      "Id": [
+        67740
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "To Rule the Skies",
+      "Id": [
+        67741
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 60
+    },
+    {
+      "Title": "The Weeping City",
+      "Id": [
+        67821
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 60
+    },
+    {
+      "Title": "Freedom for Our Skies",
+      "Id": [
+        67822
+      ],
+      "Area": "The Parrock",
+      "Level": 60
+    },
+    {
+      "Title": "Where Shadows Reign",
+      "Id": [
+        67909
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 60
+    },
+    {
+      "Title": "A Redbill Farewell",
+      "Id": [
+        67910
+      ],
+      "Area": "The Parrock",
+      "Level": 60
+    },
+    {
+      "Title": "Unidentified Flying Object",
+      "Id": [
+        67016
+      ],
+      "Area": "Idyllshire",
+      "Level": 60
+    }
+  ]
+}

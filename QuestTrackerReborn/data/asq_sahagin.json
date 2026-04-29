@@ -1,0 +1,295 @@
+{
+  "Title": "Sahagin Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": "They Came from the Deep",
+          "Id": [
+            66910
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 44
+        },
+        {
+          "Title": "Clutch and Kin",
+          "Id": [
+            66911
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "The Scarlet Bloodletter",
+          "Id": [
+            66912
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Watching the Spawn",
+          "Id": [
+            66913
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Like Clutchfather, Like Son",
+          "Id": [
+            66914
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": "Standard Procedure",
+          "Id": [
+            66916
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "A Taste for Paste",
+          "Id": [
+            66918
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Violence of the Clams",
+          "Id": [
+            66921
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Enemy at the Tidegates",
+          "Id": [
+            66917
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "A Quick Snip",
+          "Id": [
+            66920
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "A Crate-ful Response",
+          "Id": [
+            66923
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Skullduggery",
+          "Id": [
+            66924
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "A Killer Strategy",
+          "Id": [
+            66915
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Spawning Ground Salvation",
+          "Id": [
+            66919
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Wind from Their Sails",
+          "Id": [
+            66922
+          ],
+          "Area": "Western La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Move Along, Nothing to Heal Here",
+          "Id": [
+            66926
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Ain't Got Time to Breed",
+          "Id": [
+            66927
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Put a Shhhock in It",
+          "Id": [
+            66931
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Get a Lode of This",
+          "Id": [
+            66928
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Ballista Bust-up",
+          "Id": [
+            66929
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Better Ash than Blood",
+          "Id": [
+            66930
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "In the Shadow of the Moon",
+          "Id": [
+            66934
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Clutchfather Knows Best",
+          "Id": [
+            66932
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "A Nap Before Drowning",
+          "Id": [
+            66933
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Learn by Destroying",
+          "Id": [
+            66935
+          ],
+          "Area": "Western La Noscea",
+          "Level": 46
+        },
+        {
+          "Title": "Tines of the Trident",
+          "Id": [
+            66936
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "An Enthralling Engagement",
+          "Id": [
+            66938
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Reaving in a Hurry",
+          "Id": [
+            66940
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Shellfish Schemes",
+          "Id": [
+            66937
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Up in Shhhmoke",
+          "Id": [
+            66939
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "The Tail's the Best Part",
+          "Id": [
+            66941
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Unfair Trading",
+          "Id": [
+            66942
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Sea Scraps",
+          "Id": [
+            66943
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Plunder Fire",
+          "Id": [
+            66944
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Removing the Stain",
+          "Id": [
+            66945
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        }
+      ]
+    }
+  ]
+}

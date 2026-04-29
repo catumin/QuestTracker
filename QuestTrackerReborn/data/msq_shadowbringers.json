@@ -1,0 +1,853 @@
+{
+  "Title": "Shadowbringers Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "The Syrcus Trench",
+      "Id": [
+        68815
+      ],
+      "Area": "The Rising Stones",
+      "Level": 70
+    },
+    {
+      "Title": "City of the First",
+      "Id": [
+        68816
+      ],
+      "Area": "The Crystarium",
+      "Level": 70
+    },
+    {
+      "Title": "Travelers of Norvrandt",
+      "Id": [
+        68817
+      ],
+      "Area": "The Crystarium",
+      "Level": 70
+    },
+    {
+      "Title": "In Search of Alphinaud",
+      "Id": [
+        68818
+      ],
+      "Area": "The Ocular",
+      "Level": 70
+    },
+    {
+      "Title": "A Still Tide",
+      "Id": [
+        68819
+      ],
+      "Area": "Kholusia",
+      "Level": 70
+    },
+    {
+      "Title": "Open Arms, Closed Gate",
+      "Id": [
+        68820
+      ],
+      "Area": "Kholusia",
+      "Level": 70
+    },
+    {
+      "Title": "A Fickle Existence",
+      "Id": [
+        68821
+      ],
+      "Area": "Kholusia",
+      "Level": 70
+    },
+    {
+      "Title": "City of Final Pleasures",
+      "Id": [
+        68822
+      ],
+      "Area": "Kholusia",
+      "Level": 70
+    },
+    {
+      "Title": "Free to Sightsee",
+      "Id": [
+        68823
+      ],
+      "Area": "Eulmore",
+      "Level": 70
+    },
+    {
+      "Title": "A Taste of Honey",
+      "Id": [
+        68824
+      ],
+      "Area": "Eulmore",
+      "Level": 70
+    },
+    {
+      "Title": "A Blessed Instrument",
+      "Id": [
+        68825
+      ],
+      "Area": "Eulmore",
+      "Level": 70
+    },
+    {
+      "Title": "Emergent Splendor",
+      "Id": [
+        68826
+      ],
+      "Area": "Eulmore",
+      "Level": 70
+    },
+    {
+      "Title": "In Search of Alisaie",
+      "Id": [
+        68827
+      ],
+      "Area": "The Ocular",
+      "Level": 70
+    },
+    {
+      "Title": "City of the Mord",
+      "Id": [
+        68828
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "Working Off the Meal",
+      "Id": [
+        68829
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "A Desert Crossing",
+      "Id": [
+        68830
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "Following in Her Footprints",
+      "Id": [
+        68831
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "Culling Their Ranks",
+      "Id": [
+        68832
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "A Purchase of Fruit",
+      "Id": [
+        68833
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "The Time Left to Us",
+      "Id": [
+        68834
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "Tears on the Sand",
+      "Id": [
+        68835
+      ],
+      "Area": "Amh Araeng",
+      "Level": 70
+    },
+    {
+      "Title": "The Lightwardens",
+      "Id": [
+        68836
+      ],
+      "Area": "The Ocular",
+      "Level": 71
+    },
+    {
+      "Title": "Warrior of Darkness",
+      "Id": [
+        68837
+      ],
+      "Area": "Lakeland",
+      "Level": 71
+    },
+    {
+      "Title": "An Unwelcome Guest",
+      "Id": [
+        68838
+      ],
+      "Area": "The Crystarium",
+      "Level": 72
+    },
+    {
+      "Title": "The Crystarium's Resolve",
+      "Id": [
+        68839
+      ],
+      "Area": "The Crystarium",
+      "Level": 72
+    },
+    {
+      "Title": "Logistics of War",
+      "Id": [
+        68840
+      ],
+      "Area": "The Crystarium",
+      "Level": 72
+    },
+    {
+      "Title": "The Oracle of Light",
+      "Id": [
+        68841
+      ],
+      "Area": "Lakeland",
+      "Level": 72
+    },
+    {
+      "Title": "Il Mheg, the Faerie Kingdom",
+      "Id": [
+        68842
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "Sul Uin's Request",
+      "Id": [
+        68843
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "Ys Iala's Errand",
+      "Id": [
+        68844
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "Oul Sigun's Plea",
+      "Id": [
+        68845
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "Unto the Truth",
+      "Id": [
+        68846
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "Courting Cooperation",
+      "Id": [
+        68847
+      ],
+      "Area": "Il Mheg",
+      "Level": 72
+    },
+    {
+      "Title": "The Key to the Castle",
+      "Id": [
+        68848
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "A Visit to the Nu Mou",
+      "Id": [
+        68849
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "A Fitting Payment",
+      "Id": [
+        68850
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "Spore Sweeper",
+      "Id": [
+        68851
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "The Lawless Ones",
+      "Id": [
+        68852
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "The Elder's Answer",
+      "Id": [
+        68853
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "A Resounding Roar",
+      "Id": [
+        68854
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "Memento of a Friend",
+      "Id": [
+        68855
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "Acht-la Ormh Inn",
+      "Id": [
+        68856
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "The Wheel Turns",
+      "Id": [
+        68857
+      ],
+      "Area": "Il Mheg",
+      "Level": 73
+    },
+    {
+      "Title": "A Party Soon Divided",
+      "Id": [
+        68858
+      ],
+      "Area": "The Crystarium",
+      "Level": 74
+    },
+    {
+      "Title": "A Little Faith",
+      "Id": [
+        68859
+      ],
+      "Area": "Lakeland",
+      "Level": 74
+    },
+    {
+      "Title": "Into the Dark",
+      "Id": [
+        68860
+      ],
+      "Area": "Lakeland",
+      "Level": 74
+    },
+    {
+      "Title": "A Day in the Neighborhood",
+      "Id": [
+        68861
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "A Helping Hand",
+      "Id": [
+        68862
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "Lost but Not Forgotten",
+      "Id": [
+        68863
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "Saying Good-bye",
+      "Id": [
+        68864
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "Stirring Up Trouble",
+      "Id": [
+        68865
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "A Beeautiful Plan",
+      "Id": [
+        68866
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "An Unwanted Proposal",
+      "Id": [
+        68867
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "Put to the Proof",
+      "Id": [
+        68868
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 74
+    },
+    {
+      "Title": "Into the Wood",
+      "Id": [
+        68869
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Top of the Tree",
+      "Id": [
+        68870
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Look to the Stars",
+      "Id": [
+        68871
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Mi Casa, Toupasa",
+      "Id": [
+        68872
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Legend of the Not-so-hidden Temple",
+      "Id": [
+        68873
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "The Aftermath",
+      "Id": [
+        68874
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "In Good Faith",
+      "Id": [
+        68875
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "The Burden of Knowledge",
+      "Id": [
+        68876
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Bearing with It",
+      "Id": [
+        68877
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 75
+    },
+    {
+      "Title": "Out of the Wood",
+      "Id": [
+        68878
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 76
+    },
+    {
+      "Title": "When It Rains",
+      "Id": [
+        69142
+      ],
+      "Area": "The Crystarium",
+      "Level": 76
+    },
+    {
+      "Title": "Word from On High",
+      "Id": [
+        69143
+      ],
+      "Area": "Lakeland",
+      "Level": 76
+    },
+    {
+      "Title": "Small Favors",
+      "Id": [
+        69144
+      ],
+      "Area": "Lakeland",
+      "Level": 76
+    },
+    {
+      "Title": "The Best Way Out",
+      "Id": [
+        69145
+      ],
+      "Area": "The Crystarium",
+      "Level": 76
+    },
+    {
+      "Title": "Free Trade",
+      "Id": [
+        69146
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "The Trolley Problem",
+      "Id": [
+        69147
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "Rust and Ruin",
+      "Id": [
+        69148
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "On Track",
+      "Id": [
+        69149
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "Down for Maintenance",
+      "Id": [
+        69150
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "The Truth Hurts",
+      "Id": [
+        69151
+      ],
+      "Area": "Amh Araeng",
+      "Level": 76
+    },
+    {
+      "Title": "A Convenient Distraction",
+      "Id": [
+        69152
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "A Dirty Job",
+      "Id": [
+        69153
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "Have a Heart",
+      "Id": [
+        69154
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "Full Steam Ahead",
+      "Id": [
+        69155
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "Crossroads",
+      "Id": [
+        69156
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "A Fresh Start",
+      "Id": [
+        69157
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "More than a Hunch",
+      "Id": [
+        69158
+      ],
+      "Area": "Amh Araeng",
+      "Level": 77
+    },
+    {
+      "Title": "Return to Eulmore",
+      "Id": [
+        69166
+      ],
+      "Area": "The Crystarium",
+      "Level": 77
+    },
+    {
+      "Title": "A Feast of Lies",
+      "Id": [
+        69167
+      ],
+      "Area": "Kholusia",
+      "Level": 77
+    },
+    {
+      "Title": "Paradise Fallen",
+      "Id": [
+        69168
+      ],
+      "Area": "Eulmore",
+      "Level": 77
+    },
+    {
+      "Title": "The Ladder",
+      "Id": [
+        69169
+      ],
+      "Area": "Eulmore",
+      "Level": 78
+    },
+    {
+      "Title": "The View from Above",
+      "Id": [
+        69170
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "In Mt. Gulg's Shadow",
+      "Id": [
+        69171
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "A Gigantic Undertaking",
+      "Id": [
+        69172
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "Meet the Tholls",
+      "Id": [
+        69173
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "A-Digging We Will Go",
+      "Id": [
+        69174
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "The Duergar's Tewel",
+      "Id": [
+        69175
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "Rich Veins of Hope",
+      "Id": [
+        69176
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "That None Shall Ever Again",
+      "Id": [
+        69177
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "A Breath of Respite",
+      "Id": [
+        69178
+      ],
+      "Area": "Kholusia",
+      "Level": 78
+    },
+    {
+      "Title": "Extinguishing the Last Light",
+      "Id": [
+        69179
+      ],
+      "Area": "Kholusia",
+      "Level": 79
+    },
+    {
+      "Title": "Reassuring the Masses",
+      "Id": [
+        69180
+      ],
+      "Area": "The Crystarium",
+      "Level": 79
+    },
+    {
+      "Title": "In His Garden",
+      "Id": [
+        69181
+      ],
+      "Area": "The Crystarium",
+      "Level": 79
+    },
+    {
+      "Title": "The Unbroken Thread",
+      "Id": [
+        69182
+      ],
+      "Area": "Lakeland",
+      "Level": 79
+    },
+    {
+      "Title": "To Storm-tossed Seas",
+      "Id": [
+        69183
+      ],
+      "Area": "The Crystarium",
+      "Level": 79
+    },
+    {
+      "Title": "Waiting in the Depths",
+      "Id": [
+        69184
+      ],
+      "Area": "The Tempest",
+      "Level": 79
+    },
+    {
+      "Title": "City of the Ancients",
+      "Id": [
+        69185
+      ],
+      "Area": "The Tempest",
+      "Level": 79
+    },
+    {
+      "Title": "The Light of Inspiration",
+      "Id": [
+        69186
+      ],
+      "Area": "The Tempest",
+      "Level": 79
+    },
+    {
+      "Title": "The Illuminated Land",
+      "Id": [
+        69187
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    },
+    {
+      "Title": "The End of a World",
+      "Id": [
+        69188
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    },
+    {
+      "Title": "A Greater Purpose",
+      "Id": [
+        69189
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    },
+    {
+      "Title": "Shadowbringers",
+      "Id": [
+        69190
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    }
+  ]
+}

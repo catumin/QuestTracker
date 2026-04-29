@@ -1,122 +1,66 @@
 [
   {
-    "Title": "The Symbol of Love",
+    "Title": "The Icing on the Cake",
     "Id": [
-      70344
+      70861
     ],
-    "Area": "Gridania",
+    "Area": "Old Gridania",
     "Level": 15
   },
   {
-    "Title": "It's All about Heart",
+    "Title": "What Can Eye Do for You",
     "Id": [
-      70345
+      70980
     ],
-    "Area": "Gridania",
+    "Area": "Ul'dah",
     "Level": 15
   },
   {
-    "Title": "The Princesses and the Eggs",
+    "Title": "Backstage Chats",
     "Id": [
-      70346
+      70981
     ],
-    "Area": "Gridania",
+    "Area": "Ul'dah",
     "Level": 15
   },
   {
-    "Title": "Peatie in Pink",
+    "Title": "Dressed to Protect",
     "Id": [
-      70347
-    ],
-    "Area": "Central Shroud",
-    "Level": 15
-  },
-  {
-    "Title": "Fire Red, Beast Green",
-    "Id": [
-      70718
+      70857
     ],
     "Area": "Limsa Lominsa",
-    "Level": 30
-  },
-  {
-    "Title": "Festival Fan Frenzy",
-    "Id": [
-      70719
-    ],
-    "Area": "Eastern La Noscea",
-    "Level": 30
-  },
-  {
-    "Title": "Siblings Rising",
-    "Id": [
-      70301
-    ],
-    "Area": "Ul'dah",
     "Level": 15
   },
   {
-    "Title": "What Drives Us",
+    "Title": "An Adventurous Ambition",
     "Id": [
-      70302
+      70833
     ],
-    "Area": "Ul'dah",
+    "Area": "Limsa Lominsa",
     "Level": 15
   },
   {
-    "Title": "The Fright Stuff",
+    "Title": "A Light That Ever Burns",
     "Id": [
-      70321
+      70834
     ],
-    "Area": "Gridania",
+    "Area": "Lower La Noscea",
     "Level": 15
   },
   {
-    "Title": "A Charmed Life",
+    "Title": "Frights of Fancy",
     "Id": [
-      70322
+      70911
     ],
-    "Area": "Gridania",
+    "Area": "Old Gridania",
     "Level": 15
   },
   {
-    "Title": "The Aether-starved Ahriman",
+    "Title": "Dressed to Impresario",
     "Id": [
-      70720
+      70912
     ],
-    "Area": "Gridania",
-    "Level": 15
-  },
-  {
-    "Title": "All Fiends Sated on All Saints' Wake",
-    "Id": [
-      70721
-    ],
-    "Area": "Gridania",
-    "Level": 15
-  },
-  {
-    "Title": "Blue Starlight",
-    "Id": [
-      70317
-    ],
-    "Area": "Gridania",
-    "Level": 15
-  },
-  {
-    "Title": "Together at a Distance",
-    "Id": [
-      70318
-    ],
-    "Area": "Gridania",
-    "Level": 15
-  },
-  {
-    "Title": "Starlight Surprise",
-    "Id": [
-      70319
-    ],
-    "Area": "Gridania",
+    "Area": "Old Gridania",
     "Level": 15
   }
 ]

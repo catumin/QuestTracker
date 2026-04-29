@@ -1,0 +1,444 @@
+{
+  "Title": "Disciple of War Quests",
+  "Categories": [
+    {
+      "Title": "Gladiator Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Gladiator",
+          "Id": [
+            65821,
+            65789
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Gladius",
+          "Id": [
+            65822
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Kicking the Hornet's Nest",
+          "Id": [
+            65792
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "Ul'dah's Most Wanted",
+          "Id": [
+            65797,
+            65824
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "That Old Familiar Feeling",
+          "Id": [
+            65798
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "The Face of Thal",
+          "Id": [
+            65799
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "On Holy Ground",
+          "Id": [
+            65800
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "The Rematch",
+          "Id": [
+            65801
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Pugilist Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Pugilist",
+          "Id": [
+            66069,
+            66068
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Hora",
+          "Id": [
+            66089
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Harder than Rock",
+          "Id": [
+            66090
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "Burning Up the Quarter Malm",
+          "Id": [
+            66091,
+            66234
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "The Spirit Is Willing",
+          "Id": [
+            66094
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "Keeping the Spirit Alive",
+          "Id": [
+            66098
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "Star-crossed Rivals",
+          "Id": [
+            66102
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Return of the Holyfist",
+          "Id": [
+            66103
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Marauder Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Marauder",
+          "Id": [
+            65847,
+            65846
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Axe",
+          "Id": [
+            65848
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Axe in the Stone",
+          "Id": [
+            65849
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Wake of Destruction",
+          "Id": [
+            65850,
+            65851
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Brutal Strength",
+          "Id": [
+            65852
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "The Mountain That Strides",
+          "Id": [
+            65853
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "Bleeder of the Pack",
+          "Id": [
+            65854
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "Bringing Down the Mountain",
+          "Id": [
+            65855
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Lancer Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Lancer",
+          "Id": [
+            65668,
+            65559
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Spear",
+          "Id": [
+            65754
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Spear of the Fearless",
+          "Id": [
+            65583
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Courage of Stone",
+          "Id": [
+            65571,
+            65679
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "A Dangerous Proposition",
+          "Id": [
+            65591
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "Lance of Destiny",
+          "Id": [
+            65592
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "Questions and Lancers",
+          "Id": [
+            65974
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "Proof of Might",
+          "Id": [
+            65975
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Archer Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Archer",
+          "Id": [
+            65667,
+            65557
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Bow",
+          "Id": [
+            65755
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "A Matter of Perspective",
+          "Id": [
+            65582
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Training with Leih",
+          "Id": [
+            65670
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Violators Will Be Shot",
+          "Id": [
+            65604
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "To Catch a Poacher",
+          "Id": [
+            65606
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "Homecoming",
+          "Id": [
+            65607
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "The One That Got Away",
+          "Id": [
+            65612
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Rogue Quests",
+      "Quests": [
+        {
+          "Title": "My First Daggers",
+          "Id": [
+            65638
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Stabbers in Yer Fambles",
+          "Id": [
+            65640
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "A Dainty Dilemma",
+          "Id": [
+            65646
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Stray into the Shadows",
+          "Id": [
+            65662
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Stifled Screams",
+          "Id": [
+            65680
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "Slave to the Code",
+          "Id": [
+            65681
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Grinners in the Mist",
+          "Id": [
+            65682
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "Sweet Sorrows",
+          "Id": [
+            65684
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "Market for Death",
+          "Id": [
+            65690
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Cloying Victory",
+          "Id": [
+            65691
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        }
+      ]
+    }
+  ]
+}

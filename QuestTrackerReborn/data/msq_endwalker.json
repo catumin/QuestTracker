@@ -1,0 +1,869 @@
+{
+  "Title": "Endwalker Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "The Next Ship to Sail",
+      "Id": [
+        69893
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "Old Sharlayan, New to You",
+      "Id": [
+        69894
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "Hitting the Books",
+      "Id": [
+        69895
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "A Seat at the Last Stand",
+      "Id": [
+        69896
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "A Labyrinthine Descent",
+      "Id": [
+        69897
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "Glorified Ratcatcher",
+      "Id": [
+        69898
+      ],
+      "Area": "Labyrinthos",
+      "Level": 80
+    },
+    {
+      "Title": "Deeper into the Maze",
+      "Id": [
+        69899
+      ],
+      "Area": "Labyrinthos",
+      "Level": 80
+    },
+    {
+      "Title": "The Medial Circuit",
+      "Id": [
+        69900
+      ],
+      "Area": "Labyrinthos",
+      "Level": 80
+    },
+    {
+      "Title": "The Full Report, Warts and All",
+      "Id": [
+        69901
+      ],
+      "Area": "Labyrinthos",
+      "Level": 80
+    },
+    {
+      "Title": "A Guide of Sorts",
+      "Id": [
+        69902
+      ],
+      "Area": "Labyrinthos",
+      "Level": 80
+    },
+    {
+      "Title": "Estate Visitor",
+      "Id": [
+        69903
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "For Thavnair Bound",
+      "Id": [
+        69904
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 80
+    },
+    {
+      "Title": "On Low Tide",
+      "Id": [
+        69905
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "A Fisherman's Friend",
+      "Id": [
+        69906
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "House of Divinities",
+      "Id": [
+        69907
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "The Great Work",
+      "Id": [
+        69908
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "Shadowed Footsteps",
+      "Id": [
+        69909
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "A Boy's Errand",
+      "Id": [
+        69910
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "Tipping the Scale",
+      "Id": [
+        69911
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "The Satrap of Radz-at-Han",
+      "Id": [
+        69912
+      ],
+      "Area": "Thavnair",
+      "Level": 80
+    },
+    {
+      "Title": "In the Dark of the Tower",
+      "Id": [
+        69913
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 81
+    },
+    {
+      "Title": "The Jewel of Thavnair",
+      "Id": [
+        69914
+      ],
+      "Area": "Thavnair",
+      "Level": 81
+    },
+    {
+      "Title": "The Color of Joy",
+      "Id": [
+        69915
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 81
+    },
+    {
+      "Title": "Sound the Bell, School's In",
+      "Id": [
+        69916
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 82
+    },
+    {
+      "Title": "A Capital Idea",
+      "Id": [
+        69917
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 82
+    },
+    {
+      "Title": "Best of the Best",
+      "Id": [
+        69918
+      ],
+      "Area": "The Lochs",
+      "Level": 82
+    },
+    {
+      "Title": "A Frosty Reception",
+      "Id": [
+        69919
+      ],
+      "Area": "The Lochs",
+      "Level": 82
+    },
+    {
+      "Title": "Tracks in the Snow",
+      "Id": [
+        69920
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "How the Mighty Are Fallen",
+      "Id": [
+        69921
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "At the End of the Trail",
+      "Id": [
+        69922
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "A Way Forward",
+      "Id": [
+        69923
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "The Last Bastion",
+      "Id": [
+        69924
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "Personae non Gratae",
+      "Id": [
+        69925
+      ],
+      "Area": "Garlemald",
+      "Level": 82
+    },
+    {
+      "Title": "His Park Materials",
+      "Id": [
+        69926
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "No Good Deed",
+      "Id": [
+        69927
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "Alea Iacta Est",
+      "Id": [
+        69928
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "Strange Bedfellows",
+      "Id": [
+        69929
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "In from the Cold",
+      "Id": [
+        69930
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "Gateway of the Gods",
+      "Id": [
+        69931
+      ],
+      "Area": "Garlemald",
+      "Level": 83
+    },
+    {
+      "Title": "A Trip to the Moon",
+      "Id": [
+        69932
+      ],
+      "Area": "The Nethergate",
+      "Level": 83
+    },
+    {
+      "Title": "Sea of Sorrow",
+      "Id": [
+        69933
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 83
+    },
+    {
+      "Title": "The Martyr",
+      "Id": [
+        69934
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 83
+    },
+    {
+      "Title": "In Shadow's Wake",
+      "Id": [
+        69935
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Helping Hands",
+      "Id": [
+        69936
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "A Harey Situation",
+      "Id": [
+        69937
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "A Taste of the Moon",
+      "Id": [
+        69938
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Styled a Hero",
+      "Id": [
+        69939
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "All's Vale That Endsvale",
+      "Id": [
+        69940
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Back to Old Tricks",
+      "Id": [
+        69941
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Setting Things Straight",
+      "Id": [
+        69942
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Heart of the Matter",
+      "Id": [
+        69943
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Returning Home",
+      "Id": [
+        69944
+      ],
+      "Area": "Mare Lamentorum",
+      "Level": 84
+    },
+    {
+      "Title": "Skies Aflame",
+      "Id": [
+        69945
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 85
+    },
+    {
+      "Title": "The Blasphemy Unmasked",
+      "Id": [
+        69946
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 85
+    },
+    {
+      "Title": "Amidst the Apocalypse",
+      "Id": [
+        69947
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 85
+    },
+    {
+      "Title": "Beyond the Depths of Despair",
+      "Id": [
+        69948
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 85
+    },
+    {
+      "Title": "That We Might Live",
+      "Id": [
+        69949
+      ],
+      "Area": "Thavnair",
+      "Level": 85
+    },
+    {
+      "Title": "When All Hope Seems Lost",
+      "Id": [
+        69950
+      ],
+      "Area": "Thavnair",
+      "Level": 85
+    },
+    {
+      "Title": "Warm Hearts, Rekindled Hopes",
+      "Id": [
+        69951
+      ],
+      "Area": "Thavnair",
+      "Level": 85
+    },
+    {
+      "Title": "Simple Pleasures",
+      "Id": [
+        69952
+      ],
+      "Area": "Thavnair",
+      "Level": 85
+    },
+    {
+      "Title": "Under His Wing",
+      "Id": [
+        69953
+      ],
+      "Area": "Thavnair",
+      "Level": 85
+    },
+    {
+      "Title": "At World's End",
+      "Id": [
+        69954
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 85
+    },
+    {
+      "Title": "Return to the Crystarium",
+      "Id": [
+        69955
+      ],
+      "Area": "Radz-at-Han",
+      "Level": 86
+    },
+    {
+      "Title": "Hope Upon a Flower",
+      "Id": [
+        69956
+      ],
+      "Area": "The Crystarium",
+      "Level": 86
+    },
+    {
+      "Title": "Petalouda Hunt",
+      "Id": [
+        69957
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "In Search of Hermes",
+      "Id": [
+        69958
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Ponder, Warrant, Cherish, Welcome",
+      "Id": [
+        69959
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Lives Apart",
+      "Id": [
+        69960
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Their Greatest Contribution",
+      "Id": [
+        69961
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Aether to Aether",
+      "Id": [
+        69962
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "A Sentimental Gift",
+      "Id": [
+        69963
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Verdict and Execution",
+      "Id": [
+        69964
+      ],
+      "Area": "Elpis",
+      "Level": 86
+    },
+    {
+      "Title": "Travelers at the Crossroads",
+      "Id": [
+        69965
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "A Past, Not Yet Come to Pass",
+      "Id": [
+        69966
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Witness to the Spectacle",
+      "Id": [
+        69967
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Worthy of His Back",
+      "Id": [
+        69968
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "A Flower upon Your Return",
+      "Id": [
+        69969
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Hunger in the Garden",
+      "Id": [
+        69970
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Words without Sound",
+      "Id": [
+        69971
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Follow, Wander, Stumble, Listen",
+      "Id": [
+        69972
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Caging the Messenger",
+      "Id": [
+        69973
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "Thou Must Live, Die, and Know",
+      "Id": [
+        69974
+      ],
+      "Area": "Elpis",
+      "Level": 87
+    },
+    {
+      "Title": "As the Heavens Burn",
+      "Id": [
+        69975
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 88
+    },
+    {
+      "Title": "Outside Help",
+      "Id": [
+        69976
+      ],
+      "Area": "Garlemald",
+      "Level": 88
+    },
+    {
+      "Title": "Going Underground",
+      "Id": [
+        69977
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 88
+    },
+    {
+      "Title": "No Job Too Small",
+      "Id": [
+        69978
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Wise Guides",
+      "Id": [
+        69979
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Agriculture Shock",
+      "Id": [
+        69980
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Sage Council",
+      "Id": [
+        69981
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Hither and Yarns",
+      "Id": [
+        69982
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Once Forged",
+      "Id": [
+        69983
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Bonds of Adamant(ite)",
+      "Id": [
+        69984
+      ],
+      "Area": "Labyrinthos",
+      "Level": 88
+    },
+    {
+      "Title": "Her Children, One and All",
+      "Id": [
+        69985
+      ],
+      "Area": "Labyrinthos",
+      "Level": 89
+    },
+    {
+      "Title": "A Bold Decision",
+      "Id": [
+        69986
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 89
+    },
+    {
+      "Title": "Friends Gathered",
+      "Id": [
+        69987
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 89
+    },
+    {
+      "Title": "Unto the Heavens",
+      "Id": [
+        69988
+      ],
+      "Area": "Old Sharlayan",
+      "Level": 89
+    },
+    {
+      "Title": "A §trαnge New World",
+      "Id": [
+        69989
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "On Burdεned ωings",
+      "Id": [
+        69990
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "Α Test of Wιll",
+      "Id": [
+        69991
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "Roads Pαved││Sacri┣ice",
+      "Id": [
+        69992
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "F//εsh AbanΔon┨Δ",
+      "Id": [
+        69993
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "Where Kn∞wledge Leads",
+      "Id": [
+        69994
+      ],
+      "Area": "Ultima Thule",
+      "Level": 89
+    },
+    {
+      "Title": "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost",
+      "Id": [
+        69995
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    },
+    {
+      "Title": "┣┨̈//̈ No┨ΦounΔ•••",
+      "Id": [
+        69996
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    },
+    {
+      "Title": "Hello, World",
+      "Id": [
+        69997
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    },
+    {
+      "Title": "Forge Ahead",
+      "Id": [
+        69998
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    },
+    {
+      "Title": "You're Not Alone",
+      "Id": [
+        69999
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    },
+    {
+      "Title": "Endwalker",
+      "Id": [
+        70000
+      ],
+      "Area": "Ultima Thule",
+      "Level": 90
+    }
+  ]
+}

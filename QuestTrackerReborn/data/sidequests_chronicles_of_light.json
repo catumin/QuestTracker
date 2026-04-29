@@ -1,0 +1,84 @@
+{
+  "Title": "Chronicles of Light",
+  "Categories": [
+    {
+      "Title": "Tales of the Dragonsong War",
+      "Quests": [
+        {
+          "Title": "The Paths We Walk",
+          "Id": [
+            67011
+          ],
+          "Area": "Fortemps Manor",
+          "Level": 60
+        },
+        {
+          "Title": "The Oaths We Swear",
+          "Id": [
+            67012
+          ],
+          "Area": "Mor Dhona",
+          "Level": 60
+        },
+        {
+          "Title": "The Legacies We Leave",
+          "Id": [
+            67013
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 60
+        },
+        {
+          "Title": "The Triumphs We Share",
+          "Id": [
+            67014
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "The Burdens We Bear",
+          "Id": [
+            67015
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Tales from the Shadows",
+      "Quests": [
+        {
+          "Title": "One Final Journey",
+          "Id": [
+            69286
+          ],
+          "Area": "Mor Dhona",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Tales of Newfound Adventure",
+      "Quests": [
+        {
+          "Title": "Shadowed Pasts",
+          "Id": [
+            70196
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "Shadowed Pasts Once More",
+          "Id": [
+            70197
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

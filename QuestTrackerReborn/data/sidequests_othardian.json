@@ -1,0 +1,1140 @@
+{
+  "Title": "Othardian Sidequests",
+  "Categories": [
+    {
+      "Title": "The Ruby Sea",
+      "Quests": [
+        {
+          "Title": "A New Fishing Ex-spear-ience",
+          "Id": [
+            68458
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 61
+        },
+        {
+          "Title": "Up Where They Trade All Day in the Sun",
+          "Id": [
+            68676
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Devil's Cough",
+          "Id": [
+            68211
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Organ of Sight",
+          "Id": [
+            68210
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Price of Betrayal",
+          "Id": [
+            68209
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "First Line of Defense",
+          "Id": [
+            68212
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Ethereal Lights",
+          "Id": [
+            68213
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Protector of the Small",
+          "Id": [
+            68214
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "A Dance with Snakes",
+          "Id": [
+            68216
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Stranded",
+          "Id": [
+            68218
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "In Cold Blood",
+          "Id": [
+            68219
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Pirate Stew",
+          "Id": [
+            68220
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Soul's Remembrance",
+          "Id": [
+            68221
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Fight or Flight",
+          "Id": [
+            68222
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Pulling Double Booty",
+          "Id": [
+            68223
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Unfinished Business",
+          "Id": [
+            68224
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Girl with the Pearl Ring",
+          "Id": [
+            68225
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Family Affairs",
+          "Id": [
+            68226
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Our Most Venerated Ancestor",
+          "Id": [
+            68227
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Not Just Any Banquet",
+          "Id": [
+            68228
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Sword in the Stone",
+          "Id": [
+            68229
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Unmeasured Strength",
+          "Id": [
+            68230
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "Treasure Cove",
+          "Id": [
+            68231
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "The Mysterious Assailant",
+          "Id": [
+            68232
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 62
+        },
+        {
+          "Title": "An Unforgettable Taste",
+          "Id": [
+            68233
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Bond between Brothers",
+          "Id": [
+            68234
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Core of Life",
+          "Id": [
+            68235
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "All Good Deeds",
+          "Id": [
+            68236
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Fear Her Almighty Waves",
+          "Id": [
+            68237
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Fight for Survival",
+          "Id": [
+            68238
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A Daughter's Love",
+          "Id": [
+            68239
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Palace of Lost Souls",
+          "Id": [
+            68168
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Fathoms Below",
+          "Id": [
+            68240
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A Part of Your World",
+          "Id": [
+            68241
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Elixir of Life",
+          "Id": [
+            68242
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "The Two Princesses of Sui-no-Sato",
+          "Id": [
+            68243
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "In Search of Treasure",
+          "Id": [
+            68244
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A True Kojin of the Blue",
+          "Id": [
+            68247
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A Stroll along the Seabed",
+          "Id": [
+            68245
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Forgotten Saviors of the Sea",
+          "Id": [
+            68246
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Serpent Troubles",
+          "Id": [
+            68248
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "At the Mercy of Monsters",
+          "Id": [
+            68249
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A Dream to Remember",
+          "Id": [
+            68250
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Blessings of the Sea",
+          "Id": [
+            68251
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "In Health and in Sickness",
+          "Id": [
+            68252
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Plunder on High",
+          "Id": [
+            68253
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Sink or Swim",
+          "Id": [
+            68254
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Thrice Cursed",
+          "Id": [
+            68255
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "A Glimmer of Hope",
+          "Id": [
+            68256
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Rock Bottom",
+          "Id": [
+            68257
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Passing the Torch",
+          "Id": [
+            68258
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        },
+        {
+          "Title": "Up in Flames",
+          "Id": [
+            68259
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 63
+        }
+      ]
+    },
+    {
+      "Title": "Yanxia",
+      "Quests": [
+        {
+          "Title": "Something Smells",
+          "Id": [
+            68260
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Beyond the Powers of Stone",
+          "Id": [
+            68261
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Fly, My Pretties",
+          "Id": [
+            68264
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "The Toon Patrol",
+          "Id": [
+            68265
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Hungry Hog",
+          "Id": [
+            68267
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Tiger Blood",
+          "Id": [
+            68268
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Wolves and Weeds",
+          "Id": [
+            68269
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Whacking Day",
+          "Id": [
+            68266
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Not Safe for Children",
+          "Id": [
+            68262
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Gone Fishing",
+          "Id": [
+            68263
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Dearest Keiko",
+          "Id": [
+            68271
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Courage the Cowardly Lupin",
+          "Id": [
+            68272
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Kurobana vs. the Rice Sacks",
+          "Id": [
+            68273
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Kurobana vs. the Arrowheads",
+          "Id": [
+            68274
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Kurobana Holmes",
+          "Id": [
+            68275
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Perchance to Hanami",
+          "Id": [
+            68270
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Drink Responsibly",
+          "Id": [
+            68277
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "The Sound of Civilized Life",
+          "Id": [
+            68278
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Ring My Bell",
+          "Id": [
+            68279
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Not Just Any Vase",
+          "Id": [
+            68280
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Criminal Phrenology",
+          "Id": [
+            68281
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "By Our Powers Combined",
+          "Id": [
+            68282
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Gyorin the Namazu",
+          "Id": [
+            68284
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "No Wealth Like Mineral Wealth",
+          "Id": [
+            68285
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Fresh Flesh",
+          "Id": [
+            68286
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Show Me the New Money",
+          "Id": [
+            68287
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Amber Alert",
+          "Id": [
+            68283
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Kurobana vs. Gyorin",
+          "Id": [
+            68276
+          ],
+          "Area": "Yanxia",
+          "Level": 64
+        },
+        {
+          "Title": "Assistants Anonymous",
+          "Id": [
+            68340
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "The Rainbow Collection",
+          "Id": [
+            68341
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "From the Bottom of My Gut",
+          "Id": [
+            68342
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "Forgotten Resolve",
+          "Id": [
+            68343
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "Wine for the Road",
+          "Id": [
+            68344
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "An Eye for an Emblem",
+          "Id": [
+            68345
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "Heart of Iron",
+          "Id": [
+            68346
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        },
+        {
+          "Title": "A View to a Spill",
+          "Id": [
+            68347
+          ],
+          "Area": "Yanxia",
+          "Level": 67
+        }
+      ]
+    },
+    {
+      "Title": "The Azim Steppe",
+      "Quests": [
+        {
+          "Title": "Silent Banquet",
+          "Id": [
+            68288
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Who Needs Words",
+          "Id": [
+            68289
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Rip-off Reunion",
+          "Id": [
+            68290
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Merchant for a Day",
+          "Id": [
+            68291
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "You Buuz, You Lose",
+          "Id": [
+            68292
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Fishing for Customers",
+          "Id": [
+            68293
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Purbol Rain",
+          "Id": [
+            68294
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Stranger Danger",
+          "Id": [
+            68295
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Words Are Very Unnecessary",
+          "Id": [
+            68296
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Words Are Trivial",
+          "Id": [
+            68297
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Words Are Meaningless",
+          "Id": [
+            68298
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Enjoy the Silence",
+          "Id": [
+            68299
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Oh Matron",
+          "Id": [
+            68300
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "A Dicey Situation",
+          "Id": [
+            68301
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Absolute Faith",
+          "Id": [
+            68302
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Silence of the Lambs",
+          "Id": [
+            68303
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Keeping the Faith",
+          "Id": [
+            68304
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Tent That Rocked",
+          "Id": [
+            68305
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Sacred Sweeping",
+          "Id": [
+            68306
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Sheep Snatcher",
+          "Id": [
+            68307
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "And Dzo It Goes",
+          "Id": [
+            68308
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "Shop till the Warrior of Light Drops",
+          "Id": [
+            68309
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "The Judgment",
+          "Id": [
+            68310
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "A Warm Welcome",
+          "Id": [
+            68311
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "The Fingers of Azim",
+          "Id": [
+            68312
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "The Ideal Budugan Warrior",
+          "Id": [
+            68313
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "The Lights That Guide Us Home",
+          "Id": [
+            68314
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 65
+        },
+        {
+          "Title": "The World without Her",
+          "Id": [
+            68315
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Spoils of War",
+          "Id": [
+            68316
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Broken Flowers",
+          "Id": [
+            68317
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Forty Years and Counting",
+          "Id": [
+            68318
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Chasing Rainbows",
+          "Id": [
+            68319
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "The Tournament",
+          "Id": [
+            68320
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "The Strongest among Us",
+          "Id": [
+            68321
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Welcome to the Family",
+          "Id": [
+            68322
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Brainy Bears",
+          "Id": [
+            68323
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Child's Play",
+          "Id": [
+            68324
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Dastardly Diremites",
+          "Id": [
+            68325
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Nhaama's Sweet Embrace",
+          "Id": [
+            68326
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Mauci of the Seven Worries",
+          "Id": [
+            68327
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Watch and Learn",
+          "Id": [
+            68328
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "The Power of the Fist",
+          "Id": [
+            68329
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Do or Die",
+          "Id": [
+            68330
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Hungry Like the Wolf",
+          "Id": [
+            68331
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Ibakha Dreams of Birds",
+          "Id": [
+            68332
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "The Melody of Ceol Aen",
+          "Id": [
+            68333
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Food Glorious Food",
+          "Id": [
+            68334
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Spelunker of Light",
+          "Id": [
+            68335
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Wouldn't Hurt a Fly",
+          "Id": [
+            68336
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Honor in Victory",
+          "Id": [
+            68337
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "A Sheep to Fly For",
+          "Id": [
+            68338
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        },
+        {
+          "Title": "Steppe of Hard Knocks",
+          "Id": [
+            68339
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 66
+        }
+      ]
+    }
+  ]
+}

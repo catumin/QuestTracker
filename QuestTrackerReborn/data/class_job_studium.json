@@ -1,0 +1,331 @@
+{
+  "Title": "Studium Quests",
+  "Categories": [
+    {
+      "Title": "Faculty of Archaeology Quests",
+      "Quests": [
+        {
+          "Title": "Professor Rurusha's New Friend",
+          "Id": [
+            69668
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "The Dormant Dhyata",
+          "Id": [
+            69669
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Gears of Gold",
+          "Id": [
+            69670
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "Rubbished Research",
+          "Id": [
+            69671
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "Boric's Choice",
+          "Id": [
+            69672
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "A Friend in Need",
+          "Id": [
+            69673
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 88
+        },
+        {
+          "Title": "Wayback Machine",
+          "Id": [
+            69674
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Faculty of Astronomy Quests",
+      "Quests": [
+        {
+          "Title": "In Search of the Azure Star",
+          "Id": [
+            69675
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "The World without You",
+          "Id": [
+            69676
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Poetry Recital",
+          "Id": [
+            69677
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "One Step Forward",
+          "Id": [
+            69678
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "A Ten-year Promise",
+          "Id": [
+            69679
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "An Astronomical Growth",
+          "Id": [
+            69680
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 88
+        },
+        {
+          "Title": "The Promised Star",
+          "Id": [
+            69681
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Faculty of Medicine Quests",
+      "Quests": [
+        {
+          "Title": "Perfectly Awful",
+          "Id": [
+            69682
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Make It Sweeter",
+          "Id": [
+            69683
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Remember the Texture",
+          "Id": [
+            69684
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "Aroma Is Key",
+          "Id": [
+            69685
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "Long Live the Gourmet",
+          "Id": [
+            69686
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "Perfectly Delectable",
+          "Id": [
+            69687
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 88
+        },
+        {
+          "Title": "Sharlayan Cuisine",
+          "Id": [
+            69688
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Faculty of Anthropology Quests",
+      "Quests": [
+        {
+          "Title": "Cultured Pursuits",
+          "Id": [
+            69689
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Cooking Up a Culture",
+          "Id": [
+            69690
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "The Culture of Ceruleum",
+          "Id": [
+            69691
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "The Culture of Carrots",
+          "Id": [
+            69692
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "Hinageshi in Hingashi",
+          "Id": [
+            69693
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "The Culture of the Past",
+          "Id": [
+            69694
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 88
+        },
+        {
+          "Title": "The Culture of Love",
+          "Id": [
+            69695
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Faculty of Aetherology Quests",
+      "Quests": [
+        {
+          "Title": "Fear the Thesis",
+          "Id": [
+            69696
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Go with the Flow",
+          "Id": [
+            69697
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Data across the Decades",
+          "Id": [
+            69698
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "History Lesson",
+          "Id": [
+            69699
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "The Wandering Whale",
+          "Id": [
+            69700
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 85
+        },
+        {
+          "Title": "Fish Time Forgot",
+          "Id": [
+            69701
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 88
+        },
+        {
+          "Title": "Pastures New",
+          "Id": [
+            69702
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Studium Quests",
+      "Quests": [
+        {
+          "Title": "The Faculty",
+          "Id": [
+            70009
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "The Meeting of Minds",
+          "Id": [
+            70010
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "Title": "Hildibrand Sidequests",
+  "Categories": [
+    {
+      "Title": "Hildibrand Adventures",
+      "Quests": [
+        {
+          "Title": "The Rise and Fall of Gentlemen",
+          "Id": [
+            66740
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Back in the Saddle",
+          "Id": [
+            66741
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "After Her Own Heart",
+          "Id": [
+            66742
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Immaculate Deception",
+          "Id": [
+            66743
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Science of Deduction",
+          "Id": [
+            66851
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "The Hammer",
+          "Id": [
+            66852
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "Manderville Men",
+          "Id": [
+            66853
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "The Three Collectors",
+          "Id": [
+            66854
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "The Business of Betrothal",
+          "Id": [
+            66974
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "A Burst of Inspiration",
+          "Id": [
+            66975
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Seeds of Rebellion",
+          "Id": [
+            66976
+          ],
+          "Area": "Western La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "A Case of Indecency",
+          "Id": [
+            66977
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Eight-armed and Dangerous",
+          "Id": [
+            65702
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "What Price Victory",
+          "Id": [
+            65738
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Trouble with Truffles",
+          "Id": [
+            65739
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Coliseum Conundrum",
+          "Id": [
+            65740
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Shades of Sil'dih",
+          "Id": [
+            66026
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Sibling Strife",
+          "Id": [
+            66027
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "Beneath the Mask",
+          "Id": [
+            66028
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Truths Untold",
+          "Id": [
+            66029
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Her Last Vow",
+          "Id": [
+            66038
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Further Hildibrand Adventures",
+      "Quests": [
+        {
+          "Title": "A Gentleman Falls, Rather than Flies",
+          "Id": [
+            67762
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Don't Call It a Comeback",
+          "Id": [
+            67763
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 60
+        },
+        {
+          "Title": "The Gigi Situation",
+          "Id": [
+            67764
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Measure of a Mammet",
+          "Id": [
+            67765
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "A Gazebo to Call Our Own",
+          "Id": [
+            67905
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Don't Trust Anyone over Sixty",
+          "Id": [
+            67906
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        },
+        {
+          "Title": "The Proud and the Pointy-eyed",
+          "Id": [
+            67907
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "If I Could Turn Back Time",
+          "Id": [
+            67908
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Even Further Hildibrand Adventures",
+      "Quests": [
+        {
+          "Title": "A Hingan Tale: Nashu Goes East",
+          "Id": [
+            68544
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Life Imitates Art Imitates Life",
+          "Id": [
+            68556
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Of Wolves and Gentlemen",
+          "Id": [
+            68557
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 70
+        },
+        {
+          "Title": "In the Eye of the Hingan",
+          "Id": [
+            68630
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Blade Mislaid",
+          "Id": [
+            68631
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Black Heart Beneath",
+          "Id": [
+            68686
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Good Swords, Good Dogs",
+          "Id": [
+            68687
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Past Is Never Past",
+          "Id": [
+            68703
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Don't Do the Dewprism",
+          "Id": [
+            68704
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Somehow Further Hildibrand Adventures",
+      "Quests": [
+        {
+          "Title": "The Sleeping Gentleman",
+          "Id": [
+            70078
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "A Soulful Reunion",
+          "Id": [
+            70079
+          ],
+          "Area": "Lakeland",
+          "Level": 90
+        },
+        {
+          "Title": "Lunar Conspiracy",
+          "Id": [
+            70177
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "The Imperfect Gentleman",
+          "Id": [
+            70178
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 90
+        },
+        {
+          "Title": "The Spectacle of Inspection",
+          "Id": [
+            70254
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "Generational Bonding",
+          "Id": [
+            70255
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        },
+        {
+          "Title": "By Agents Unknown",
+          "Id": [
+            70290
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "Not from Around Here",
+          "Id": [
+            70291
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        },
+        {
+          "Title": "Of Duplicity and Duplication",
+          "Id": [
+            70335
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "Gentlemen at Heart",
+          "Id": [
+            70336
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Manderville Weapons",
+      "Quests": [
+        {
+          "Title": " Make It a Manderville",
+          "Id": [
+            70188
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " Make Another Manderville",
+          "Id": [
+            70189
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " Well-oiled",
+          "Id": [
+            70261
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " The Next Mander-level",
+          "Id": [
+            70262
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " A Spirited Reforging",
+          "Id": [
+            70307
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " In Need of Adjustment",
+          "Id": [
+            70308
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " Resonating with Perfection",
+          "Id": [
+            70342
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": " Positively Mandervillous",
+          "Id": [
+            70343
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Inconceivably Further Hildibrand Adventures",
+      "Quests": [
+        {
+          "Title": "The Case of the Displaced Inspector",
+          "Id": [
+            70728
+          ],
+          "Area": "Tuliyollal",
+          "Level": 100
+        },
+        {
+          "Title": "Wizened Testimony",
+          "Id": [
+            70831
+          ],
+          "Area": "Solution Nine",
+          "Level": 100
+        },
+        {
+          "Title": "The Case of the Fiendish Fugitives",
+          "Id": [
+            70832
+          ],
+          "Area": "Shrouded Laboratory",
+          "Level": 100
+        },
+        {
+          "Title": "A Vandal in the Wild",
+          "Id": [
+            70914
+          ],
+          "Area": "Solution Nine",
+          "Level": 100
+        },
+        {
+          "Title": "On the Trail of Destruction",
+          "Id": [
+            70915
+          ],
+          "Area": "Shaaloani",
+          "Level": 100
+        },
+        {
+    "Title": "A Need for Speed",
+    "Id": [
+      70982
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "Meteorites and Meteor-wrongs",
+    "Id": [
+      70983
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  }
+      ]
+    }
+  ]
+}

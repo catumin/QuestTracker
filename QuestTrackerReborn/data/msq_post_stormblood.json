@@ -1,0 +1,325 @@
+{
+  "Title": "Post-Stormblood Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Arenvald's Adventure",
+      "Id": [
+        68498
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 70
+    },
+    {
+      "Title": "The Darkness Below",
+      "Id": [
+        68499
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 70
+    },
+    {
+      "Title": "The Mad King's Trove",
+      "Id": [
+        68500
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "The Butcher's Blood",
+      "Id": [
+        68501
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "Echoes of an Echo",
+      "Id": [
+        68502
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "A Sultana's Strings",
+      "Id": [
+        68503
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "A Sultana's Duty",
+      "Id": [
+        68504
+      ],
+      "Area": "Ul'dah",
+      "Level": 70
+    },
+    {
+      "Title": "A Sultana's Resolve",
+      "Id": [
+        68505
+      ],
+      "Area": "The Gold Saucer",
+      "Level": 70
+    },
+    {
+      "Title": "Securing the Saltery",
+      "Id": [
+        68506
+      ],
+      "Area": "The Waking Sands",
+      "Level": 70
+    },
+    {
+      "Title": "A Blissful Arrival",
+      "Id": [
+        68507
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "Return of the Bull",
+      "Id": [
+        68508
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "Tidings from the East",
+      "Id": [
+        68558
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 70
+    },
+    {
+      "Title": "The Sword in the Store",
+      "Id": [
+        68559
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Hope on the Waves",
+      "Id": [
+        68560
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Elation and Trepidation",
+      "Id": [
+        68561
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    },
+    {
+      "Title": "Storm on the Horizon",
+      "Id": [
+        68562
+      ],
+      "Area": "Yanxia",
+      "Level": 70
+    },
+    {
+      "Title": "His Forgotten Home",
+      "Id": [
+        68563
+      ],
+      "Area": "The Doman Enclave",
+      "Level": 70
+    },
+    {
+      "Title": "A Guilty Conscience",
+      "Id": [
+        68564
+      ],
+      "Area": "Yanxia",
+      "Level": 70
+    },
+    {
+      "Title": "Rise of a New Sun",
+      "Id": [
+        68565
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "Gosetsu and Tsuyu",
+      "Id": [
+        68606
+      ],
+      "Area": "Ruby Bazaar Offices",
+      "Level": 70
+    },
+    {
+      "Title": "Gone Like the Morning Dew",
+      "Id": [
+        68607
+      ],
+      "Area": "The Doman Enclave",
+      "Level": 70
+    },
+    {
+      "Title": "Fruits of Her Labor",
+      "Id": [
+        68608
+      ],
+      "Area": "Yanxia",
+      "Level": 70
+    },
+    {
+      "Title": "Conscripts and Contingencies",
+      "Id": [
+        68609
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "The Primary Agreement",
+      "Id": [
+        68610
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "Under the Moonlight",
+      "Id": [
+        68611
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "Emissary of the Dawn",
+      "Id": [
+        68612
+      ],
+      "Area": "The Rising Stones",
+      "Level": 70
+    },
+    {
+      "Title": "Sisterly Act",
+      "Id": [
+        68679
+      ],
+      "Area": "The Rising Stones",
+      "Level": 70
+    },
+    {
+      "Title": "Feel the Burn",
+      "Id": [
+        68680
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "Shadows in the Empire",
+      "Id": [
+        68681
+      ],
+      "Area": "The Doman Enclave",
+      "Level": 70
+    },
+    {
+      "Title": "A Power in Slumber",
+      "Id": [
+        68682
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "The Will of the Moon",
+      "Id": [
+        68683
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 70
+    },
+    {
+      "Title": "The Call",
+      "Id": [
+        68684
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 70
+    },
+    {
+      "Title": "Prelude in Violet",
+      "Id": [
+        68685
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "Soul Searching",
+      "Id": [
+        68715
+      ],
+      "Area": "The Rising Stones",
+      "Level": 70
+    },
+    {
+      "Title": "A Defector's Tidings",
+      "Id": [
+        68716
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 70
+    },
+    {
+      "Title": "Seiryu's Wall",
+      "Id": [
+        68717
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "Parley on the Front Lines",
+      "Id": [
+        68718
+      ],
+      "Area": "Kienkan",
+      "Level": 70
+    },
+    {
+      "Title": "The Face of War",
+      "Id": [
+        68719
+      ],
+      "Area": "Alliance Headquarters",
+      "Level": 70
+    },
+    {
+      "Title": "A Brief Reprieve",
+      "Id": [
+        68720
+      ],
+      "Area": "The Rising Stones",
+      "Level": 70
+    },
+    {
+      "Title": "A Requiem for Heroes",
+      "Id": [
+        68721
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    }
+  ]
+}

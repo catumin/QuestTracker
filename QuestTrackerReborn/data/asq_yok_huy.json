@@ -1,0 +1,288 @@
+{
+  "Title": "Yok Huy Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " Frosty Neighbors",
+          "Id": [
+            70866
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Still as Stone",
+          "Id": [
+            70867
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Buried Memories",
+          "Id": [
+            70868
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " The Pact",
+          "Id": [
+            70869
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Forged in Corn",
+          "Id": [
+            70870
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " With High Spirits",
+          "Id": [
+            70871
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " Snow on the Mountain",
+          "Id": [
+            70872
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " A Work of Cart",
+          "Id": [
+            70873
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Will Work for Supplies",
+          "Id": [
+            70874
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Getting a Glow On",
+          "Id": [
+            70875
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Hold My Hand Warmers",
+          "Id": [
+            70876
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " For a Goods Cause",
+          "Id": [
+            70877
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Happiness Is a Warm Poncho",
+          "Id": [
+            70878
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Worth Their Salt",
+          "Id": [
+            70879
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Tradition for Trade",
+          "Id": [
+            70880
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " A Few Tools Short of a Toolbox",
+          "Id": [
+            70881
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Romanced by the Stone",
+          "Id": [
+            70882
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Every Last Pebble",
+          "Id": [
+            70883
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Trail Fix",
+          "Id": [
+            70884
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Working Stew Hard",
+          "Id": [
+            70885
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Snack in Hand",
+          "Id": [
+            70886
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Seasoned Stories",
+          "Id": [
+            70887
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Larder for the Long Term",
+          "Id": [
+            70888
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Table for Too Few",
+          "Id": [
+            70889
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " I Want to Trade My Icicle",
+          "Id": [
+            70890
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Larder Logistics",
+          "Id": [
+            70891
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " The Weight of Generosity",
+          "Id": [
+            70892
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " A Growing Field",
+          "Id": [
+            70893
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " The Crystals' Favor",
+          "Id": [
+            70894
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Big Mountain, Little Climbers",
+          "Id": [
+            70895
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Scouring for Flowers",
+          "Id": [
+            70896
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " A Rock-solid Repair Job",
+          "Id": [
+            70897
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " Mad about Brew",
+          "Id": [
+            70898
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        },
+        {
+          "Title": " A Feast of Indecision",
+          "Id": [
+            70899
+          ],
+          "Area": "Urqopacha",
+          "Level": 90
+        }
+      ]
+    }
+  ],
+  "Quests": []
+}

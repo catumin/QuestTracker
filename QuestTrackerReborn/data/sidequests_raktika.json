@@ -1,0 +1,378 @@
+{
+  "Title": "Rak'tika Sidequests",
+  "Categories": [
+    {
+      "Title": "The Rak'tika Greatwood",
+      "Quests": [
+        {
+          "Title": " Barking Up the Right Tree",
+          "Id": [
+            68976
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Plans Gone Awry",
+          "Id": [
+            68977
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Like Pulling Teeth",
+          "Id": [
+            68978
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Tea Time",
+          "Id": [
+            68979
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " What We Do for Family",
+          "Id": [
+            68980
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " In His Memory",
+          "Id": [
+            68981
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Pick Their Poison",
+          "Id": [
+            68982
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Worth a Candle",
+          "Id": [
+            68983
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " You're a Gem",
+          "Id": [
+            68985
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Oh, Snap",
+          "Id": [
+            68986
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Disturbing the Peace",
+          "Id": [
+            68987
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Paved with Good Intentions",
+          "Id": [
+            68984
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Out of Place",
+          "Id": [
+            68988
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " From the Heart",
+          "Id": [
+            68989
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Special Delivery",
+          "Id": [
+            68990
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " An Express Delivery",
+          "Id": [
+            68991
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " The Great Deceiver",
+          "Id": [
+            69192
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Slither Along",
+          "Id": [
+            69193
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Snake the Lead",
+          "Id": [
+            69194
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Snakes in the Grass",
+          "Id": [
+            69195
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Paying Respects",
+          "Id": [
+            68996
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " A Recipe for Trouble",
+          "Id": [
+            68997
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Blessings of the Wood",
+          "Id": [
+            68998
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Talk of the Town",
+          "Id": [
+            68999
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " A Sight Unseen",
+          "Id": [
+            69000
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Back Where It Belongs",
+          "Id": [
+            69001
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Not Unfamiliar",
+          "Id": [
+            69002
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Suit Up",
+          "Id": [
+            69003
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Delivery Time",
+          "Id": [
+            69004
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Out on One's Own",
+          "Id": [
+            69005
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " One Last Bite",
+          "Id": [
+            69006
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Proving Your Worth",
+          "Id": [
+            69007
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Reach for the Stars",
+          "Id": [
+            69008
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Down Feathers",
+          "Id": [
+            69009
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Out on Patrol",
+          "Id": [
+            69010
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Thoughts and Prayers",
+          "Id": [
+            69011
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Rock Solid",
+          "Id": [
+            69012
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Hand-me-downs",
+          "Id": [
+            69013
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " In Pursuit of Knowledge",
+          "Id": [
+            69019
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " A Test of Strength",
+          "Id": [
+            69020
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Just the Two of Us",
+          "Id": [
+            69021
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Stand on Ceremony",
+          "Id": [
+            69014
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Seeing Eye to Eye",
+          "Id": [
+            69015
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Mending Fences",
+          "Id": [
+            69016
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Hearts as One",
+          "Id": [
+            69017
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        },
+        {
+          "Title": " Protectors of the Wood",
+          "Id": [
+            69018
+          ],
+          "Area": "The Rak'tika Greatwood",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

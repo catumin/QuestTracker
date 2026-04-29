@@ -1,0 +1,402 @@
+{
+  "Title": "Elpis Sidequests",
+  "Categories": [
+    {
+      "Title": "Elpis",
+      "Quests": [
+        {
+          "Title": " The Ore the Merrier",
+          "Id": [
+            69812
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " A Colorful Concept",
+          "Id": [
+            69813
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Digestive Problems",
+          "Id": [
+            69814
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Nothing to Sneeze At",
+          "Id": [
+            69815
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Sweet Temptations",
+          "Id": [
+            69816
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Breaking the Eyes",
+          "Id": [
+            69817
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Kick Some Asp",
+          "Id": [
+            69818
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Clutch Devastation",
+          "Id": [
+            69819
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Second Guest",
+          "Id": [
+            69820
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Labors of My Fruit",
+          "Id": [
+            69821
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " I Order You to Relax",
+          "Id": [
+            69822
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " We'll Meet Again",
+          "Id": [
+            69823
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Touring Anagnorisis, Part I",
+          "Id": [
+            70043
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Touring Anagnorisis, Part II",
+          "Id": [
+            70044
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Familiar Food",
+          "Id": [
+            70045
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Familiar Fate",
+          "Id": [
+            70046
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " You and the Ailouros",
+          "Id": [
+            69824
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Sing, O Mews",
+          "Id": [
+            69825
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Beg Pardon?",
+          "Id": [
+            69826
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Unresolved Mysteries",
+          "Id": [
+            69827
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Every Rose",
+          "Id": [
+            69828
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Wonder-full",
+          "Id": [
+            69829
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Background Research",
+          "Id": [
+            69830
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Coming to Gryps",
+          "Id": [
+            69831
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Small Size Advantage",
+          "Id": [
+            69832
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Take to the Skies",
+          "Id": [
+            69833
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Naughty Little Ones",
+          "Id": [
+            69834
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Floating Like Clouds",
+          "Id": [
+            69835
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Familiar vs. Familiar",
+          "Id": [
+            69836
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " What's in a Name?",
+          "Id": [
+            69837
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Siren Flower",
+          "Id": [
+            69838
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Searching for Eidos",
+          "Id": [
+            69839
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " To Name a Tale",
+          "Id": [
+            69840
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Meaningful Measurements",
+          "Id": [
+            69841
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Specializing in Sharks",
+          "Id": [
+            69842
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Woken by the Familiar",
+          "Id": [
+            69843
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " The Abyss Stares Back",
+          "Id": [
+            69844
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Rolling Bryons Gather No Moss",
+          "Id": [
+            69845
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Very Familiar Carrots",
+          "Id": [
+            69846
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Flight of the Charybdis",
+          "Id": [
+            69847
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " A Most Succulent Name",
+          "Id": [
+            69848
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " The Perks of Being a Lost Flower",
+          "Id": [
+            69849
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Taking the Minutes: Ktisis Hyperboreia",
+          "Id": [
+            69850
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Terror on Two Legs",
+          "Id": [
+            69851
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " An Expected Guest",
+          "Id": [
+            70047
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " A Better Batrachoi",
+          "Id": [
+            70048
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Meekly Majestic",
+          "Id": [
+            70049
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Unleash the Beast",
+          "Id": [
+            70050
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        },
+        {
+          "Title": " Methods of Mourning",
+          "Id": [
+            70051
+          ],
+          "Area": "Elpis",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

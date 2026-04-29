@@ -1,0 +1,143 @@
+{
+  "Title": "Special Quests",
+  "Categories": [
+    {
+      "Title": "Special Quests",
+      "Quests": [
+        {
+          "Title": "The Ties That Bind",
+          "Id": [
+            67114
+          ],
+          "Area": "East Shroud",
+          "Level": 1
+        }
+      ]
+    },
+    {
+      "Title": "Collaboration Quests",
+      "Quests": [
+        {
+          "Title": "For the Winsome",
+          "Id": [
+            66689
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 12
+        },
+        {
+          "Title": "Seeking the Scoop",
+          "Id": [
+            66690
+          ],
+          "Area": "Ul'dah",
+          "Level": 26
+        },
+        {
+          "Title": "The Knight's Passage",
+          "Id": [
+            66691
+          ],
+          "Area": "Gridania",
+          "Level": 38
+        },
+        {
+          "Title": "Wonder and Lightning",
+          "Id": [
+            66692
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Burgeoning Dread",
+          "Id": [
+            66823
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Breaking Brick Mountains",
+          "Id": [
+            66824
+          ],
+          "Area": "Ul'dah",
+          "Level": 7
+        },
+        {
+          "Title": "A Journey to Remember",
+          "Id": [
+            67742
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "A Complete Game Changer",
+          "Id": [
+            67677
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "The New King on the Block",
+          "Id": [
+            67090
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Newer King on the Block",
+          "Id": [
+            67091
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Man in Black",
+          "Id": [
+            68694
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "In the Dark of Night",
+          "Id": [
+            68695
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Messenger of the Winds",
+          "Id": [
+            68696
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Just Crowning Around",
+          "Id": [
+            70337
+          ],
+          "Area": "The Gold Saucer",
+          "Level": 15
+        },
+        {
+          "Title": "The White Wanderer",
+          "Id": [
+            70910
+          ],
+          "Area": "Tuliyollal",
+          "Level": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "Title": "Gyr Abanian Sidequests",
+  "Categories": [
+    {
+      "Title": "Rhalgr's Reach",
+      "Quests": [
+        {
+          "Title": "None Forgotten, None Forsaken",
+          "Id": [
+            68541
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 60
+        },
+        {
+          "Title": "Not While Their Names Are Still Spoken",
+          "Id": [
+            68542
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 60
+        },
+        {
+          "Title": "Hard Blow",
+          "Id": [
+            68187
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 61
+        },
+        {
+          "Title": "Mother's Boy",
+          "Id": [
+            68188
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 61
+        },
+        {
+          "Title": "Ant Juice",
+          "Id": [
+            68404
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 69
+        },
+        {
+          "Title": "Dearest Daughter",
+          "Id": [
+            68405
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 69
+        },
+        {
+          "Title": "Fallen Friend of Mine",
+          "Id": [
+            68406
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 69
+        },
+        {
+          "Title": "Dreaming of Home",
+          "Id": [
+            68421
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "To Kill a Coeurl",
+          "Id": [
+            68169
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "An Unwanted Truth",
+          "Id": [
+            68613
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "Secret of the Ooze",
+          "Id": [
+            68678
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "Another Striking Opportunity",
+          "Id": [
+            69137,
+            68476
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "A Fortune in Salt",
+          "Id": [
+            68566
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "The Fringes",
+      "Quests": [
+        {
+          "Title": "Magiteknical Failure",
+          "Id": [
+            68175
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "Gross Encounters",
+          "Id": [
+            68176
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "Prison Break",
+          "Id": [
+            68177
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "What a Tangled Web We Weave",
+          "Id": [
+            68178
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "Spicing Things Up",
+          "Id": [
+            68180
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "Doing Her Part",
+          "Id": [
+            68179
+          ],
+          "Area": "The Fringes",
+          "Level": 60
+        },
+        {
+          "Title": "A Second Assessment",
+          "Id": [
+            68196
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "A Good Role Model",
+          "Id": [
+            68195
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "The Hidden Truth",
+          "Id": [
+            68197
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "Drawing a Blank",
+          "Id": [
+            68198
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "Seeking Answers",
+          "Id": [
+            68199
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "The Honest Truth",
+          "Id": [
+            68200
+          ],
+          "Area": "The Fringes",
+          "Level": 61
+        },
+        {
+          "Title": "Unexpected Guests",
+          "Id": [
+            68352
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Delicate as a Flower",
+          "Id": [
+            68353
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Slug It Out",
+          "Id": [
+            68354
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Hard to Swallow",
+          "Id": [
+            68355
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Gold Rush",
+          "Id": [
+            68356
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Eyes Bigger than Her Stomach",
+          "Id": [
+            68357
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "The Perfect Gift",
+          "Id": [
+            68358
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Spooked",
+          "Id": [
+            68359
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "A New Contender",
+          "Id": [
+            68360
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Down but Not Out",
+          "Id": [
+            68361
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Make a Man Out of You",
+          "Id": [
+            68362
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Honoring Family",
+          "Id": [
+            68363
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "The Rose Blooms Twice",
+          "Id": [
+            68364
+          ],
+          "Area": "The Fringes",
+          "Level": 67
+        },
+        {
+          "Title": "Confessions of the Heart",
+          "Id": [
+            68407
+          ],
+          "Area": "The Fringes",
+          "Level": 69
+        },
+        {
+          "Title": "Falling Down on the Job",
+          "Id": [
+            68408
+          ],
+          "Area": "The Fringes",
+          "Level": 69
+        },
+        {
+          "Title": "My Dear Brother",
+          "Id": [
+            68409
+          ],
+          "Area": "The Fringes",
+          "Level": 69
+        }
+      ]
+    },
+    {
+      "Title": "The Peaks",
+      "Quests": [
+        {
+          "Title": "Dark Water",
+          "Id": [
+            68181
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "Home Comforts",
+          "Id": [
+            68183
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "An Honest Day's Work",
+          "Id": [
+            68182
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "Bears over Flowers",
+          "Id": [
+            68184
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "Beastly Bandits",
+          "Id": [
+            68185
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "Midge Madness",
+          "Id": [
+            68186
+          ],
+          "Area": "The Peaks",
+          "Level": 60
+        },
+        {
+          "Title": "Of Rats and Men",
+          "Id": [
+            68189
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "Saint Sayer",
+          "Id": [
+            68191
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "As Stubborn as Stone",
+          "Id": [
+            68192
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "The Sound of the Quarry",
+          "Id": [
+            68193
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "Spooky Stones",
+          "Id": [
+            68194
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "Rat Bandits",
+          "Id": [
+            68190
+          ],
+          "Area": "The Peaks",
+          "Level": 61
+        },
+        {
+          "Title": "Back to Business",
+          "Id": [
+            68365
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Undeserved Praise",
+          "Id": [
+            68367
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Like a Charm",
+          "Id": [
+            68368
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "A Sister's Ambition",
+          "Id": [
+            68369
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Bottoms Up",
+          "Id": [
+            68366
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "A Special Treat",
+          "Id": [
+            68374
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Lost in Transit",
+          "Id": [
+            68370
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Eau de Muud",
+          "Id": [
+            68382
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Strange Tastes",
+          "Id": [
+            68383
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Soup's On",
+          "Id": [
+            68384
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Picking Up the Slack",
+          "Id": [
+            68371
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "We Need to Talk",
+          "Id": [
+            68372
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "What's Mine Is Mine",
+          "Id": [
+            68373
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Live off the Land",
+          "Id": [
+            68375
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Runs in the Family",
+          "Id": [
+            68376
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Those Boys of Mine",
+          "Id": [
+            68377
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Out of Sight",
+          "Id": [
+            68378
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Public Opinion",
+          "Id": [
+            68379
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Dragged through the Mud",
+          "Id": [
+            68380
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Second Chances",
+          "Id": [
+            68381
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Shimmer in the Scales",
+          "Id": [
+            68385
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Radiata Stores",
+          "Id": [
+            68386
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Jhammel and Hide",
+          "Id": [
+            68390
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "A Hunger for Trade",
+          "Id": [
+            68387
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Give Them the Evil Eye",
+          "Id": [
+            68388
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Explosive Profits",
+          "Id": [
+            68389
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Critical Moss",
+          "Id": [
+            68391
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Foper Faux Pas",
+          "Id": [
+            68392
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "Pest Problem",
+          "Id": [
+            68393
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Family First",
+          "Id": [
+            68394
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Boots Made for Walking",
+          "Id": [
+            68395
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Closing Up Shop",
+          "Id": [
+            68396
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Helping a Friend",
+          "Id": [
+            68397
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Finding Family",
+          "Id": [
+            68398
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Her Only Son",
+          "Id": [
+            68399
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "His Last Words",
+          "Id": [
+            68400
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "A Parting Gift",
+          "Id": [
+            68401
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "A Friend on the Other Side",
+          "Id": [
+            68402
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Climbing for Atonement",
+          "Id": [
+            68403
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Religious Freedom",
+          "Id": [
+            68410
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "The Qiqirn Strikes Back",
+          "Id": [
+            68411
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Bombs for Peace",
+          "Id": [
+            68412
+          ],
+          "Area": "The Peaks",
+          "Level": 69
+        },
+        {
+          "Title": "Journey's End",
+          "Id": [
+            68424
+          ],
+          "Area": "The Peaks",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "The Lochs",
+      "Quests": [
+        {
+          "Title": "The Dragon Made",
+          "Id": [
+            69593
+          ],
+          "Area": "The Lochs",
+          "Level": 1
+        },
+        {
+          "Title": "It's a Zu Out There",
+          "Id": [
+            68413
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "Send in the Armor",
+          "Id": [
+            68414
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "A Fletching Suggestion",
+          "Id": [
+            68415
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "A Rite to Rest",
+          "Id": [
+            68416
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "If I Were a Fish",
+          "Id": [
+            68417
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "Necessities of War",
+          "Id": [
+            68418
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "Are They Ill-tempered",
+          "Id": [
+            68419
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "At the Top of the Stairs",
+          "Id": [
+            68420
+          ],
+          "Area": "The Lochs",
+          "Level": 69
+        },
+        {
+          "Title": "Those We Hold Dear",
+          "Id": [
+            68425
+          ],
+          "Area": "The Lochs",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

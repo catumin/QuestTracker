@@ -1,0 +1,122 @@
+{
+  "Title": "Azys Lla Sidequests",
+  "Categories": [
+    {
+      "Title": "Azys Lla",
+      "Quests": [
+        {
+          "Title": "Basic Training",
+          "Id": [
+            67515
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Good Clean Fun",
+          "Id": [
+            67516
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "General Protection Fault",
+          "Id": [
+            67517
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Excessive Force",
+          "Id": [
+            67518
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Chimerical Abominations",
+          "Id": [
+            67519
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Pollution Solution",
+          "Id": [
+            67520
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Good Hunting",
+          "Id": [
+            67521
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Defense Protocols",
+          "Id": [
+            67522
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Snikt",
+          "Id": [
+            67523
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "A Crude Facsimile",
+          "Id": [
+            67524
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Recycling",
+          "Id": [
+            67525
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Inadequate Safety Measures",
+          "Id": [
+            67526
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Environmental Unbalance",
+          "Id": [
+            67527
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        },
+        {
+          "Title": "Elevated Aggression Levels",
+          "Id": [
+            67528
+          ],
+          "Area": "Azys Lla",
+          "Level": 59
+        }
+      ]
+    }
+  ]
+}

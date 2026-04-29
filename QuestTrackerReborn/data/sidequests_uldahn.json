@@ -1,0 +1,1168 @@
+{
+  "Title": "Ul'dahn Sidequests",
+  "Categories": [
+    {
+      "Title": "Ul'dah",
+      "Quests": [
+        {
+          "Title": "Coming to Ul'dah",
+          "Id": [
+            66130
+          ],
+          "Area": "Ul'dah",
+          "Start": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Due Diligence",
+          "Id": [
+            65685
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Motivational Speaking",
+          "Id": [
+            65686
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Gil for Gold",
+          "Id": [
+            65687
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Unholy Matrimony",
+          "Id": [
+            65689
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "The Great Gladiator",
+          "Id": [
+            65701
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "With Open Arms",
+          "Id": [
+            65703
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "No Lady Is an Island",
+          "Id": [
+            65932
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Decisions, Decisions",
+          "Id": [
+            65928
+          ],
+          "Area": "Ul'dah",
+          "Level": 2
+        },
+        {
+          "Title": "Vox Populi",
+          "Id": [
+            65929
+          ],
+          "Area": "Ul'dah",
+          "Level": 2
+        },
+        {
+          "Title": "A Luxury Long Lost",
+          "Id": [
+            65930
+          ],
+          "Area": "Ul'dah",
+          "Level": 2
+        },
+        {
+          "Title": "The Wealth of Nations",
+          "Id": [
+            65931
+          ],
+          "Area": "Ul'dah",
+          "Level": 2
+        },
+        {
+          "Title": "Tougher than Leather",
+          "Id": [
+            65699
+          ],
+          "Area": "Ul'dah",
+          "Level": 3
+        },
+        {
+          "Title": "Beet Red Beetles Beat Red",
+          "Id": [
+            66107
+          ],
+          "Area": "Ul'dah",
+          "Level": 3
+        },
+        {
+          "Title": "In the Name of Science",
+          "Id": [
+            66108
+          ],
+          "Area": "Ul'dah",
+          "Level": 3
+        },
+        {
+          "Title": "Bottled Fantasy",
+          "Id": [
+            70723
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Fantastic Voyage",
+          "Id": [
+            65925
+          ],
+          "Area": "Ul'dah",
+          "Start": "Ul'dah",
+          "Level": 4
+        },
+        {
+          "Title": "Catch Your Breath",
+          "Id": [
+            65926
+          ],
+          "Area": "Ul'dah",
+          "Start": "Ul'dah",
+          "Level": 4
+        },
+        {
+          "Title": "Leves of Horizon",
+          "Id": [
+            66223
+          ],
+          "Area": "Ul'dah",
+          "Start": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "Help Me, Lord of the Dance",
+          "Id": [
+            66963
+          ],
+          "Area": "Ul'dah",
+          "Level": 14
+        },
+        {
+          "Title": "It Could Happen to You",
+          "Id": [
+            65970
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "An Ill-conceived Venture",
+          "Id": [
+            66970
+          ],
+          "Area": "Ul'dah",
+          "Start": "Ul'dah",
+          "Level": 17
+        },
+        {
+          "Title": "My Little Chocobo (Immortal Flames)",
+          "Id": [
+            66238
+          ],
+          "Area": "Ul'dah",
+          "Level": 20,
+          "Gc": "Immortal Flames"
+        },
+        {
+          "Title": "Gone to Pieces",
+          "Id": [
+            65688
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Hold for Customer Support",
+          "Id": [
+            66455
+          ],
+          "Area": "Ul'dah",
+          "Level": 38
+        },
+        {
+          "Title": "Dishonor Before Death",
+          "Id": [
+            66457
+          ],
+          "Area": "Ul'dah",
+          "Level": 38
+        },
+        {
+          "Title": "A Tale of Three Cities",
+          "Id": [
+            66459
+          ],
+          "Area": "Ul'dah",
+          "Level": 38
+        },
+        {
+          "Title": "Corpse Groom",
+          "Id": [
+            67060
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "The Waking Sands",
+      "Quests": [
+        {
+          "Title": "Primal Fear",
+          "Id": [
+            66543
+          ],
+          "Area": "The Waking Sands",
+          "Level": 46
+        },
+        {
+          "Title": "A Kobold Initiative",
+          "Id": [
+            66551
+          ],
+          "Area": "The Waking Sands",
+          "Level": 47
+        },
+        {
+          "Title": "Can't Do It without U",
+          "Id": [
+            66552,
+            67089
+          ],
+          "Area": "The Waking Sands",
+          "Level": 47
+        },
+        {
+          "Title": "Into the Valley of the Skull",
+          "Id": [
+            66561
+          ],
+          "Area": "The Waking Sands",
+          "Level": 48
+        }
+      ]
+    },
+    {
+      "Title": "Chocobo Square",
+      "Quests": [
+        {
+          "Title": "So You Want to Be a Jockey",
+          "Id": [
+            65972
+          ],
+          "Area": "Chocobo Square",
+          "Level": 15
+        },
+        {
+          "Title": "Like Sire Like Fledgling",
+          "Id": [
+            66112
+          ],
+          "Area": "Chocobo Square",
+          "Level": 15
+        }
+      ]
+    },
+    {
+      "Title": "The Gold Saucer",
+      "Quests": [
+        {
+          "Title": "World of Wonders",
+          "Id": [
+            65971
+          ],
+          "Area": "The Gold Saucer",
+          "Level": 15
+        },
+        {
+          "Title": "Passion for Fashion",
+          "Id": [
+            68617
+          ],
+          "Area": "The Gold Saucer",
+          "Level": 15
+        },
+        {
+          "Title": "Every Little Thing She Does Is Mahjong",
+          "Id": [
+            68737
+          ],
+          "Area": "The Gold Saucer",
+          "Level": 15
+        },
+        {
+          "Title": "The Adventurer with All the Cards",
+          "Id": [
+            69617
+          ],
+          "Area": "The Gold Saucer",
+          "Level": 1
+        }
+      ]
+    },
+    {
+      "Title": "Western Thanalan",
+      "Quests": [
+        {
+          "Title": "The Greatest Story Never Told",
+          "Id": [
+            66973
+          ],
+          "Area": "Western Thanalan",
+          "Level": 1
+        },
+        {
+          "Title": "Nor Rain nor Heat nor Gloom of Night",
+          "Id": [
+            65758
+          ],
+          "Area": "Western Thanalan",
+          "Level": 4
+        },
+        {
+          "Title": "A Dab'll Do Ya",
+          "Id": [
+            65759
+          ],
+          "Area": "Western Thanalan",
+          "Level": 5
+        },
+        {
+          "Title": "Ticked Off",
+          "Id": [
+            65767
+          ],
+          "Area": "Western Thanalan",
+          "Level": 5
+        },
+        {
+          "Title": "Where the Heart Is (The Goblet)",
+          "Id": [
+            66749
+          ],
+          "Area": "Western Thanalan",
+          "Level": 5
+        },
+        {
+          "Title": "I Believe You Can Fly",
+          "Id": [
+            65760
+          ],
+          "Area": "Western Thanalan",
+          "Level": 6
+        },
+        {
+          "Title": "Reasonable /Doubt",
+          "Id": [
+            65762
+          ],
+          "Area": "Western Thanalan",
+          "Level": 6
+        },
+        {
+          "Title": "Greasing the Cogs",
+          "Id": [
+            65763
+          ],
+          "Area": "Western Thanalan",
+          "Level": 7
+        },
+        {
+          "Title": "Getting Your Bearings",
+          "Id": [
+            65764
+          ],
+          "Area": "Western Thanalan",
+          "Level": 7
+        },
+        {
+          "Title": "So Close yet So Far",
+          "Id": [
+            65761
+          ],
+          "Area": "Western Thanalan",
+          "Level": 8
+        },
+        {
+          "Title": "Tackle the Problem",
+          "Id": [
+            65765
+          ],
+          "Area": "Western Thanalan",
+          "Level": 8
+        },
+        {
+          "Title": "Search and Seizure",
+          "Id": [
+            65766
+          ],
+          "Area": "Western Thanalan",
+          "Level": 9
+        },
+        {
+          "Title": "Simply the Hest",
+          "Id": [
+            65594
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "By the Toe",
+          "Id": [
+            65873
+          ],
+          "Area": "Western Thanalan",
+          "Level": 10
+        },
+        {
+          "Title": "For Their Eyes Only",
+          "Id": [
+            65875
+          ],
+          "Area": "Western Thanalan",
+          "Level": 10
+        },
+        {
+          "Title": "The Scent of a Mongrel",
+          "Id": [
+            65877
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 11
+        },
+        {
+          "Title": "No Tool Gets Left Behind",
+          "Id": [
+            66040
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 11
+        },
+        {
+          "Title": "This Fishwife's Life",
+          "Id": [
+            66042
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 12
+        },
+        {
+          "Title": "Lominsan Rubbish",
+          "Id": [
+            65878
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 13
+        },
+        {
+          "Title": "Angling Ankle-biters",
+          "Id": [
+            66041
+          ],
+          "Area": "Western Thanalan",
+          "Start": "Ul'dah",
+          "Level": 13
+        },
+        {
+          "Title": "Color Your World",
+          "Id": [
+            66235
+          ],
+          "Area": "Western Thanalan",
+          "Level": 15
+        },
+        {
+          "Title": "If I Had a Glamour",
+          "Id": [
+            68553
+          ],
+          "Area": "Western Thanalan",
+          "Level": 15
+        },
+        {
+          "Title": "Absolutely Glamourous",
+          "Id": [
+            68554
+          ],
+          "Area": "Western Thanalan",
+          "Level": 15
+        },
+        {
+          "Title": "Seeds of Change",
+          "Id": [
+            66960
+          ],
+          "Area": "Western Thanalan",
+          "Level": 17
+        },
+        {
+          "Title": "Hallo Halatali",
+          "Id": [
+            66233
+          ],
+          "Area": "Western Thanalan",
+          "Level": 20
+        },
+        {
+          "Title": "Braving New Depths",
+          "Id": [
+            66300
+          ],
+          "Area": "Western Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "Going for Gold",
+          "Id": [
+            66550
+          ],
+          "Area": "Western Thanalan",
+          "Level": 47
+        },
+        {
+          "Title": "The Weaponsmith of Legend",
+          "Id": [
+            66241
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "Trauma Queen",
+          "Id": [
+            66406
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "Ghosts of Amdapor",
+          "Id": [
+            66671
+          ],
+          "Area": "Western Thanalan",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Central Thanalan",
+      "Quests": [
+        {
+          "Title": "The Slaying of the Shrews",
+          "Id": [
+            65857
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 6
+        },
+        {
+          "Title": "The Tasting of the Shrews",
+          "Id": [
+            65840
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 7
+        },
+        {
+          "Title": "Listen to Your Fish",
+          "Id": [
+            65858
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 7
+        },
+        {
+          "Title": "Bloodied and Bowed",
+          "Id": [
+            65924
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 8
+        },
+        {
+          "Title": "In the Court of the Rat King",
+          "Id": [
+            65844
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 9
+        },
+        {
+          "Title": "Sometimes the Old Ways Are Best",
+          "Id": [
+            65862
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 9
+        },
+        {
+          "Title": "Need Not Apply in Person",
+          "Id": [
+            66067
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 11
+        },
+        {
+          "Title": "Alternative Medicine",
+          "Id": [
+            66066
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 12
+        },
+        {
+          "Title": "Fringe Benefits",
+          "Id": [
+            66109
+          ],
+          "Area": "Central Thanalan",
+          "Start": "Ul'dah",
+          "Level": 12
+        },
+        {
+          "Title": "Forging the Spirit",
+          "Id": [
+            66174
+          ],
+          "Area": "Central Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Waking the Spirit",
+          "Id": [
+            66175
+          ],
+          "Area": "Central Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Marvelously Mutable Materia",
+          "Id": [
+            66999
+          ],
+          "Area": "Central Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Melding Materia Muchly",
+          "Id": [
+            66176
+          ],
+          "Area": "Central Thanalan",
+          "Level": 25
+        }
+      ]
+    },
+    {
+      "Title": "Eastern Thanalan",
+      "Quests": [
+        {
+          "Title": "Leves of Camp Drybone",
+          "Id": [
+            66224
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 15
+        },
+        {
+          "Title": "A Dying Wish",
+          "Id": [
+            66160
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 17
+        },
+        {
+          "Title": "The Circle of Life",
+          "Id": [
+            66166
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 17
+        },
+        {
+          "Title": "Green Thumb",
+          "Id": [
+            66173
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 17
+        },
+        {
+          "Title": "All Dogs Go to Hell",
+          "Id": [
+            66161
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 18
+        },
+        {
+          "Title": "Buzzing at Church",
+          "Id": [
+            66162
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 18
+        },
+        {
+          "Title": "Lichyard Lilies",
+          "Id": [
+            66163
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 18
+        },
+        {
+          "Title": "Honoring the Dead",
+          "Id": [
+            66165
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 18
+        },
+        {
+          "Title": "Dead Bodies Everywhere",
+          "Id": [
+            66178
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 18
+        },
+        {
+          "Title": "Steaking Claims",
+          "Id": [
+            66167
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Now Hiring",
+          "Id": [
+            66168
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Impish Implications",
+          "Id": [
+            66169
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "There's Mythril in Them Thar Hills",
+          "Id": [
+            66170
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Purging the Earth",
+          "Id": [
+            66171
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 19
+        },
+        {
+          "Title": "Strawman Defense",
+          "Id": [
+            66285
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 24
+        },
+        {
+          "Title": "Buzz Off, Birds",
+          "Id": [
+            66286
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 24
+        },
+        {
+          "Title": "Hair Club for Hyur",
+          "Id": [
+            66287
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 24
+        },
+        {
+          "Title": "Scholarly Funds",
+          "Id": [
+            66289
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "The Perils of Pilgrimage",
+          "Id": [
+            66290
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Friendlier Skies",
+          "Id": [
+            66291
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Plagued by Indecision",
+          "Id": [
+            66409
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "The Voyage of the Goobbue",
+          "Id": [
+            66410
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "Scent of Cinnamon",
+          "Id": [
+            66411
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "Mr. Slipshod and Ms. Uptight",
+          "Id": [
+            66415
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "Out of Whole Cloth",
+          "Id": [
+            66416
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 35
+        },
+        {
+          "Title": "Tresses in Distress",
+          "Id": [
+            66493
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 41
+        },
+        {
+          "Title": "D Is for Dead",
+          "Id": [
+            66494
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 41
+        }
+      ]
+    },
+    {
+      "Title": "Southern Thanalan",
+      "Quests": [
+        {
+          "Title": "Leves of Little Ala Mhigo",
+          "Id": [
+            66228
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Bad Blood",
+          "Id": [
+            66294
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Prickly Patients",
+          "Id": [
+            66295
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Blast from the Past",
+          "Id": [
+            66296
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 25
+        },
+        {
+          "Title": "Corpse Confrontation",
+          "Id": [
+            66315
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 27
+        },
+        {
+          "Title": "What's Your Poison",
+          "Id": [
+            66316
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 27
+        },
+        {
+          "Title": "Death from Above",
+          "Id": [
+            66317
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 27
+        },
+        {
+          "Title": "Fetch the Freshman",
+          "Id": [
+            66359
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "Survey Says",
+          "Id": [
+            66360
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "Tools of Office",
+          "Id": [
+            66361
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "Minority Rapport",
+          "Id": [
+            66362
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "Heat of the Moment",
+          "Id": [
+            66363
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "The Eyes Have It",
+          "Id": [
+            66364
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "Mind Games",
+          "Id": [
+            66365
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "U Don't Know Me",
+          "Id": [
+            66366
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 31
+        },
+        {
+          "Title": "What's It to U",
+          "Id": [
+            66557
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 47
+        },
+        {
+          "Title": "Zombies Are People Too",
+          "Id": [
+            66558
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 47
+        },
+        {
+          "Title": "U! Ow! That Stings",
+          "Id": [
+            66559
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 47
+        },
+        {
+          "Title": "True U",
+          "Id": [
+            66560
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 47
+        },
+        {
+          "Title": "For Wilred",
+          "Id": [
+            68422
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 70
+        },
+        {
+          "Title": "Journey's Beginning",
+          "Id": [
+            68423
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Northern Thanalan",
+      "Quests": [
+        {
+          "Title": "Thieves and Robbers",
+          "Id": [
+            66456
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 38
+        },
+        {
+          "Title": "The Ceruleum Must Flow",
+          "Id": [
+            66458
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 38
+        },
+        {
+          "Title": "Leves of Camp Bluefog",
+          "Id": [
+            65551
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 40
+        },
+        {
+          "Title": "High Standards",
+          "Id": [
+            66574
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 49
+        },
+        {
+          "Title": "Crate Expectations",
+          "Id": [
+            66576
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 49
+        },
+        {
+          "Title": "Jumping on a Grenade",
+          "Id": [
+            66577
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 49
+        },
+        {
+          "Title": "The Life of the Party",
+          "Id": [
+            66580
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 49
+        },
+        {
+          "Title": "An Eye for Elixirs",
+          "Id": [
+            66581
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 49
+        }
+      ]
+    }
+  ]
+}

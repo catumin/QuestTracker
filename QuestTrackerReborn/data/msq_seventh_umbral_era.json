@@ -1,0 +1,1790 @@
+{
+  "Title": "Seventh Umbral Era Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Close to Home",
+      "Id": [
+        65621,
+        65659,
+        65660
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 1
+    },
+    {
+      "Title": "Close to Home",
+      "Id": [
+        65644,
+        65645
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 1
+    },
+    {
+      "Title": "Close to Home",
+      "Id": [
+        66104,
+        66105,
+        66106
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 1
+    },
+    {
+      "Title": "To the Bannock",
+      "Id": [
+        65564
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 4
+    },
+    {
+      "Title": "On to Summerford",
+      "Id": [
+        65998
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 4
+    },
+    {
+      "Title": "We Must Rebuild",
+      "Id": [
+        66131
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 4
+    },
+    {
+      "Title": "Passing Muster",
+      "Id": [
+        65737
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 5
+    },
+    {
+      "Title": "Chasing Shadows",
+      "Id": [
+        65981
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 5
+    },
+    {
+      "Title": "Dressed to Call",
+      "Id": [
+        65999
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 5
+    },
+    {
+      "Title": "Lurkers in the Grotto",
+      "Id": [
+        66079
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 5
+    },
+    {
+      "Title": "Nothing to See Here",
+      "Id": [
+        66207
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 5
+    },
+    {
+      "Title": "Underneath the Sultantree",
+      "Id": [
+        66086
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 5
+    },
+    {
+      "Title": "Washed Up",
+      "Id": [
+        66001
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 7
+    },
+    {
+      "Title": "Step Nine",
+      "Id": [
+        65839
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 6
+    },
+    {
+      "Title": "Eggs over Queasy",
+      "Id": [
+        65664,
+        69390
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 7
+    },
+    {
+      "Title": "Double Dealing",
+      "Id": [
+        66002
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 8
+    },
+    {
+      "Title": "Surveying the Damage",
+      "Id": [
+        65711
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 8
+    },
+    {
+      "Title": "Prudence at This Junction",
+      "Id": [
+        65842,
+        69388
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 8
+    },
+    {
+      "Title": "A Soldier's Breakfast",
+      "Id": [
+        65661,
+        69391
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 9
+    },
+    {
+      "Title": "Spirithold Broken",
+      "Id": [
+        65665
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 9
+    },
+    {
+      "Title": "Loam Maintenance",
+      "Id": [
+        66003
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 9
+    },
+    {
+      "Title": "Plowshares to Swords",
+      "Id": [
+        66004
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 9
+    },
+    {
+      "Title": "Just Deserts",
+      "Id": [
+        66005
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 9
+    },
+    {
+      "Title": "Out of House and Home",
+      "Id": [
+        65843
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 9
+    },
+    {
+      "Title": "Way Down in the Hole",
+      "Id": [
+        65856
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 9
+    },
+    {
+      "Title": "On to Bentbranch",
+      "Id": [
+        65712
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 10
+    },
+    {
+      "Title": "You Shall Not Trespass",
+      "Id": [
+        65912
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 10
+    },
+    {
+      "Title": "Sky-high",
+      "Id": [
+        65933
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 10
+    },
+    {
+      "Title": "Takin' What They're Givin'",
+      "Id": [
+        66159
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 10
+    },
+    {
+      "Title": "Supply and Demands",
+      "Id": [
+        65864
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 10
+    },
+    {
+      "Title": "Give It to Me Raw",
+      "Id": [
+        66039
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 10
+    },
+    {
+      "Title": "Don't Look Down",
+      "Id": [
+        65913
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 11
+    },
+    {
+      "Title": "In the Grim Darkness of the Forest",
+      "Id": [
+        65915
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 11
+    },
+    {
+      "Title": "Threat Level Elevated",
+      "Id": [
+        65916
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 11
+    },
+    {
+      "Title": "Thanks a Million",
+      "Id": [
+        65938
+      ],
+      "Area": "Middle La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 11
+    },
+    {
+      "Title": "Relighting the Torch",
+      "Id": [
+        65939
+      ],
+      "Area": "Western La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 11
+    },
+    {
+      "Title": "On to the Drydocks",
+      "Id": [
+        65942
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 11
+    },
+    {
+      "Title": "The Perfect Swarm",
+      "Id": [
+        65865
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 11
+    },
+    {
+      "Title": "Last Letter to Lost Hope",
+      "Id": [
+        65866
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 11
+    },
+    {
+      "Title": "Migrant Marauders",
+      "Id": [
+        65917
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 12
+    },
+    {
+      "Title": "Without a Doubt",
+      "Id": [
+        65948
+      ],
+      "Area": "Lower La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 12
+    },
+    {
+      "Title": "Righting the Shipwright",
+      "Id": [
+        65951
+      ],
+      "Area": "Lower La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 12
+    },
+    {
+      "Title": "Heir Today, Gone Tomorrow",
+      "Id": [
+        65867,
+        69389
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 12
+    },
+    {
+      "Title": "Passing the Blade",
+      "Id": [
+        65868
+      ],
+      "Area": "Central Thanalan",
+      "Start": "Ul'dah",
+      "Level": 12
+    },
+    {
+      "Title": "A Hearer Is Often Late",
+      "Id": [
+        65920
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 13
+    },
+    {
+      "Title": "Salvaging the Scene",
+      "Id": [
+        65923
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 13
+    },
+    {
+      "Title": "Do Angry Pirates Dream",
+      "Id": [
+        65949
+      ],
+      "Area": "Lower La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 13
+    },
+    {
+      "Title": "Following Footfalls",
+      "Id": [
+        65869
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 13
+    },
+    {
+      "Title": "Storms on the Horizon",
+      "Id": [
+        65870
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 13
+    },
+    {
+      "Title": "Leia's Legacy",
+      "Id": [
+        65697
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 14
+    },
+    {
+      "Title": "Dread Is in the Air",
+      "Id": [
+        65982
+      ],
+      "Area": "Central Shroud",
+      "Start": "Gridania",
+      "Level": 14
+    },
+    {
+      "Title": "To Guard a Guardian",
+      "Id": [
+        65983
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 14
+    },
+    {
+      "Title": "Festive Endeavors",
+      "Id": [
+        65984
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 14
+    },
+    {
+      "Title": "Renewing the Covenant",
+      "Id": [
+        65985
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 14
+    },
+    {
+      "Title": "Victory in Peril",
+      "Id": [
+        65950
+      ],
+      "Area": "Lower La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 14
+    },
+    {
+      "Title": "Men of the Blue Tattoos",
+      "Id": [
+        66225
+      ],
+      "Area": "Lower La Noscea",
+      "Start": "Limsa Lominsa",
+      "Level": 14
+    },
+    {
+      "Title": "Feint and Strike",
+      "Id": [
+        66080
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 14
+    },
+    {
+      "Title": "High Society",
+      "Id": [
+        66226
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 14
+    },
+    {
+      "Title": "A Mizzenmast Repast",
+      "Id": [
+        66081
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 14
+    },
+    {
+      "Title": "Oh Captain, My Captain",
+      "Id": [
+        65872
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 14
+    },
+    {
+      "Title": "Secrets and Lies",
+      "Id": [
+        66164
+      ],
+      "Area": "Western Thanalan",
+      "Start": "Ul'dah",
+      "Level": 14
+    },
+    {
+      "Title": "Duty, Honor, Country",
+      "Id": [
+        66087
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 14
+    },
+    {
+      "Title": "A Matter of Tradition",
+      "Id": [
+        66177
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 14
+    },
+    {
+      "Title": "A Royal Reception",
+      "Id": [
+        66088
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 14
+    },
+    {
+      "Title": "The Gridanian Envoy",
+      "Id": [
+        66043
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 15
+    },
+    {
+      "Title": "The Lominsan Envoy",
+      "Id": [
+        66082
+      ],
+      "Area": "Limsa Lominsa",
+      "Start": "Limsa Lominsa",
+      "Level": 15
+    },
+    {
+      "Title": "The Ul'dahn Envoy",
+      "Id": [
+        66064
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 15
+    },
+    {
+      "Title": "Call of the Sea",
+      "Id": [
+        66210
+      ],
+      "Area": "Gridania",
+      "Start": "Gridania",
+      "Level": 15
+    },
+    {
+      "Title": "Call of the Sea",
+      "Id": [
+        66209
+      ],
+      "Area": "Ul'dah",
+      "Start": "Ul'dah",
+      "Level": 15
+    },
+    {
+      "Title": "It's Probably Pirates",
+      "Id": [
+        65781,
+        66211
+      ],
+      "Area": "Limsa Lominsa",
+      "Level": 15
+    },
+    {
+      "Title": "Call of the Forest",
+      "Id": [
+        66212
+      ],
+      "Area": "Limsa Lominsa",
+      "Level": 15
+    },
+    {
+      "Title": "Fire in the Gloom",
+      "Id": [
+        66213
+      ],
+      "Area": "Gridania",
+      "Level": 16
+    },
+    {
+      "Title": "Call of the Desert",
+      "Id": [
+        66214
+      ],
+      "Area": "Gridania",
+      "Level": 16
+    },
+    {
+      "Title": "Into a Copper Hell",
+      "Id": [
+        66196
+      ],
+      "Area": "Ul'dah",
+      "Level": 17
+    },
+    {
+      "Title": "The Scions of the Seventh Dawn",
+      "Id": [
+        66045
+      ],
+      "Area": "Ul'dah",
+      "Level": 17
+    },
+    {
+      "Title": "A Wild Rose by Any Other Name",
+      "Id": [
+        66046
+      ],
+      "Area": "The Waking Sands",
+      "Level": 17
+    },
+    {
+      "Title": "Unsolved Mystery",
+      "Id": [
+        66154
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 17
+    },
+    {
+      "Title": "What Poor People Think",
+      "Id": [
+        66155
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 18
+    },
+    {
+      "Title": "A Proper Burial",
+      "Id": [
+        66156
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 18
+    },
+    {
+      "Title": "For the Children",
+      "Id": [
+        66157
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 19
+    },
+    {
+      "Title": "Amalj'aa Wrong Places",
+      "Id": [
+        66158
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 19
+    },
+    {
+      "Title": "Dressed to Deceive",
+      "Id": [
+        66110
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 19
+    },
+    {
+      "Title": "Life, Materia and Everything",
+      "Id": [
+        65808
+      ],
+      "Area": "The Waking Sands",
+      "Level": 19
+    },
+    {
+      "Title": "Lord of the Inferno",
+      "Id": [
+        65879
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20
+    },
+    {
+      "Title": "A Hero in the Making",
+      "Id": [
+        66047
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20
+    },
+    {
+      "Title": "The Company You Keep (Twin Adder)",
+      "Id": [
+        66216
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20,
+      "Gc": "Twin Adder"
+    },
+    {
+      "Title": "The Company You Keep (Maelstrom)",
+      "Id": [
+        66217
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20,
+      "Gc": "Maelstrom"
+    },
+    {
+      "Title": "The Company You Keep (Immortal Flames)",
+      "Id": [
+        66218
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20,
+      "Gc": "Immortal Flames"
+    },
+    {
+      "Title": "Wood's Will Be Done",
+      "Id": [
+        66219
+      ],
+      "Area": "Gridania",
+      "Level": 20,
+      "Gc": "Twin Adder"
+    },
+    {
+      "Title": "Till Sea Swallows All",
+      "Id": [
+        66220
+      ],
+      "Area": "Limsa Lominsa",
+      "Level": 20,
+      "Gc": "Maelstrom"
+    },
+    {
+      "Title": "For Coin and Country",
+      "Id": [
+        66221
+      ],
+      "Area": "Ul'dah",
+      "Level": 20,
+      "Gc": "Immortal Flames"
+    },
+    {
+      "Title": "Sylph-management",
+      "Id": [
+        66049
+      ],
+      "Area": "The Waking Sands",
+      "Level": 20
+    },
+    {
+      "Title": "We Come in Peace",
+      "Id": [
+        66244,
+        69392
+      ],
+      "Area": "Gridania",
+      "Level": 20
+    },
+    {
+      "Title": "Sylphic Studies",
+      "Id": [
+        66245
+      ],
+      "Area": "East Shroud",
+      "Level": 20
+    },
+    {
+      "Title": "First Impressions",
+      "Id": [
+        66246,
+        67313
+      ],
+      "Area": "East Shroud",
+      "Level": 20
+    },
+    {
+      "Title": "First Contact",
+      "Id": [
+        66251
+      ],
+      "Area": "East Shroud",
+      "Level": 21
+    },
+    {
+      "Title": "Dance Dance Diplomacy",
+      "Id": [
+        66253,
+        69393
+      ],
+      "Area": "East Shroud",
+      "Level": 21
+    },
+    {
+      "Title": "Forest Friend",
+      "Id": [
+        66254,
+        69394
+      ],
+      "Area": "East Shroud",
+      "Level": 21
+    },
+    {
+      "Title": "Presence of the Enemy",
+      "Id": [
+        66255
+      ],
+      "Area": "East Shroud",
+      "Level": 21
+    },
+    {
+      "Title": "Brotherly Love",
+      "Id": [
+        66260
+      ],
+      "Area": "East Shroud",
+      "Level": 22
+    },
+    {
+      "Title": "Spirited Away",
+      "Id": [
+        66261
+      ],
+      "Area": "East Shroud",
+      "Level": 22
+    },
+    {
+      "Title": "Druthers House Rules",
+      "Id": [
+        66262,
+        69395
+      ],
+      "Area": "South Shroud",
+      "Level": 22
+    },
+    {
+      "Title": "Never Forget",
+      "Id": [
+        66269,
+        69396
+      ],
+      "Area": "South Shroud",
+      "Level": 23
+    },
+    {
+      "Title": "Microbrewing",
+      "Id": [
+        66270,
+        69397
+      ],
+      "Area": "Upper La Noscea",
+      "Level": 23
+    },
+    {
+      "Title": "Like Fine Wine",
+      "Id": [
+        66273
+      ],
+      "Area": "Upper La Noscea",
+      "Level": 23
+    },
+    {
+      "Title": "Sylphish Concerns",
+      "Id": [
+        66274
+      ],
+      "Area": "South Shroud",
+      "Level": 23
+    },
+    {
+      "Title": "Nouveau Riche",
+      "Id": [
+        66276,
+        69398
+      ],
+      "Area": "South Shroud",
+      "Level": 23
+    },
+    {
+      "Title": "Into the Beast's Maw",
+      "Id": [
+        66050
+      ],
+      "Area": "South Shroud",
+      "Level": 24
+    },
+    {
+      "Title": "A Simple Gift",
+      "Id": [
+        66279
+      ],
+      "Area": "South Shroud",
+      "Level": 24
+    },
+    {
+      "Title": "Believe in Your Sylph",
+      "Id": [
+        66280
+      ],
+      "Area": "East Shroud",
+      "Level": 24
+    },
+    {
+      "Title": "Back from the Wood",
+      "Id": [
+        66282
+      ],
+      "Area": "Gridania",
+      "Level": 24
+    },
+    {
+      "Title": "Shadow of Darkness",
+      "Id": [
+        66283
+      ],
+      "Area": "The Waking Sands",
+      "Level": 24
+    },
+    {
+      "Title": "Highbridge Times",
+      "Id": [
+        66284
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 24
+    },
+    {
+      "Title": "Where There Is Smoke",
+      "Id": [
+        66292
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 25
+    },
+    {
+      "Title": "On to Little Ala Mhigo",
+      "Id": [
+        66293
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 25
+    },
+    {
+      "Title": "Tea for Three",
+      "Id": [
+        66297
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 25
+    },
+    {
+      "Title": "Foot in the Door",
+      "Id": [
+        66298
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 25
+    },
+    {
+      "Title": "Meeting with the Resistance",
+      "Id": [
+        66299
+      ],
+      "Area": "The Waking Sands",
+      "Level": 26
+    },
+    {
+      "Title": "Killing Him Softly",
+      "Id": [
+        66301
+      ],
+      "Area": "South Shroud",
+      "Level": 26
+    },
+    {
+      "Title": "Helping Horn",
+      "Id": [
+        66310
+      ],
+      "Area": "South Shroud",
+      "Level": 27
+    },
+    {
+      "Title": "He Ain't Heavy",
+      "Id": [
+        66311
+      ],
+      "Area": "South Shroud",
+      "Level": 27
+    },
+    {
+      "Title": "Come Highly Recommended",
+      "Id": [
+        66312
+      ],
+      "Area": "South Shroud",
+      "Level": 27
+    },
+    {
+      "Title": "The Bear and the Young'uns' Cares",
+      "Id": [
+        66313
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 27
+    },
+    {
+      "Title": "Wilred Wants You",
+      "Id": [
+        66314
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 27
+    },
+    {
+      "Title": "Big Trouble in Little Ala Mhigo",
+      "Id": [
+        66318
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 27
+    },
+    {
+      "Title": "Back to Square One",
+      "Id": [
+        66319
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 27
+    },
+    {
+      "Title": "Terror at Fallgourd",
+      "Id": [
+        66320,
+        69399
+      ],
+      "Area": "The Waking Sands",
+      "Level": 27
+    },
+    {
+      "Title": "Ziz Is So Ridiculous",
+      "Id": [
+        66321
+      ],
+      "Area": "North Shroud",
+      "Level": 28
+    },
+    {
+      "Title": "Rock of Rancor",
+      "Id": [
+        66323
+      ],
+      "Area": "North Shroud",
+      "Level": 28
+    },
+    {
+      "Title": "Seeing Eye to Winged Eye",
+      "Id": [
+        66322
+      ],
+      "Area": "North Shroud",
+      "Level": 28
+    },
+    {
+      "Title": "Power of Deduction",
+      "Id": [
+        66335
+      ],
+      "Area": "North Shroud",
+      "Level": 28
+    },
+    {
+      "Title": "Secret of the White Lily",
+      "Id": [
+        66336
+      ],
+      "Area": "North Shroud",
+      "Level": 28
+    },
+    {
+      "Title": "Skeletons in Her Closet",
+      "Id": [
+        66337
+      ],
+      "Area": "Gridania",
+      "Level": 28
+    },
+    {
+      "Title": "Wrath of the Titan",
+      "Id": [
+        66052
+      ],
+      "Area": "The Waking Sands",
+      "Level": 30
+    },
+    {
+      "Title": "Tales from the Tidus Slayer",
+      "Id": [
+        66345
+      ],
+      "Area": "Lower La Noscea",
+      "Level": 30
+    },
+    {
+      "Title": "Hungry Hungry Goobbues",
+      "Id": [
+        66346
+      ],
+      "Area": "Lower La Noscea",
+      "Level": 30
+    },
+    {
+      "Title": "The Lominsan Way",
+      "Id": [
+        66347
+      ],
+      "Area": "Lower La Noscea",
+      "Level": 30
+    },
+    {
+      "Title": "Nix That",
+      "Id": [
+        66348
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 30
+    },
+    {
+      "Title": "A Modest Proposal",
+      "Id": [
+        66350
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 30
+    },
+    {
+      "Title": "Trial by Turtle",
+      "Id": [
+        66355,
+        69401
+      ],
+      "Area": "South Shroud",
+      "Level": 30
+    },
+    {
+      "Title": "The Perfect Prey",
+      "Id": [
+        66357
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 31
+    },
+    {
+      "Title": "When the Worm Turns",
+      "Id": [
+        66358
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 31
+    },
+    {
+      "Title": "There and Back Again",
+      "Id": [
+        66367
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 31
+    },
+    {
+      "Title": "The Things We Do for Cheese",
+      "Id": [
+        66368
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 32
+    },
+    {
+      "Title": "What Do You Mean You Forgot the Wine",
+      "Id": [
+        66375,
+        69402
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 32
+    },
+    {
+      "Title": "An Offer You Can Refuse",
+      "Id": [
+        66376
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 32
+    },
+    {
+      "Title": "It Won't Work",
+      "Id": [
+        66379
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 32
+    },
+    {
+      "Title": "Give a Man a Drink",
+      "Id": [
+        66381
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "That Weight",
+      "Id": [
+        66382
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "Battle Scars",
+      "Id": [
+        66384
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "It Was a Very Good Year",
+      "Id": [
+        66386
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "In the Company of Heroes",
+      "Id": [
+        66391
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "As You Wish",
+      "Id": [
+        66392
+      ],
+      "Area": "Eastern La Noscea",
+      "Level": 33
+    },
+    {
+      "Title": "Lord of Crags",
+      "Id": [
+        66393
+      ],
+      "Area": "Upper La Noscea",
+      "Level": 34
+    },
+    {
+      "Title": "All Good Things",
+      "Id": [
+        66053
+      ],
+      "Area": "Upper La Noscea",
+      "Level": 34
+    },
+    {
+      "Title": "You Can't Take It with You",
+      "Id": [
+        66408,
+        69403
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 35
+    },
+    {
+      "Title": "Bringing out the Dead",
+      "Id": [
+        66412
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 35
+    },
+    {
+      "Title": "Bury Me Not on the Lone Prairie",
+      "Id": [
+        66414
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 35
+    },
+    {
+      "Title": "Eyes on Me",
+      "Id": [
+        66054
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 35
+    },
+    {
+      "Title": "He Who Waited Behind",
+      "Id": [
+        66419
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 36
+    },
+    {
+      "Title": "Cold Reception",
+      "Id": [
+        66420
+      ],
+      "Area": "North Shroud",
+      "Level": 36
+    },
+    {
+      "Title": "The Unending War",
+      "Id": [
+        66422
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 36
+    },
+    {
+      "Title": "Men of Honor",
+      "Id": [
+        66423
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 36
+    },
+    {
+      "Title": "Three for Three",
+      "Id": [
+        66425
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 36
+    },
+    {
+      "Title": "The Rose and the Unicorn",
+      "Id": [
+        66426
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 36
+    },
+    {
+      "Title": "The Talk of Coerthas",
+      "Id": [
+        66433
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 37
+    },
+    {
+      "Title": "Road to Redemption",
+      "Id": [
+        66446
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 38
+    },
+    {
+      "Title": "Following the Evidence",
+      "Id": [
+        66447
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 38
+    },
+    {
+      "Title": "In the Eyes of Gods and Men",
+      "Id": [
+        66448
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 38
+    },
+    {
+      "Title": "The Final Flight of the Enterprise",
+      "Id": [
+        66453,
+        69404
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 38
+    },
+    {
+      "Title": "Ye of Little Faith",
+      "Id": [
+        66460
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 39
+    },
+    {
+      "Title": "Factual Folklore",
+      "Id": [
+        66463
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 39
+    },
+    {
+      "Title": "The Best Inventions",
+      "Id": [
+        66473,
+        69405
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 39
+    },
+    {
+      "Title": "Influencing Inquisitors",
+      "Id": [
+        66474
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 40
+    },
+    {
+      "Title": "By the Lights of Ishgard",
+      "Id": [
+        66475
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 40
+    },
+    {
+      "Title": "Blood for Blood",
+      "Id": [
+        66476
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 40
+    },
+    {
+      "Title": "The Heretic among Us",
+      "Id": [
+        66477
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 40
+    },
+    {
+      "Title": "In Pursuit of the Past",
+      "Id": [
+        66488
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 41
+    },
+    {
+      "Title": "Into the Eye of the Storm",
+      "Id": [
+        66489
+      ],
+      "Area": "Gridania",
+      "Level": 41
+    },
+    {
+      "Title": "Sealed with Science",
+      "Id": [
+        66491
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 41
+    },
+    {
+      "Title": "With the Utmost Care",
+      "Id": [
+        66492
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 41
+    },
+    {
+      "Title": "A Promising Prospect",
+      "Id": [
+        66495
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 41
+    },
+    {
+      "Title": "It's Probably Not Pirates",
+      "Id": [
+        66496
+      ],
+      "Area": "Western La Noscea",
+      "Level": 42
+    },
+    {
+      "Title": "Representing the Representative",
+      "Id": [
+        66497
+      ],
+      "Area": "Western La Noscea",
+      "Level": 42
+    },
+    {
+      "Title": "The Reluctant Researcher",
+      "Id": [
+        66498
+      ],
+      "Area": "Western La Noscea",
+      "Level": 42
+    },
+    {
+      "Title": "Sweet Somethings",
+      "Id": [
+        66499
+      ],
+      "Area": "Western La Noscea",
+      "Level": 42
+    },
+    {
+      "Title": "History Repeating",
+      "Id": [
+        66503
+      ],
+      "Area": "Western La Noscea",
+      "Level": 42
+    },
+    {
+      "Title": "The Curious Case of Giggity",
+      "Id": [
+        66504,
+        69406
+      ],
+      "Area": "Western La Noscea",
+      "Level": 43
+    },
+    {
+      "Title": "Better Late than Never",
+      "Id": [
+        66511
+      ],
+      "Area": "Gridania",
+      "Level": 43
+    },
+    {
+      "Title": "Lady of the Vortex",
+      "Id": [
+        66055
+      ],
+      "Area": "Gridania",
+      "Level": 44
+    },
+    {
+      "Title": "Reclamation",
+      "Id": [
+        66056
+      ],
+      "Area": "Ul'dah",
+      "Level": 44
+    },
+    {
+      "Title": "Casing the Castrum",
+      "Id": [
+        66514
+      ],
+      "Area": "The Waking Sands",
+      "Level": 44
+    },
+    {
+      "Title": "Eyes on the Empire",
+      "Id": [
+        66516
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 44
+    },
+    {
+      "Title": "Footprints in the Snow",
+      "Id": [
+        66517
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 44
+    },
+    {
+      "Title": "Monumental Hopes",
+      "Id": [
+        66518
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 44
+    },
+    {
+      "Title": "Notorious Biggs",
+      "Id": [
+        66519
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 44
+    },
+    {
+      "Title": "Come-Into-My-Castrum",
+      "Id": [
+        66520
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 44
+    },
+    {
+      "Title": "Getting Even with Garlemald",
+      "Id": [
+        66522
+      ],
+      "Area": "Mor Dhona",
+      "Level": 44
+    },
+    {
+      "Title": "Drowning Out the Voices",
+      "Id": [
+        66537
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "Acting the Part",
+      "Id": [
+        66538
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "Dressed for Conquest",
+      "Id": [
+        66539,
+        69407
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "Fool Me Twice",
+      "Id": [
+        66540
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "Every Little Thing She Does Is Magitek",
+      "Id": [
+        66541
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "Escape from Castrum Centri",
+      "Id": [
+        66057
+      ],
+      "Area": "Mor Dhona",
+      "Level": 46
+    },
+    {
+      "Title": "The Black Wolf's Ultimatum",
+      "Id": [
+        66058
+      ],
+      "Area": "Ul'dah",
+      "Level": 46
+    },
+    {
+      "Title": "Operation Archon",
+      "Id": [
+        66572,
+        70057
+      ],
+      "Area": "The Waking Sands",
+      "Level": 49
+    },
+    {
+      "Title": "A Hero in Need",
+      "Id": [
+        66573
+      ],
+      "Area": "Western Thanalan",
+      "Level": 49
+    },
+    {
+      "Title": "Hearts on Fire",
+      "Id": [
+        66579,
+        69408
+      ],
+      "Area": "Northern Thanalan",
+      "Level": 49
+    },
+    {
+      "Title": "Rock the Castrum",
+      "Id": [
+        66672,
+        69409
+      ],
+      "Area": "Northern Thanalan",
+      "Level": 50
+    },
+    {
+      "Title": "The Ultimate Weapon",
+      "Id": [
+        66060,
+        70058
+      ],
+      "Area": "Northern Thanalan",
+      "Level": 50
+    }
+  ]
+}

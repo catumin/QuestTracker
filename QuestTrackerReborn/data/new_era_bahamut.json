@@ -1,0 +1,53 @@
+{
+  "Title": "Chronicles of a New Era - Bahamut",
+  "Quests": [
+    {
+      "Title": "Primal Awakening",
+      "Id": [
+        66695
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Alisaie's Pledge",
+      "Id": [
+        66696
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Another Turn in the Coil",
+      "Id": [
+        66849
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Alisaie's Resolve",
+      "Id": [
+        66850
+      ],
+      "Area": "Northern Thanalan",
+      "Level": 50
+    },
+    {
+      "Title": "Fragments of Truth",
+      "Id": [
+        65579
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Alisaie's Path",
+      "Id": [
+        65580
+      ],
+      "Area": "Northern Thanalan",
+      "Level": 50
+    }
+  ]
+}

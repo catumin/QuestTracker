@@ -1,0 +1,170 @@
+{
+  "Title": "Mare Lamentorum Sidequests",
+  "Categories": [
+    {
+      "Title": "Mare Lamentorum",
+      "Quests": [
+        {
+          "Title": " True Carrot Crimes",
+          "Id": [
+            69776
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Carrots: It's What's for Dinner",
+          "Id": [
+            69777
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " A Strange New Moon",
+          "Id": [
+            69778
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Getting to Know You",
+          "Id": [
+            69779
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Over the Rainbow Crystal",
+          "Id": [
+            69780
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " All Fun and Games",
+          "Id": [
+            69781
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Clothes Maketh the Man",
+          "Id": [
+            69782
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " A Test of Mettle",
+          "Id": [
+            69783
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Unfortunate Fortune-telling",
+          "Id": [
+            69784
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Dangerous Work",
+          "Id": [
+            69785
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Material Woes",
+          "Id": [
+            69786
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " For a Greater Garden",
+          "Id": [
+            69787
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Lone Loporrit",
+          "Id": [
+            69788
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Alluring Allag",
+          "Id": [
+            69789
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Overexcited Admirer",
+          "Id": [
+            69790
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Troubled Waters",
+          "Id": [
+            69791
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Name That Way",
+          "Id": [
+            70052
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " A Way to Make a Living",
+          "Id": [
+            70053
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " One Way or Another",
+          "Id": [
+            70054
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        },
+        {
+          "Title": " Dream a Little Dream",
+          "Id": [
+            70055
+          ],
+          "Area": "Mare Lamentorum",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

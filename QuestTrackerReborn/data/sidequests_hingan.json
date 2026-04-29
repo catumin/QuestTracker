@@ -1,0 +1,170 @@
+{
+  "Title": "Hingan Sidequests",
+  "Categories": [
+    {
+      "Title": "Kugane",
+      "Quests": [
+        {
+          "Title": "A Lone Wolf No More",
+          "Id": [
+            68736
+          ],
+          "Area": "Kugane",
+          "Level": 1
+        },
+        {
+          "Title": "The Seaweed Is Always Greener",
+          "Id": [
+            68675
+          ],
+          "Area": "Kugane",
+          "Level": 62
+        },
+        {
+          "Title": "I Dream of Shirogane",
+          "Id": [
+            68167
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "Dedication to the Craft",
+          "Id": [
+            68201
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "A Drink in the Tub",
+          "Id": [
+            68202
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "I'll Show You Angry",
+          "Id": [
+            68203
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "A Picture Is Worth a Thousand Moms",
+          "Id": [
+            68204
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "Zero Tolerance Teahouse",
+          "Id": [
+            68205
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "Where the Wild Pandas Are",
+          "Id": [
+            68206
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "A Bleak Diagnosis",
+          "Id": [
+            68207
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "To Bathe a Garlean",
+          "Id": [
+            68208
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "The Perfect Woman",
+          "Id": [
+            68348
+          ],
+          "Area": "Kugane",
+          "Level": 67
+        },
+        {
+          "Title": "Child Labor",
+          "Id": [
+            68349
+          ],
+          "Area": "Kugane",
+          "Level": 67
+        },
+        {
+          "Title": "In the Line of Duty",
+          "Id": [
+            68350
+          ],
+          "Area": "Kugane",
+          "Level": 67
+        },
+        {
+          "Title": "The Weight of a Dream",
+          "Id": [
+            68351
+          ],
+          "Area": "Kugane",
+          "Level": 67
+        },
+        {
+          "Title": "One-star Veteran Clan Hunt",
+          "Id": [
+            68472
+          ],
+          "Area": "Kugane",
+          "Level": 61
+        },
+        {
+          "Title": "Two-star Veteran Clan Hunt",
+          "Id": [
+            68473
+          ],
+          "Area": "Kugane",
+          "Level": 63
+        },
+        {
+          "Title": "Three-star Veteran Clan Hunt",
+          "Id": [
+            68474
+          ],
+          "Area": "Kugane",
+          "Level": 66
+        },
+        {
+          "Title": "Elite Veteran Clan Hunt",
+          "Id": [
+            68475
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "King of the Castle",
+          "Id": [
+            68170
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

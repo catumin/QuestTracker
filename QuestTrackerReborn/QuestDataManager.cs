@@ -36,11 +36,22 @@ namespace QuestTrackerReborn
                 var jsonString = stringStream.ReadToEnd();
                 plugin.QuestData = JsonConvert.DeserializeObject<QuestData>(jsonString);
 
+                //QuestData quests;
+//
+                //foreach (var file in Assembly.GetExecutingAssembly().GetManifestResourceNames())
+                //{
+                //    pluginLog.Debug(file);
+                //    using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream(file);
+                //    using var stringStream = new StreamReader(stream);
+                //    var jsonString = stringStream.ReadToEnd();
+                //    quests.Categories.Add(JsonConvert.DeserializeObject<QuestData>(jsonString));
+                //}
+
                 pluginLog.Debug("Load successful");
             }
             catch (Exception e)
             {
-                pluginLog.Error("Error loading QuestData from data.jason");
+                pluginLog.Error("Error loading QuestData from data.json");
                 pluginLog.Error(e.Message);
             }
         }

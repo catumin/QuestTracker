@@ -1,0 +1,295 @@
+{
+  "Title": "Kobold Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": "Highway Robbery",
+          "Id": [
+            66856
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 41
+        },
+        {
+          "Title": "How Low Can You Go",
+          "Id": [
+            66857
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "No-good Zo Ga's Ambition",
+          "Id": [
+            66858
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "The Kobold and the Beautiful",
+          "Id": [
+            66859
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Revenge of the Furred",
+          "Id": [
+            66860
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": "Rubbish for Refuse",
+          "Id": [
+            66861
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "No Such Thing as a Free Lunch",
+          "Id": [
+            66862
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Finger Licking Good",
+          "Id": [
+            66863
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Battle of the Bottom-feeders",
+          "Id": [
+            66864
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Mothers of All Bombs",
+          "Id": [
+            66865
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Ill-gotten Gains",
+          "Id": [
+            66868
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Hells Have No Fury",
+          "Id": [
+            66869
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Know Your Place",
+          "Id": [
+            66866
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Misery Loves Company",
+          "Id": [
+            66867
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Bo Zu's Blown Cover",
+          "Id": [
+            66870
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 41
+        },
+        {
+          "Title": "Ambushing the Assessors",
+          "Id": [
+            66871
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Armed and Dangerous",
+          "Id": [
+            66873
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Too Hot to Handle",
+          "Id": [
+            66874
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "The Sly Salvages",
+          "Id": [
+            66876
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Belles of the Ball",
+          "Id": [
+            66877
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Contents Unknown",
+          "Id": [
+            66878
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Brain Buster",
+          "Id": [
+            66879
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "The Lode Warrior",
+          "Id": [
+            66872
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Operation Riffraff",
+          "Id": [
+            66875
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "A Dangerous Delivery",
+          "Id": [
+            66880
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 44
+        },
+        {
+          "Title": "Friends in Low Places",
+          "Id": [
+            66901
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Genius at Work",
+          "Id": [
+            66903
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Ba Go's Behest",
+          "Id": [
+            66907
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Glutton for Punishment",
+          "Id": [
+            66902
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Fulminating Furnaces",
+          "Id": [
+            66904
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "A Meal Fit for a Fugleman",
+          "Id": [
+            66905
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Spread the Wealth",
+          "Id": [
+            66906
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "A Coblyn Catastrophe",
+          "Id": [
+            66900
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Wrath of the Roundsman",
+          "Id": [
+            66908
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Angry Angry Acolyte",
+          "Id": [
+            66909
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 48
+        }
+      ]
+    }
+  ]
+}

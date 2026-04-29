@@ -1,0 +1,85 @@
+{
+  "Title": "Chronicles of a New Era - The Warring Triad",
+  "Quests": [
+    {
+      "Title": "Gods of Eld",
+      "Id": [
+        67650
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "When the Bough Wakes",
+      "Id": [
+        67766
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "The Fate of Stars",
+      "Id": [
+        67824
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "Balance unto All",
+      "Id": [
+        67868
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "The Last Pillar to Fall",
+      "Id": [
+        67930
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "The Diabolical Bismarck",
+      "Id": [
+        67651
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "Thok Around the Clock",
+      "Id": [
+        67652
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "A Fiendish Likeness",
+      "Id": [
+        67817
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "A Deific Simulacrum",
+      "Id": [
+        67869
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "A Demonic Duplicate",
+      "Id": [
+        67931
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    }
+  ]
+}

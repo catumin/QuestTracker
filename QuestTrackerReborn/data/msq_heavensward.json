@@ -1,0 +1,757 @@
+{
+  "Title": "Heavensward Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Coming to Ishgard",
+      "Id": [
+        67116
+      ],
+      "Area": "Intercessory",
+      "Level": 50
+    },
+    {
+      "Title": "Taking in the Sights",
+      "Id": [
+        67117
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 50
+    },
+    {
+      "Title": "The Better Half",
+      "Id": [
+        67118
+      ],
+      "Area": "Ishgard",
+      "Level": 50
+    },
+    {
+      "Title": "Over the Wall",
+      "Id": [
+        67119
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 50
+    },
+    {
+      "Title": "Work in Progress",
+      "Id": [
+        67120
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "The First and Foremost",
+      "Id": [
+        67121
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "From on High",
+      "Id": [
+        67122
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "Reconnaissance Lost",
+      "Id": [
+        67123
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "At the End of Our Hope",
+      "Id": [
+        67124
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "Knights Be Not Proud",
+      "Id": [
+        67125
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 50
+    },
+    {
+      "Title": "Onwards and Upwards",
+      "Id": [
+        67126
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 50
+    },
+    {
+      "Title": "An Indispensable Ally",
+      "Id": [
+        67127
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "Meeting the Neighbors",
+      "Id": [
+        67128
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "Sense of Urgency",
+      "Id": [
+        67129
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "Hope Springs Eternal",
+      "Id": [
+        67130
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "A Series of Unfortunate Events",
+      "Id": [
+        67131
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "A Reward Long in Coming",
+      "Id": [
+        67132
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 50
+    },
+    {
+      "Title": "Divine Intervention",
+      "Id": [
+        67133
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 50
+    },
+    {
+      "Title": "Disclosure",
+      "Id": [
+        67134
+      ],
+      "Area": "Ishgard",
+      "Level": 50
+    },
+    {
+      "Title": "Flame General Affairs",
+      "Id": [
+        67135
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 51
+    },
+    {
+      "Title": "In Search of Raubahn",
+      "Id": [
+        67136
+      ],
+      "Area": "Mor Dhona",
+      "Level": 51
+    },
+    {
+      "Title": "Keeping the Flame Alive",
+      "Id": [
+        67137
+      ],
+      "Area": "Eastern Thanalan",
+      "Level": 51
+    },
+    {
+      "Title": "To Siege or Not to Siege",
+      "Id": [
+        67138
+      ],
+      "Area": "The Waking Sands",
+      "Level": 51
+    },
+    {
+      "Title": "Alphinaud's Way",
+      "Id": [
+        67139
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 51
+    },
+    {
+      "Title": "In Search of Iceheart",
+      "Id": [
+        67140
+      ],
+      "Area": "Ishgard",
+      "Level": 51
+    },
+    {
+      "Title": "From One Heretic to Another",
+      "Id": [
+        67141
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 51
+    },
+    {
+      "Title": "Sounding Out the Amphitheatre",
+      "Id": [
+        67142
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 51
+    },
+    {
+      "Title": "Camp of the Convictors",
+      "Id": [
+        67143
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 51
+    },
+    {
+      "Title": "Purple Flame, Purple Flame",
+      "Id": [
+        67144
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 51
+    },
+    {
+      "Title": "Where the Chocobos Roam",
+      "Id": [
+        67145
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 52
+    },
+    {
+      "Title": "Worse than Dragons",
+      "Id": [
+        67146
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 52
+    },
+    {
+      "Title": "The Trine Towers",
+      "Id": [
+        67147
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 52
+    },
+    {
+      "Title": "Gifts for the Outcasts",
+      "Id": [
+        67148
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 52
+    },
+    {
+      "Title": "The Nonmind",
+      "Id": [
+        67149
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 52
+    },
+    {
+      "Title": "A Gnathic Deity",
+      "Id": [
+        67150
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 53
+    },
+    {
+      "Title": "Breaking into Hives",
+      "Id": [
+        67151
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 53
+    },
+    {
+      "Title": "Lord of the Hive",
+      "Id": [
+        67152
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 53
+    },
+    {
+      "Title": "Mourn in Passing",
+      "Id": [
+        67153
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 53
+    },
+    {
+      "Title": "Beyond the Clouds",
+      "Id": [
+        67154
+      ],
+      "Area": "The Churning Mists",
+      "Level": 53
+    },
+    {
+      "Title": "Mountaintop Diplomacy",
+      "Id": [
+        67155
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Moghan's Trial",
+      "Id": [
+        67156
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Mogmug's Trial",
+      "Id": [
+        67157
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Mogwin's Trial",
+      "Id": [
+        67158
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Moglin's Judgment",
+      "Id": [
+        67159
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Leaving Moghome",
+      "Id": [
+        67160
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "The Road to Zenith",
+      "Id": [
+        67161
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Waiting for the Wind to Change",
+      "Id": [
+        67162
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "Heart of Ice",
+      "Id": [
+        67163
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "The Wyrm's Lair",
+      "Id": [
+        67164
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "New Winds, Old Friends",
+      "Id": [
+        67165
+      ],
+      "Area": "The Churning Mists",
+      "Level": 54
+    },
+    {
+      "Title": "A General Summons",
+      "Id": [
+        67166
+      ],
+      "Area": "Ishgard",
+      "Level": 54
+    },
+    {
+      "Title": "Awakening in Ul'dah",
+      "Id": [
+        67167
+      ],
+      "Area": "Western Thanalan",
+      "Level": 54
+    },
+    {
+      "Title": "A Brave Resolution",
+      "Id": [
+        67168
+      ],
+      "Area": "Ul'dah",
+      "Level": 54
+    },
+    {
+      "Title": "Ready to Fly",
+      "Id": [
+        67169
+      ],
+      "Area": "The Rising Stones",
+      "Level": 55
+    },
+    {
+      "Title": "Into the Aery",
+      "Id": [
+        67170
+      ],
+      "Area": "Ishgard",
+      "Level": 55
+    },
+    {
+      "Title": "The Song Begins",
+      "Id": [
+        67171
+      ],
+      "Area": "The Churning Mists",
+      "Level": 55
+    },
+    {
+      "Title": "Unrest in Ishgard",
+      "Id": [
+        67172
+      ],
+      "Area": "The Churning Mists",
+      "Level": 56
+    },
+    {
+      "Title": "He Who Would Not Be Denied",
+      "Id": [
+        67173
+      ],
+      "Area": "Ishgard",
+      "Level": 56
+    },
+    {
+      "Title": "Ill-weather Friends",
+      "Id": [
+        67174
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 56
+    },
+    {
+      "Title": "The Spice of Life",
+      "Id": [
+        67529
+      ],
+      "Area": "Ishgard",
+      "Level": 56
+    },
+    {
+      "Title": "Noble Indiscretions",
+      "Id": [
+        67530
+      ],
+      "Area": "Ishgard",
+      "Level": 56
+    },
+    {
+      "Title": "A Child Apart",
+      "Id": [
+        67531
+      ],
+      "Area": "Ishgard",
+      "Level": 56
+    },
+    {
+      "Title": "Bloodlines",
+      "Id": [
+        67532
+      ],
+      "Area": "Ishgard",
+      "Level": 56
+    },
+    {
+      "Title": "Fire and Blood",
+      "Id": [
+        67175
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "A Knight's Calling",
+      "Id": [
+        67176
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "The Sins of Antiquity",
+      "Id": [
+        67177
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "In Search of the Soleil",
+      "Id": [
+        67178
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "Into the Blue",
+      "Id": [
+        67179
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "Familiar Faces",
+      "Id": [
+        67180
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "Devourer of Worlds",
+      "Id": [
+        67181
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "Black and the White",
+      "Id": [
+        67182
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "Bolt, Chain, and Island",
+      "Id": [
+        67183
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "A Difference of Opinion",
+      "Id": [
+        67184
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "One Good Turn",
+      "Id": [
+        67185
+      ],
+      "Area": "The Sea of Clouds",
+      "Level": 57
+    },
+    {
+      "Title": "An Engineering Enterprise",
+      "Id": [
+        67186
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "Aetherial Trail",
+      "Id": [
+        67187
+      ],
+      "Area": "Ishgard",
+      "Level": 57
+    },
+    {
+      "Title": "Lost in the Lifestream",
+      "Id": [
+        67188
+      ],
+      "Area": "Gridania",
+      "Level": 57
+    },
+    {
+      "Title": "Tataru's Surprise",
+      "Id": [
+        67189
+      ],
+      "Area": "Gridania",
+      "Level": 57
+    },
+    {
+      "Title": "Onward to Sharlayan",
+      "Id": [
+        67190
+      ],
+      "Area": "Gridania",
+      "Level": 57
+    },
+    {
+      "Title": "A Great New Nation",
+      "Id": [
+        67191
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 58
+    },
+    {
+      "Title": "Golems Begone",
+      "Id": [
+        67192
+      ],
+      "Area": "Idyllshire",
+      "Level": 58
+    },
+    {
+      "Title": "An Illuminati Incident",
+      "Id": [
+        67193
+      ],
+      "Area": "Idyllshire",
+      "Level": 58
+    },
+    {
+      "Title": "Leaving Idyllshire",
+      "Id": [
+        67194
+      ],
+      "Area": "Idyllshire",
+      "Level": 58
+    },
+    {
+      "Title": "Matoya's Cave",
+      "Id": [
+        67195
+      ],
+      "Area": "Idyllshire",
+      "Level": 59
+    },
+    {
+      "Title": "Forbidden Knowledge",
+      "Id": [
+        67196
+      ],
+      "Area": "Matoya's Cave",
+      "Level": 59
+    },
+    {
+      "Title": "An Eye for Aether",
+      "Id": [
+        67197
+      ],
+      "Area": "Matoya's Cave",
+      "Level": 59
+    },
+    {
+      "Title": "Hour of Departure",
+      "Id": [
+        67198
+      ],
+      "Area": "Ishgard",
+      "Level": 59
+    },
+    {
+      "Title": "The First Flight of the Excelsior",
+      "Id": [
+        67199
+      ],
+      "Area": "Ishgard",
+      "Level": 59
+    },
+    {
+      "Title": "Systematic Exploration",
+      "Id": [
+        67200
+      ],
+      "Area": "Azys Lla",
+      "Level": 59
+    },
+    {
+      "Title": "In Node We Trust",
+      "Id": [
+        67201
+      ],
+      "Area": "Azys Lla",
+      "Level": 59
+    },
+    {
+      "Title": "Chimerical Maintenance",
+      "Id": [
+        67202
+      ],
+      "Area": "Azys Lla",
+      "Level": 59
+    },
+    {
+      "Title": "Close Encounters of the VIth Kind",
+      "Id": [
+        67203
+      ],
+      "Area": "Azys Lla",
+      "Level": 59
+    },
+    {
+      "Title": "Fetters of Lament",
+      "Id": [
+        67204
+      ],
+      "Area": "Azys Lla",
+      "Level": 59
+    },
+    {
+      "Title": "Heavensward",
+      "Id": [
+        67205
+      ],
+      "Area": "Azys Lla",
+      "Level": 60
+    }
+  ]
+}

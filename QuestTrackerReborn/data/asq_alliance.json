@@ -1,0 +1,177 @@
+{
+  "Title": "Tribal Alliance Quests",
+  "Categories": [
+    {
+      "Title": "A Realm Reborn Tribal Quests",
+      "Quests": [
+        {
+          "Title": "Call of the Wild (Twin Adder)",
+          "Id": [
+            67001
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Call of the Wild (Maelstrom)",
+          "Id": [
+            67002
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Call of the Wild (Immortal Flames)",
+          "Id": [
+            67003
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Little Sylphs Lost",
+          "Id": [
+            67004
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Clutching at Straws",
+          "Id": [
+            67005
+          ],
+          "Area": "East Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Digging for Answers",
+          "Id": [
+            67006
+          ],
+          "Area": "Western La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Rattled in Ehcatl",
+          "Id": [
+            67007
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Ash Not What Your Brotherhood Can Do for You",
+          "Id": [
+            67008
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Friends Forever",
+          "Id": [
+            67009
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Heavensward Tribal Quests",
+      "Quests": [
+        {
+          "Title": "When Good Dragons Go Bad",
+          "Id": [
+            67918
+          ],
+          "Area": "Idyllshire",
+          "Level": 60
+        },
+        {
+          "Title": "Who Was That Masked Man",
+          "Id": [
+            67919
+          ],
+          "Area": "The Churning Mists",
+          "Level": 60
+        },
+        {
+          "Title": "Lift Me to the Moon",
+          "Id": [
+            67920
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 60
+        },
+        {
+          "Title": "Eternity, Loyalty, Honesty",
+          "Id": [
+            67921
+          ],
+          "Area": "The Sea of Clouds",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Stormblood Tribal Quests",
+      "Quests": [
+        {
+          "Title": "The Ananta Maid's Tail",
+          "Id": [
+            68697
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Ruby Seas under Ruby Skies",
+          "Id": [
+            68698
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Fish in a Barrel",
+          "Id": [
+            68699
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 70
+        },
+        {
+          "Title": "What a Wonder-full World",
+          "Id": [
+            68700
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Endwalker Tribal Quests",
+      "Quests": [
+        {
+          "Title": "Dinner and a Show",
+          "Id": [
+            70323
+          ],
+          "Area": "Ultima Thule",
+          "Level": 90
+        },
+        {
+          "Title": "A Dream Worth Chasing",
+          "Id": [
+            70324
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

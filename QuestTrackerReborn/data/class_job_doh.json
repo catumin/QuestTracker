@@ -1,0 +1,1453 @@
+{
+  "Title": "Disciple of the Hand Quests",
+  "Categories": [
+    {
+      "Title": "Carpenter Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Carpenter",
+          "Id": [
+            65674
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Saw",
+          "Id": [
+            65741
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "To Be the Wood",
+          "Id": [
+            65675
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Supplies for the Sick",
+          "Id": [
+            65676
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "A Carpenter in Need",
+          "Id": [
+            65677
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "The Lance's Lesson",
+          "Id": [
+            65678
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "A Crisis of Confidence",
+          "Id": [
+            65704
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "Between Captain and Conjurer",
+          "Id": [
+            65705
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "Growing Apart",
+          "Id": [
+            66072
+          ],
+          "Area": "Gridania",
+          "Level": 35
+        },
+        {
+          "Title": "Memento Mori",
+          "Id": [
+            66073
+          ],
+          "Area": "Gridania",
+          "Level": 40
+        },
+        {
+          "Title": "Gone till the Sixth Astral Moon",
+          "Id": [
+            66074
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Saving Captain Gairhard",
+          "Id": [
+            66075
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Lance of a Lifetime",
+          "Id": [
+            67533
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "A-hunting He Will Go",
+          "Id": [
+            67534
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "Ministers of Grace Defend Him",
+          "Id": [
+            67535
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "The Son Also Rises",
+          "Id": [
+            67536
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "More Fierce than Fire",
+          "Id": [
+            67537
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Uncharted Territory",
+          "Id": [
+            67977
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "The Game of Confidence",
+          "Id": [
+            67978
+          ],
+          "Area": "Gridania",
+          "Level": 63
+        },
+        {
+          "Title": "A Lesson in Listening",
+          "Id": [
+            67979
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "Live and Let Dine",
+          "Id": [
+            67980
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "Tea Party Rules",
+          "Id": [
+            67981
+          ],
+          "Area": "Gridania",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Blacksmith Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Blacksmith",
+          "Id": [
+            65827
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Cross-pein Hammer",
+          "Id": [
+            65828
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Hammer Time",
+          "Id": [
+            65829
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Riveting Ramblings",
+          "Id": [
+            65830
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "The Business of Blacksmithing",
+          "Id": [
+            65831
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "By the Sweat of Your Brow",
+          "Id": [
+            65832
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "True as Steel",
+          "Id": [
+            65833
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "As Iron Sharpens Iron",
+          "Id": [
+            65834
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Set Faezahr to Stun",
+          "Id": [
+            65835
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 35
+        },
+        {
+          "Title": "Forging Ahead",
+          "Id": [
+            65836
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 40
+        },
+        {
+          "Title": "Beauty and the Bardiche",
+          "Id": [
+            65837
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "Waiting in the Winglet",
+          "Id": [
+            65838
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Forging Northwards",
+          "Id": [
+            67543
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Leave It to Fremondain",
+          "Id": [
+            67544
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "The Good Fight",
+          "Id": [
+            67545
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "Blade That Was Broken",
+          "Id": [
+            67546
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Integrity",
+          "Id": [
+            67547
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "A Missive from the Far East",
+          "Id": [
+            68129
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "The Client Is King",
+          "Id": [
+            68152
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 63
+        },
+        {
+          "Title": "Blood Ties",
+          "Id": [
+            68153
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 65
+        },
+        {
+          "Title": "The Missing Piece",
+          "Id": [
+            68154
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 68
+        },
+        {
+          "Title": "The Final Face-off",
+          "Id": [
+            68155
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Armorer Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Armorer",
+          "Id": [
+            65809
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Doming Hammer",
+          "Id": [
+            65810
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "From Thigh to Neck",
+          "Id": [
+            65811
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "The Base Fundamentals",
+          "Id": [
+            65812
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "One's Own Worst Critic",
+          "Id": [
+            65813
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "An Armorer's Pride",
+          "Id": [
+            65814
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "Showing Your Steel",
+          "Id": [
+            65815
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "May the Best Armorer Win",
+          "Id": [
+            65816
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Pans of Steel",
+          "Id": [
+            65817
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 35
+        },
+        {
+          "Title": "Best of Three",
+          "Id": [
+            65818
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 40
+        },
+        {
+          "Title": "For the Good of the Guild",
+          "Id": [
+            65819
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "Rivalry and Respect",
+          "Id": [
+            65820
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "The Breaking of Blanstyr",
+          "Id": [
+            67574
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Light-headed",
+          "Id": [
+            67575
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 53
+        },
+        {
+          "Title": "Fancy Lancer",
+          "Id": [
+            67576
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 55
+        },
+        {
+          "Title": "The Reforging of Blanstyr",
+          "Id": [
+            67577
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 58
+        },
+        {
+          "Title": "The Pride of Vymelli",
+          "Id": [
+            67578
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Original Blanstyr",
+          "Id": [
+            68130
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Eastern Apprentice",
+          "Id": [
+            68131
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 63
+        },
+        {
+          "Title": "Forging with Scales",
+          "Id": [
+            68132
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "Head-to-head Contest",
+          "Id": [
+            68133
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "A Confluence of Style",
+          "Id": [
+            68134
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Goldsmith Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Goldsmith",
+          "Id": [
+            66144
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Chaser Hammer",
+          "Id": [
+            66146
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Gorgets Rising",
+          "Id": [
+            66147
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "Throw Some Rings on It",
+          "Id": [
+            66149
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "Objectively Speaking",
+          "Id": [
+            66150
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "A Melding of the Minds",
+          "Id": [
+            66151
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "Or Ever the Silver Cord Be Loosed",
+          "Id": [
+            66152
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Serendipity Now",
+          "Id": [
+            66153
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Mammets on Fire",
+          "Id": [
+            66191
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "The Horns of the Green",
+          "Id": [
+            66192
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "The Fox in the Hen House",
+          "Id": [
+            66193
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Jaded",
+          "Id": [
+            66194
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Form to the Formless",
+          "Id": [
+            67606
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Elegance and Artistry",
+          "Id": [
+            67607
+          ],
+          "Area": "Ul'dah",
+          "Level": 53
+        },
+        {
+          "Title": "Double Trouble",
+          "Id": [
+            67608
+          ],
+          "Area": "Ul'dah",
+          "Level": 55
+        },
+        {
+          "Title": "A Masterclass",
+          "Id": [
+            67609
+          ],
+          "Area": "Ul'dah",
+          "Level": 58
+        },
+        {
+          "Title": "Two Hearts Beat as One",
+          "Id": [
+            67610
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "A Royal Request",
+          "Id": [
+            68135
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Gemworks in Progress",
+          "Id": [
+            68136
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "Blindsided",
+          "Id": [
+            68137
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 65
+        },
+        {
+          "Title": "The Perfect Tribute",
+          "Id": [
+            68138
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 68
+        },
+        {
+          "Title": "Sultana Dreaming",
+          "Id": [
+            68139
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Leatherworker Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Leatherworker",
+          "Id": [
+            65641
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Head Knife",
+          "Id": [
+            65745
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "A Test of Technique",
+          "Id": [
+            65642
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Geva's Gambit",
+          "Id": [
+            65671
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Working Hells for Leather",
+          "Id": [
+            65672
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "Aldgoat Everything",
+          "Id": [
+            65673
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "Skin in the Game",
+          "Id": [
+            65587
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "Toadskins of the Father",
+          "Id": [
+            65597
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "Lead by Example",
+          "Id": [
+            65599
+          ],
+          "Area": "Gridania",
+          "Level": 35
+        },
+        {
+          "Title": "Brand Loyalty",
+          "Id": [
+            65600
+          ],
+          "Area": "Gridania",
+          "Level": 40
+        },
+        {
+          "Title": "Dissension in the Ranks",
+          "Id": [
+            65601
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Accept No Imitations",
+          "Id": [
+            65602
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "Turndown Service",
+          "Id": [
+            67611
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "By Your Bootstraps",
+          "Id": [
+            67612
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "Perfect Pitch",
+          "Id": [
+            67613
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "From the Hoplon to the Brume",
+          "Id": [
+            67614
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "A Winter's Sale",
+          "Id": [
+            67615
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "A Taxing Request",
+          "Id": [
+            68145
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "Mounting Expectations",
+          "Id": [
+            68146
+          ],
+          "Area": "Gridania",
+          "Level": 63
+        },
+        {
+          "Title": "The Value of Life",
+          "Id": [
+            68147
+          ],
+          "Area": "Gridania",
+          "Level": 65
+        },
+        {
+          "Title": "The Trouble with Taxidermy",
+          "Id": [
+            68150
+          ],
+          "Area": "Gridania",
+          "Level": 68
+        },
+        {
+          "Title": "True to Life",
+          "Id": [
+            68151
+          ],
+          "Area": "Gridania",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Weaver Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Weaver",
+          "Id": [
+            66070
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Needle",
+          "Id": [
+            66071
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "Once More unto the Breeches",
+          "Id": [
+            66123
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "Alternative Applications",
+          "Id": [
+            66125
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "Practical Needs",
+          "Id": [
+            66126
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "Materia Concerns",
+          "Id": [
+            66127
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "That Velveteen Dress",
+          "Id": [
+            66128
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Miner on a Mission",
+          "Id": [
+            66129
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Designed by Committee",
+          "Id": [
+            66187
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "A Subtle Inquiry",
+          "Id": [
+            66188
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "The Intervention",
+          "Id": [
+            66189
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "A Miner Reborn",
+          "Id": [
+            66190
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Social Knitwork",
+          "Id": [
+            67538
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Tomboy Foolery",
+          "Id": [
+            67539
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "For Lover and Country",
+          "Id": [
+            67540
+          ],
+          "Area": "Ishgard",
+          "Level": 55
+        },
+        {
+          "Title": "Spinning the Truth",
+          "Id": [
+            67541
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Never Leave without a Good-bye",
+          "Id": [
+            67542
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "When East Meets West",
+          "Id": [
+            67967
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "The Butterfly Effect",
+          "Id": [
+            67968
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "The Crane's Caveat",
+          "Id": [
+            67969
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "A Geiko for All Seasons",
+          "Id": [
+            67970
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "Send Me an Angel",
+          "Id": [
+            67971
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Alchemist Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Alchemist",
+          "Id": [
+            66111
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Alembic",
+          "Id": [
+            66113
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "The Second Principle",
+          "Id": [
+            66114
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "All of Your Beeswax",
+          "Id": [
+            66116
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "For Fair Love",
+          "Id": [
+            66117
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "The Arcanist's Tome",
+          "Id": [
+            66118
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "Practical Alchemy",
+          "Id": [
+            66119
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Baleful Brews",
+          "Id": [
+            66120
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Cease and Assist",
+          "Id": [
+            66183
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "Might Made Right",
+          "Id": [
+            66184
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "Ultimate Alchemy",
+          "Id": [
+            66185
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Momentary Miracle",
+          "Id": [
+            66186
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Without a Trace",
+          "Id": [
+            67601
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Magic Marks the Spot",
+          "Id": [
+            67602
+          ],
+          "Area": "Mor Dhona",
+          "Level": 53
+        },
+        {
+          "Title": "From Hells",
+          "Id": [
+            67603
+          ],
+          "Area": "Mor Dhona",
+          "Level": 55
+        },
+        {
+          "Title": "Burden of Proof",
+          "Id": [
+            67604
+          ],
+          "Area": "Mor Dhona",
+          "Level": 58
+        },
+        {
+          "Title": "What Death Can Join Together",
+          "Id": [
+            67605
+          ],
+          "Area": "Mor Dhona",
+          "Level": 60
+        },
+        {
+          "Title": "Not Quite Dead Yet",
+          "Id": [
+            67972
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "The Forbidden Blade",
+          "Id": [
+            67973
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "Do Goldsmiths Dream of Gilded Sheep",
+          "Id": [
+            67974
+          ],
+          "Area": "Ul'dah",
+          "Level": 65
+        },
+        {
+          "Title": "No Sin Unpunished",
+          "Id": [
+            67975
+          ],
+          "Area": "Ul'dah",
+          "Level": 68
+        },
+        {
+          "Title": "A Love Beyond Lifetimes",
+          "Id": [
+            67976
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Culinarian Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Culinarian",
+          "Id": [
+            65807
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Skillet",
+          "Id": [
+            65790
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "A Treat of Trout",
+          "Id": [
+            65791
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Dodo It Yourself",
+          "Id": [
+            65793
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "On a Skewer Tip",
+          "Id": [
+            65794
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "Releasing a Burden",
+          "Id": [
+            65795
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "Winning Friends with Aldgoat",
+          "Id": [
+            65796
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "The Chefsbane Cometh",
+          "Id": [
+            65802
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Of Cooks and Books",
+          "Id": [
+            65803
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 35
+        },
+        {
+          "Title": "Diplomacy of the Skillet",
+          "Id": [
+            65804
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 40
+        },
+        {
+          "Title": "A Taste of Home",
+          "Id": [
+            65805
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "Revenge of the Chefsbane",
+          "Id": [
+            65806
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Wait on Me",
+          "Id": [
+            67579
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "A Spoonful Less Sugar",
+          "Id": [
+            67580
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 53
+        },
+        {
+          "Title": "Looking for Some Hot Stuff",
+          "Id": [
+            67581
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 55
+        },
+        {
+          "Title": "Love Meat Tender",
+          "Id": [
+            67582
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 58
+        },
+        {
+          "Title": "The Spirit of Hospitality",
+          "Id": [
+            67583
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Flavors of the Far East",
+          "Id": [
+            68140
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Rice to the Occasion",
+          "Id": [
+            68141
+          ],
+          "Area": "Mor Dhona",
+          "Level": 63
+        },
+        {
+          "Title": "A Broth from the Brine",
+          "Id": [
+            68142
+          ],
+          "Area": "Mor Dhona",
+          "Level": 65
+        },
+        {
+          "Title": "Teach a Man to Make Fish",
+          "Id": [
+            68143
+          ],
+          "Area": "Mor Dhona",
+          "Level": 68
+        },
+        {
+          "Title": "The Way to a Father's Heart",
+          "Id": [
+            68144
+          ],
+          "Area": "Mor Dhona",
+          "Level": 70
+        }
+      ]
+    }
+  ]
+}

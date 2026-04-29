@@ -1,0 +1,931 @@
+{
+  "Title": "Records of Unusual Endeavors",
+  "Categories": [
+    {
+      "Title": "Doman Adventurers' Guild Quests",
+      "Quests": [
+        {
+          "Title": "Toll Booty",
+          "Id": [
+            65581
+          ],
+          "Area": "Mor Dhona",
+          "Level": 54
+        },
+        {
+          "Title": "Li'l Rascals",
+          "Id": [
+            65586
+          ],
+          "Area": "Mor Dhona",
+          "Level": 54
+        },
+        {
+          "Title": "Short Arms of the Law",
+          "Id": [
+            65636
+          ],
+          "Area": "Mor Dhona",
+          "Level": 54
+        }
+      ]
+    },
+    {
+      "Title": "Doman Reconstruction Quests",
+      "Quests": [
+        {
+          "Title": "Precious Reclamation",
+          "Id": [
+            68622
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 70
+        },
+        {
+          "Title": "A Thousand and One Farewells",
+          "Id": [
+            68623
+          ],
+          "Area": "Revenant's Toll",
+          "Level": 70
+        },
+        {
+          "Title": "It Takes an Enclave",
+          "Id": [
+            68677
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 70
+        },
+        {
+          "Title": "Lighting the Way",
+          "Id": [
+            68689
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Ishgardian Restoration Main Quests",
+      "Quests": [
+        {
+          "Title": "Towards the Firmament",
+          "Id": [
+            69208
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "A Home in the Firmament",
+          "Id": [
+            69261
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Overseer for a Day",
+          "Id": [
+            69262
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Shadow of an Icy Past",
+          "Id": [
+            69263
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "To Thaw a Frozen Heart",
+          "Id": [
+            69264
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "The Making of a Market",
+          "Id": [
+            69491
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Dealings in the Desert",
+          "Id": [
+            69492
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "A Parley with Pirates",
+          "Id": [
+            69493
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "May Featherfall Flourish",
+          "Id": [
+            69494
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Not by Bread Alone",
+          "Id": [
+            69535
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Francel's Fervent Wish",
+          "Id": [
+            69536
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "An Unexpected Symphony",
+          "Id": [
+            69537
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Smiles Cross the Sky",
+          "Id": [
+            69538
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Ishgardian Restoration Sidequests",
+      "Quests": [
+        {
+          "Title": "If Songs Had Wings",
+          "Id": [
+            69373
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "O Crafter, My Crafter",
+          "Id": [
+            69425
+          ],
+          "Area": "The Firmament",
+          "Level": 70
+        },
+        {
+          "Title": "An Ode to Unity",
+          "Id": [
+            69426
+          ],
+          "Area": "The Firmament",
+          "Level": 70
+        },
+        {
+          "Title": "On Ehll Tou's Wings",
+          "Id": [
+            69427
+          ],
+          "Area": "The Firmament",
+          "Level": 70
+        },
+        {
+          "Title": "Adventurers and Admirers",
+          "Id": [
+            69374
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Calling All Adventurers",
+          "Id": [
+            69498
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "A Gathering of Gaelicats",
+          "Id": [
+            69497
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Of Steam, Sweat, and Water",
+          "Id": [
+            69540
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Swords to Plowshares",
+          "Id": [
+            69541
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Planting the Seed",
+          "Id": [
+            69542
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "The Brume Lifts",
+          "Id": [
+            69496
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "You Can Count on It",
+          "Id": [
+            69615
+          ],
+          "Area": "The Firmament",
+          "Level": 70
+        },
+        {
+          "Title": "Those Who Serve",
+          "Id": [
+            69616
+          ],
+          "Area": "The Firmament",
+          "Level": 70
+        },
+        {
+          "Title": "Shadow over the Orphanage",
+          "Id": [
+            69375
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Small Hands, Big Hearts",
+          "Id": [
+            69376
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "A Fashionable Friendship",
+          "Id": [
+            69495
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Warm Hands, Warm Hearts",
+          "Id": [
+            69539
+          ],
+          "Area": "The Firmament",
+          "Level": 60
+        },
+        {
+          "Title": "Mislaid Plans",
+          "Id": [
+            69384
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": "Work It Harder, Make It Better",
+          "Id": [
+            69385
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": "In Everyone's Best Interests",
+          "Id": [
+            69428
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": " Ever Skyward",
+          "Id": [
+            69429
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": " The Tools of Tomorrow",
+          "Id": [
+            69430
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": "Oddness in the End",
+          "Id": [
+            69518
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        },
+        {
+          "Title": " The Pinnacle of Possibility",
+          "Id": [
+            69519
+          ],
+          "Area": "The Firmament",
+          "Level": 80
+        },
+        {
+          "Title": " Greater Heights",
+          "Id": [
+            69520
+          ],
+          "Area": "The Firmament",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Splendorous Tools",
+      "Quests": [
+        {
+          "Title": "An Original Improvement",
+          "Id": [
+            70266
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " A Dedicated Tool",
+          "Id": [
+            70267
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " An Adaptive Tool",
+          "Id": [
+            70268
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": "The Joy of Zoi",
+          "Id": [
+            70303
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " A Tool of Her Own",
+          "Id": [
+            70304
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " A Tool without Compare",
+          "Id": [
+            70305
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": "La Vie Mowen",
+          "Id": [
+            70306
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": "Dance Like Mowen Is Watching",
+          "Id": [
+            70338
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " A Tool for the Ages",
+          "Id": [
+            70339
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " Stand Tool, My Friend",
+          "Id": [
+            70340
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        },
+        {
+          "Title": " Dearly Bekettled",
+          "Id": [
+            70341
+          ],
+          "Area": "The Crystarium",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Palace of the Dead",
+      "Quests": [
+        {
+          "Title": "The House That Death Built",
+          "Id": [
+            67092
+          ],
+          "Area": "Gridania",
+          "Level": 17
+        },
+        {
+          "Title": "The Nightmare's End",
+          "Id": [
+            67093
+          ],
+          "Area": "South Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Dead but Not Gone",
+          "Id": [
+            67924
+          ],
+          "Area": "South Shroud",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Heaven-on-High",
+      "Quests": [
+        {
+          "Title": "Knocking on Heaven's Door",
+          "Id": [
+            68667
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 61
+        },
+        {
+          "Title": "On the Shoulders of Giants",
+          "Id": [
+            68668
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 61
+        }
+      ]
+    },
+    {
+      "Title": "Eureka Orthos",
+      "Quests": [
+        {
+          "Title": "Delve into Myth",
+          "Id": [
+            70199
+          ],
+          "Area": "Mor Dhona",
+          "Level": 81
+        },
+        {
+          "Title": "Rage Extinguished",
+          "Id": [
+            70200
+          ],
+          "Area": "Mor Dhona",
+          "Level": 81
+        },
+        {
+          "Title": "Orthos Unveiled",
+          "Id": [
+            70201
+          ],
+          "Area": "Mor Dhona",
+          "Level": 81
+        }
+      ]
+    },
+    {
+      "Title": "Island Sanctuary Quests",
+      "Quests": [
+        {
+          "Title": "Seeking Sanctuary",
+          "Id": [
+            70179
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 1
+        },
+        {
+          "Title": "The Land, Wind, and Sea",
+          "Id": [
+            70181
+          ],
+          "Area": "Unnamed Island",
+          "Level": 1
+        },
+        {
+          "Title": "A Far Eastern Yarn",
+          "Id": [
+            70265
+          ],
+          "Area": "Unnamed Island",
+          "Level": 1
+        },
+        {
+          "Title": "An Ideal Marriage",
+          "Id": [
+            70299
+          ],
+          "Area": "Unnamed Island",
+          "Level": 1
+        },
+        {
+          "Title": "The Sweetest Thing",
+          "Id": [
+            70329
+          ],
+          "Area": "Unnamed Island",
+          "Level": 1
+        },
+        {
+          "Title": "Where Worries Melt Away",
+          "Id": [
+            70330
+          ],
+          "Area": "Unnamed Island",
+          "Level": 1
+        }
+      ]
+    },
+    {
+      "Title": "Variant Dungeons",
+      "Quests": [
+        {
+          "Title": "A Key to the Past",
+          "Id": [
+            70182
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "For Coin, Country, and Comrades",
+          "Id": [
+            70185
+          ],
+          "Area": "Ul'dah",
+          "Level": 90
+        },
+        {
+          "Title": "Mononoke Aware",
+          "Id": [
+            70269
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Of Price and Ruin",
+          "Id": [
+            70270
+          ],
+          "Area": "Kugane",
+          "Level": 90
+        },
+        {
+          "Title": "Stranger from Paradise",
+          "Id": [
+            70325
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "A Fish a Day",
+          "Id": [
+            70326
+          ],
+          "Area": "Thavnair",
+          "Level": 90
+        },
+        {
+    "Title": "A Spellbinding Read",
+    "Id": [
+      70977
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 90
+  },
+  {
+    "Title": "Abridged Too Far",
+    "Id": [
+      70995
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 100
+  },
+  {
+    "Title": "Starting a New Chapter",
+    "Id": [
+      70978
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 90
+  }
+      ]
+    },
+    {
+      "Title": "Cosmic Exploration Main Quests",
+      "Quests": [
+        {
+          "Title": "A Cosmic Homecoming",
+          "Id": [
+            70789
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 10
+        },
+        {
+          "Title": "Go Forth, Brave Explorers",
+          "Id": [
+            70945
+          ],
+          "Area": "Sinus Ardorum",
+          "Level": 10
+        },
+        {
+          "Title": "The Brightest Star",
+          "Id": [
+            70946
+          ],
+          "Area": "Phaenna",
+          "Level": 10
+        },
+        {
+    "Title": "Mission of Gravity",
+    "Id": [
+      70984
+    ],
+    "Area": "Phaenna",
+    "Level": 100
+  },
+  {
+    "Title": "Memory's Orbit",
+    "Id": [
+      70985
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  }
+      ]
+    },
+    {
+      "Title": "Cosmic Exploration Sidequests",
+      "Quests": [
+        {
+          "Title": "A Manager's Patience",
+          "Id": [
+            70859
+          ],
+          "Area": "Sinus Ardorum",
+          "Level": 10
+        },
+        {
+          "Title": "A Manager's Persistence",
+          "Id": [
+            70860
+          ],
+          "Area": "Sinus Ardorum",
+          "Level": 10
+        },
+        {
+          "Title": "A Manager's Discernment",
+          "Id": [
+            70947
+          ],
+          "Area": "Phaenna",
+          "Level": 10
+        },
+        {
+          "Title": "Perspective Reflected",
+          "Id": [
+            70948
+          ],
+          "Area": "Phaenna",
+          "Level": 10
+        },
+        {
+          "Title": "Pilot Wanted",
+          "Id": [
+            70949
+          ],
+          "Area": "Phaenna",
+          "Level": 10
+        },
+        {
+          "Title": "A Manager's Delegation",
+          "Id": [
+            70950
+          ],
+          "Area": "Phaenna",
+          "Level": 10
+        },
+        {
+    "Title": "A Manager's Prudence",
+    "Id": [
+      70986
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  },
+  {
+    "Title": "A Manager's Power",
+    "Id": [
+      70988
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  },
+  {
+    "Title": "Terror along the Tracks",
+    "Id": [
+      70987
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  }
+      ]
+    },
+    {
+      "Title": "The Occult Crescent",
+      "Quests": [
+        {
+          "Title": "One Last Hurrah",
+          "Id": [
+            70845
+          ],
+          "Area": "Tuliyollal",
+          "Level": 100
+        },
+        {
+          "Title": "The Phantom Village",
+          "Id": [
+            70846
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": "Unfamiliar Territory",
+          "Id": [
+            70847
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        },
+        {
+          "Title": "New Job, Old Tricks",
+          "Id": [
+            70848
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "The Ancient Arts of War",
+          "Id": [
+            70849
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "Creatures of the Crescent",
+          "Id": [
+            70850
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "A Ruined Land",
+          "Id": [
+            70851
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "A Common Thread",
+          "Id": [
+            70852
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "Past and Crescent",
+          "Id": [
+            70853
+          ],
+          "Area": "South Horn",
+          "Level": 100
+        },
+        {
+          "Title": "Mysteries Abide",
+          "Id": [
+            70854
+          ],
+          "Area": "Phantom Village",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Pilgrim's Traverse",
+      "Quests": [
+        {
+          "Title": "Pilgrimage of Light",
+          "Id": [
+            70941
+          ],
+          "Area": "The Crystarium",
+          "Level": 91
+        },
+        {
+          "Title": "Faerie Tale",
+          "Id": [
+            70942
+          ],
+          "Area": "Il Mheg",
+          "Level": 91
+        },
+        {
+          "Title": "A Branch and Their Sapling",
+          "Id": [
+            70943
+          ],
+          "Area": "Il Mheg",
+          "Level": 91
+        },
+        {
+          "Title": "The Pilgrim's Answer",
+          "Id": [
+            70944
+          ],
+          "Area": "Unknown",
+          "Level": 91
+        }
+      ]
+    }
+  ]
+}

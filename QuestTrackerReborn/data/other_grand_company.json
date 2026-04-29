@@ -1,0 +1,149 @@
+{
+  "Title": "Grand Company Quests",
+  "Categories": [
+    {
+      "Title": "Maelstrom Quests",
+      "Quests": [
+        {
+          "Title": "A Pup No Longer (Maelstrom)",
+          "Id": [
+            66640
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30,
+          "Gc": "Maelstrom"
+        },
+        {
+          "Title": "Like Civilized Men and Women (Maelstrom)",
+          "Id": [
+            67064
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30,
+          "Gc": "Maelstrom"
+        },
+        {
+          "Title": "Shadows Uncast (Maelstrom)",
+          "Id": [
+            66664
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 44
+        },
+        {
+          "Title": "Gilding the Bilious (Maelstrom)",
+          "Id": [
+            66667
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 47
+        },
+        {
+          "Title": "Let the Hunt Begin (Maelstrom)",
+          "Id": [
+            67100
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50,
+          "Gc": "Maelstrom"
+        }
+      ]
+    },
+    {
+      "Title": "Order of the Twin Adder Quests",
+      "Quests": [
+        {
+          "Title": "A Pup No Longer (Twin Adder)",
+          "Id": [
+            66641
+          ],
+          "Area": "Gridania",
+          "Level": 30,
+          "Gc": "Twin Adder"
+        },
+        {
+          "Title": "Like Civilized Men and Women (Twin Adder)",
+          "Id": [
+            67063
+          ],
+          "Area": "Gridania",
+          "Level": 30,
+          "Gc": "Twin Adder"
+        },
+        {
+          "Title": "Shadows Uncast (Twin Adder)",
+          "Id": [
+            66665
+          ],
+          "Area": "Gridania",
+          "Level": 44
+        },
+        {
+          "Title": "Gilding the Bilious (Twin Adder)",
+          "Id": [
+            66668
+          ],
+          "Area": "Gridania",
+          "Level": 47
+        },
+        {
+          "Title": "Let the Hunt Begin (Twin Adder)",
+          "Id": [
+            67099
+          ],
+          "Area": "Gridania",
+          "Level": 50,
+          "Gc": "Twin Adder"
+        }
+      ]
+    },
+    {
+      "Title": "Immortal Flames Quests",
+      "Quests": [
+        {
+          "Title": "A Pup No Longer (Immortal Flames)",
+          "Id": [
+            66642
+          ],
+          "Area": "Ul'dah",
+          "Level": 30,
+          "Gc": "Immortal Flames"
+        },
+        {
+          "Title": "Like Civilized Men and Women (Immortal Flames)",
+          "Id": [
+            67065
+          ],
+          "Area": "Ul'dah",
+          "Level": 30,
+          "Gc": "Immortal Flames"
+        },
+        {
+          "Title": "Shadows Uncast (Immortal Flames)",
+          "Id": [
+            66666
+          ],
+          "Area": "Ul'dah",
+          "Level": 44
+        },
+        {
+          "Title": "Gilding the Bilious (Immortal Flames)",
+          "Id": [
+            66669
+          ],
+          "Area": "Ul'dah",
+          "Level": 47
+        },
+        {
+          "Title": "Let the Hunt Begin (Immortal Flames)",
+          "Id": [
+            67101
+          ],
+          "Area": "Ul'dah",
+          "Level": 50,
+          "Gc": "Immortal Flames"
+        }
+      ]
+    }
+  ]
+}

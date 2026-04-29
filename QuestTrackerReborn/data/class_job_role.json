@@ -1,0 +1,850 @@
+{
+  "Title": "Role Quests",
+  "Categories": [
+    {
+      "Title": "Tank Role Quests (Shadowbringers)",
+      "Quests": [
+        {
+          "Title": "The Man with Too Many Scars",
+          "Id": [
+            68779
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Shaped by Tragedy",
+          "Id": [
+            68780
+          ],
+          "Area": "The Crystarium",
+          "Level": 72
+        },
+        {
+          "Title": "Defined by Loss",
+          "Id": [
+            68781
+          ],
+          "Area": "Kholusia",
+          "Level": 74
+        },
+        {
+          "Title": "The Princess and Her Knight",
+          "Id": [
+            68782
+          ],
+          "Area": "Amh Araeng",
+          "Level": 76
+        },
+        {
+          "Title": "The Hardened Heart",
+          "Id": [
+            68783
+          ],
+          "Area": "Il Mheg",
+          "Level": 78
+        },
+        {
+          "Title": "To Have Loved and Lost",
+          "Id": [
+            68784
+          ],
+          "Area": "Il Mheg",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Healer Role Quests (Shadowbringers)",
+      "Quests": [
+        {
+          "Title": "Traditions and Travails",
+          "Id": [
+            68803
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Affronts and Allies",
+          "Id": [
+            68804
+          ],
+          "Area": "The Crystarium",
+          "Level": 72
+        },
+        {
+          "Title": "The Scientific Method",
+          "Id": [
+            68805
+          ],
+          "Area": "The Crystarium",
+          "Level": 74
+        },
+        {
+          "Title": "The Lost and the Found",
+          "Id": [
+            68806
+          ],
+          "Area": "The Crystarium",
+          "Level": 76
+        },
+        {
+          "Title": "Never to Return",
+          "Id": [
+            68807
+          ],
+          "Area": "The Crystarium",
+          "Level": 78
+        },
+        {
+          "Title": "The Soul of Temperance",
+          "Id": [
+            68808
+          ],
+          "Area": "Kholusia",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Physical DPS Role Quests (Shadowbringers)",
+      "Quests": [
+        {
+          "Title": "No Greater Sport",
+          "Id": [
+            68809
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Vengeance in Defeat",
+          "Id": [
+            68810
+          ],
+          "Area": "The Crystarium",
+          "Level": 72
+        },
+        {
+          "Title": "Freedom from Privilege",
+          "Id": [
+            68811
+          ],
+          "Area": "The Crystarium",
+          "Level": 74
+        },
+        {
+          "Title": "The Hunter's Legacy",
+          "Id": [
+            68812
+          ],
+          "Area": "The Crystarium",
+          "Level": 76
+        },
+        {
+          "Title": "Fellowship Restored",
+          "Id": [
+            68813
+          ],
+          "Area": "Kholusia",
+          "Level": 78
+        },
+        {
+          "Title": "Courage Born of Fear",
+          "Id": [
+            68814
+          ],
+          "Area": "Kholusia",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Magical Ranged DPS Role Quests (Shadowbringers)",
+      "Quests": [
+        {
+          "Title": "Hollow Pursuits",
+          "Id": [
+            69159
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "A Voice from the Void",
+          "Id": [
+            69160
+          ],
+          "Area": "Amh Araeng",
+          "Level": 72
+        },
+        {
+          "Title": "Echoes of the Past",
+          "Id": [
+            69161
+          ],
+          "Area": "Amh Araeng",
+          "Level": 74
+        },
+        {
+          "Title": "Nyelbert's Lament",
+          "Id": [
+            69162
+          ],
+          "Area": "Amh Araeng",
+          "Level": 76
+        },
+        {
+          "Title": "Taynor's Training Day",
+          "Id": [
+            69163
+          ],
+          "Area": "Amh Araeng",
+          "Level": 78
+        },
+        {
+          "Title": "A Tearful Reunion",
+          "Id": [
+            69164
+          ],
+          "Area": "Amh Araeng",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Role Quests (Shadowbringers)",
+      "Quests": [
+        {
+          "Title": "Shadow Walk with Me",
+          "Id": [
+            69165
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        },
+        {
+          "Title": "Safekeeping",
+          "Id": [
+            69521
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Tank Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Shrouded in Peril",
+          "Id": [
+            69638
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 85
+        },
+        {
+          "Title": "To Give Voice",
+          "Id": [
+            69639
+          ],
+          "Area": "Gridania",
+          "Level": 86
+        },
+        {
+          "Title": "A Gift Undone",
+          "Id": [
+            69640
+          ],
+          "Area": "Gridania",
+          "Level": 87
+        },
+        {
+          "Title": "A Pact Proven",
+          "Id": [
+            69641
+          ],
+          "Area": "Gridania",
+          "Level": 88
+        },
+        {
+          "Title": "Hearts True",
+          "Id": [
+            69642
+          ],
+          "Area": "Gridania",
+          "Level": 89
+        },
+        {
+          "Title": "A Path Unveiled",
+          "Id": [
+            69643
+          ],
+          "Area": "Gridania",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Healer Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Far from Free",
+          "Id": [
+            69644
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 85
+        },
+        {
+          "Title": "The Butcher's Blade",
+          "Id": [
+            69645
+          ],
+          "Area": "The Lochs",
+          "Level": 86
+        },
+        {
+          "Title": "A New Battleground",
+          "Id": [
+            69646
+          ],
+          "Area": "The Lochs",
+          "Level": 87
+        },
+        {
+          "Title": "Laying the Past to Rest",
+          "Id": [
+            69647
+          ],
+          "Area": "The Lochs",
+          "Level": 88
+        },
+        {
+          "Title": "Trail of Skulls",
+          "Id": [
+            69648
+          ],
+          "Area": "The Lochs",
+          "Level": 89
+        },
+        {
+          "Title": "The Gift of Mercy",
+          "Id": [
+            69649
+          ],
+          "Area": "The Lochs",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Melee DPS Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Storm Clouds Brewing",
+          "Id": [
+            69650
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 85
+        },
+        {
+          "Title": "The Crushing Tide",
+          "Id": [
+            69651
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 86
+        },
+        {
+          "Title": "Old Heroes Never Die",
+          "Id": [
+            69652
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 87
+        },
+        {
+          "Title": "A Mother's Suffering",
+          "Id": [
+            69653
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 88
+        },
+        {
+          "Title": "Out of the Shadows",
+          "Id": [
+            69654
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 89
+        },
+        {
+          "Title": "To Calmer Seas",
+          "Id": [
+            69655
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Physical Ranged DPS Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Seeds of Disquiet",
+          "Id": [
+            69656
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 85
+        },
+        {
+          "Title": "When the Kami Answer",
+          "Id": [
+            69657
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 86
+        },
+        {
+          "Title": "Home No Longer",
+          "Id": [
+            69658
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 87
+        },
+        {
+          "Title": "The Devoted Daughter",
+          "Id": [
+            69659
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 88
+        },
+        {
+          "Title": "A Singular Gift",
+          "Id": [
+            69660
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 89
+        },
+        {
+          "Title": "Laid to Rest",
+          "Id": [
+            69661
+          ],
+          "Area": "The Doman Enclave",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Magical Ranged DPS Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Our Aching Souls",
+          "Id": [
+            69662
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 85
+        },
+        {
+          "Title": "No Forgiveness, No Deliverance",
+          "Id": [
+            69663
+          ],
+          "Area": "Ishgard",
+          "Level": 86
+        },
+        {
+          "Title": "Only Justice, Only Vengeance",
+          "Id": [
+            69664
+          ],
+          "Area": "Ishgard",
+          "Level": 87
+        },
+        {
+          "Title": "Wills Unending, Faith Unbending",
+          "Id": [
+            69665
+          ],
+          "Area": "Ishgard",
+          "Level": 88
+        },
+        {
+          "Title": "O Mighty Fury, Guide Us to Victory",
+          "Id": [
+            69666
+          ],
+          "Area": "Ishgard",
+          "Level": 89
+        },
+        {
+          "Title": "Ever March Heavensward",
+          "Id": [
+            69667
+          ],
+          "Area": "Ishgard",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Role Quests (Endwalker)",
+      "Quests": [
+        {
+          "Title": "Bitter Snow",
+          "Id": [
+            70115
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        },
+        {
+          "Title": "Frozen Hope",
+          "Id": [
+            70116
+          ],
+          "Area": "Garlemald",
+          "Level": 90
+        },
+        {
+          "Title": "Misguided Few",
+          "Id": [
+            70117
+          ],
+          "Area": "Garlemald",
+          "Level": 90
+        },
+        {
+          "Title": "Forlorn Glory",
+          "Id": [
+            70118
+          ],
+          "Area": "Garlemald",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Tank Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "The Narwhal Beckons",
+          "Id": [
+            70354
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "Sleepless in Ishgard",
+          "Id": [
+            70355
+          ],
+          "Area": "Ishgard",
+          "Level": 92
+        },
+        {
+          "Title": "Between Sleep and Death",
+          "Id": [
+            70356
+          ],
+          "Area": "Ishgard",
+          "Level": 94
+        },
+        {
+          "Title": "Beacon in the Darkness",
+          "Id": [
+            70357
+          ],
+          "Area": "Ishgard",
+          "Level": 96
+        },
+        {
+          "Title": "Awakened, Not Stirred",
+          "Id": [
+            70358
+          ],
+          "Area": "Ishgard",
+          "Level": 98
+        },
+        {
+          "Title": "Dreams of a New Day",
+          "Id": [
+            70359
+          ],
+          "Area": "Ishgard",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Healer Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "In the Sting of Things",
+          "Id": [
+            70360
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "Causing Problems on Purpose",
+          "Id": [
+            70361
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 92
+        },
+        {
+          "Title": "Living among the Deadly",
+          "Id": [
+            70362
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 94
+        },
+        {
+          "Title": "Taste of a Toxin Paradise",
+          "Id": [
+            70363
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 96
+        },
+        {
+          "Title": "Downed by the River",
+          "Id": [
+            70364
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 98
+        },
+        {
+          "Title": "An Antidote for Anarchy",
+          "Id": [
+            70365
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Melee DPS Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "The Hunter and the Hunted",
+          "Id": [
+            70366
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "A Sea of Blood",
+          "Id": [
+            70367
+          ],
+          "Area": "Kugane",
+          "Level": 92
+        },
+        {
+          "Title": "Who's Who",
+          "Id": [
+            70368
+          ],
+          "Area": "Kugane",
+          "Level": 94
+        },
+        {
+          "Title": "Cornered Prey",
+          "Id": [
+            70369
+          ],
+          "Area": "Kugane",
+          "Level": 96
+        },
+        {
+          "Title": "Impostor Syndrome",
+          "Id": [
+            70370
+          ],
+          "Area": "Kugane",
+          "Level": 98
+        },
+        {
+          "Title": "A Hunter True",
+          "Id": [
+            70371
+          ],
+          "Area": "Kugane",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Physical Ranged DPS Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "To Steal a Steelhog",
+          "Id": [
+            70372
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "Bandits Abound",
+          "Id": [
+            70373
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 92
+        },
+        {
+          "Title": "Take Me to Your Leader",
+          "Id": [
+            70374
+          ],
+          "Area": "The Lochs",
+          "Level": 94
+        },
+        {
+          "Title": "The Milk of Mamool Ja Kindness",
+          "Id": [
+            70375
+          ],
+          "Area": "The Peaks",
+          "Level": 96
+        },
+        {
+          "Title": "Ally in the Alley",
+          "Id": [
+            70376
+          ],
+          "Area": "The Peaks",
+          "Level": 98
+        },
+        {
+          "Title": "The Mightiest Shield",
+          "Id": [
+            70377
+          ],
+          "Area": "The Lochs",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Magical Ranged DPS Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "Power Forgotten",
+          "Id": [
+            70378
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "A Brand of Justice",
+          "Id": [
+            70379
+          ],
+          "Area": "Thavnair",
+          "Level": 92
+        },
+        {
+          "Title": "The Seeds of Popularity",
+          "Id": [
+            70380
+          ],
+          "Area": "Thavnair",
+          "Level": 94
+        },
+        {
+          "Title": "Floundering Fame",
+          "Id": [
+            70381
+          ],
+          "Area": "Thavnair",
+          "Level": 96
+        },
+        {
+          "Title": "Behind the Helm",
+          "Id": [
+            70382
+          ],
+          "Area": "Thavnair",
+          "Level": 98
+        },
+        {
+          "Title": "Heroes and Pretenders",
+          "Id": [
+            70383
+          ],
+          "Area": "Thavnair",
+          "Level": 100
+        }
+      ]
+    },
+    {
+      "Title": "Role Quests (Dawntrail)",
+      "Quests": [
+        {
+          "Title": "Uncouth Customers",
+          "Id": [
+            70353
+          ],
+          "Area": "Tuliyollal",
+          "Level": 90
+        },
+        {
+          "Title": "Picking Up the Torch",
+          "Id": [
+            70724
+          ],
+          "Area": "Tuliyollal",
+          "Level": 100
+        },
+        {
+          "Title": "Imposing Views",
+          "Id": [
+            70725
+          ],
+          "Area": "Ul'dah",
+          "Level": 100
+        },
+        {
+          "Title": "Enforcing Freedom",
+          "Id": [
+            70726
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 100
+        },
+        {
+          "Title": "Bar the Passage",
+          "Id": [
+            70727
+          ],
+          "Area": "Tuliyollal",
+          "Level": 100
+        }
+      ]
+    }
+  ]
+}

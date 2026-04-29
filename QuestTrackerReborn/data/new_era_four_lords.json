@@ -1,0 +1,45 @@
+{
+  "Title": "Chronicles of a New Era - The Four Lords",
+  "Quests": [
+    {
+      "Title": "An Auspicious Encounter",
+      "Id": [
+        68551
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    },
+    {
+      "Title": "Tortoise in Time",
+      "Id": [
+        68552
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    },
+    {
+      "Title": "The Fire-bird Down Below",
+      "Id": [
+        68688
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    },
+    {
+      "Title": "Surpassing the Samurai",
+      "Id": [
+        68701
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    },
+    {
+      "Title": "The Fifth Lord",
+      "Id": [
+        68702
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 70
+    }
+  ]
+}

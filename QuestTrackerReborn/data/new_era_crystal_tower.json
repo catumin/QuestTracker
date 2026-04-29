@@ -1,0 +1,70 @@
+{
+  "Title": "Chronicles of a New Era - The Crystal Tower",
+  "Quests": [
+    {
+      "Title": "Legacy of Allag",
+      "Id": [
+        66735,
+        67245
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "Sanding It Down",
+      "Id": [
+        66736
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "A Performance for the Ages",
+      "Id": [
+        66737
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "Labyrinth of the Ancients",
+      "Id": [
+        66738
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "For Prosperity",
+      "Id": [
+        66739
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "Syrcus Tower",
+      "Id": [
+        67010
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "The World of Darkness",
+      "Id": [
+        66030
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "The Light of Hope",
+      "Id": [
+        66031
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    }
+  ]
+}

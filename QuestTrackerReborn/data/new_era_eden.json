@@ -1,0 +1,149 @@
+{
+  "Title": "Chronicles of a New Era - Eden",
+  "Quests": [
+    {
+      "Title": "In the Middle of Nowhere",
+      "Id": [
+        68791
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Deploy the Core",
+      "Id": [
+        68792
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "One Fell Swoop",
+      "Id": [
+        68793
+      ],
+      "Area": "The Core",
+      "Level": 80
+    },
+    {
+      "Title": "Nor Any Drop to Drink",
+      "Id": [
+        68794
+      ],
+      "Area": "The Core",
+      "Level": 80
+    },
+    {
+      "Title": "Super Seismic",
+      "Id": [
+        68795
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "The Next Piece of the Puzzle",
+      "Id": [
+        68796
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Away with the Faerie",
+      "Id": [
+        69323
+      ],
+      "Area": "Amh Araeng",
+      "Level": 80
+    },
+    {
+      "Title": "Blood and Thunder",
+      "Id": [
+        69324
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Into the Firestorm",
+      "Id": [
+        69325
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Heart of Darkness",
+      "Id": [
+        69326
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "On Thin Ice",
+      "Id": [
+        69327
+      ],
+      "Area": "The Core",
+      "Level": 80
+    },
+    {
+      "Title": "Life Finds a Way",
+      "Id": [
+        69328
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Worlds Apart",
+      "Id": [
+        69329
+      ],
+      "Area": "Amh Araeng",
+      "Level": 80
+    },
+    {
+      "Title": "Empty Promise",
+      "Id": [
+        69511
+      ],
+      "Area": "Amh Araeng",
+      "Level": 80
+    },
+    {
+      "Title": "Fear of the Dark",
+      "Id": [
+        69512
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Shadows of the Past",
+      "Id": [
+        69513
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    },
+    {
+      "Title": "Voice of the Soul",
+      "Id": [
+        69514
+      ],
+      "Area": "The Core",
+      "Level": 80
+    },
+    {
+      "Title": "Where I Belong",
+      "Id": [
+        69515
+      ],
+      "Area": "The Empty",
+      "Level": 80
+    }
+  ]
+}

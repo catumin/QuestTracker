@@ -22,7 +22,7 @@ public class DataConverter
         DataManager = dataManager;
         PluginLog = pluginLog;
 
-        DirPath = PluginInterface.AssemblyLocation.Directory.Parent.Parent.FullName + "/utils";
+        DirPath = PluginInterface.AssemblyLocation.Directory.Parent.Parent.Parent.FullName + "/utils";
         
         ConvertRawDataTxt();
     }

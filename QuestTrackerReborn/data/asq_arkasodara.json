@@ -1,0 +1,287 @@
+{
+  "Title": "Arkasodara Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " Hippos Born to Run",
+          "Id": [
+            70081
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " A Pachyderm's Promptitude",
+          "Id": [
+            70082
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Hippo Healing",
+          "Id": [
+            70083
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Defiant Ogul, Deified!",
+          "Id": [
+            70084
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Leader to Leader",
+          "Id": [
+            70085
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " The Hippo Riders",
+          "Id": [
+            70086
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " Ridin' Flyers for Flyin' Riders",
+          "Id": [
+            70087
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Deal by the Docks",
+          "Id": [
+            70088
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Do It for the Vine",
+          "Id": [
+            70089
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Missing Rider",
+          "Id": [
+            70090
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Flowers for Sanduruva",
+          "Id": [
+            70091
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Anxious Rookie",
+          "Id": [
+            70092
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Gulal Generosity",
+          "Id": [
+            70093
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Essential Eggredients",
+          "Id": [
+            70094
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Darling Defender",
+          "Id": [
+            70095
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Bloomin' Ocean",
+          "Id": [
+            70096
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Fresh Eats and Ripe Sweets",
+          "Id": [
+            70097
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Waste Not, Want None of That",
+          "Id": [
+            70098
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Seedy Affair",
+          "Id": [
+            70099
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Olfactory Warfare",
+          "Id": [
+            70100
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Ridin' Hazards",
+          "Id": [
+            70101
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Hippo Scrub",
+          "Id": [
+            70102
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Vanaspati's Blessing",
+          "Id": [
+            70103
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Hells Hath No Fury as a Hippo Scorned",
+          "Id": [
+            70104
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Tusk Trouble",
+          "Id": [
+            70105
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Patching Up",
+          "Id": [
+            70106
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " A Hippo's Best Friend",
+          "Id": [
+            70107
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " An Explosive Brew",
+          "Id": [
+            70108
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Gathering Moss",
+          "Id": [
+            70109
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Blood from a Stonemason",
+          "Id": [
+            70110
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " A Radiant Delivery",
+          "Id": [
+            70111
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Like a Crate to Water",
+          "Id": [
+            70112
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Manusyan for a Day",
+          "Id": [
+            70113
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        },
+        {
+          "Title": " Steep the Legs",
+          "Id": [
+            70114
+          ],
+          "Area": "Thavnair",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

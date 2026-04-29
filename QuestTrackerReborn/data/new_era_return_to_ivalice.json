@@ -1,0 +1,85 @@
+{
+  "Title": "Chronicles of a New Era - Return to Ivalice",
+  "Quests": [
+    {
+      "Title": "Dramatis Personae",
+      "Id": [
+        68539
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "A City Fallen",
+      "Id": [
+        68540
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Uninvited",
+      "Id": [
+        68625
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Desire",
+      "Id": [
+        68627
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Annihilation",
+      "Id": [
+        68628
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "The Path of Most Resistance",
+      "Id": [
+        68723
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "Welcome to Their Jungle",
+      "Id": [
+        68724
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "The City of Lost Angels",
+      "Id": [
+        68725
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "My Power, My Pleasure, My Pain",
+      "Id": [
+        68626
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    },
+    {
+      "Title": "In Bad Taste",
+      "Id": [
+        68726
+      ],
+      "Area": "Kugane",
+      "Level": 70
+    }
+  ]
+}

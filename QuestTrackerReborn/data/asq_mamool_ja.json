@@ -1,0 +1,288 @@
+{
+  "Title": "Mamool Ja Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " Cultivating Hope",
+          "Id": [
+            70791
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Doppro Tradition",
+          "Id": [
+            70792
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " A Hoobigo's Return",
+          "Id": [
+            70793
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " The Boon of Boonewa",
+          "Id": [
+            70794
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " A New Yak T'el",
+          "Id": [
+            70795
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " The Pride of Mamook",
+          "Id": [
+            70795
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " Root of the Problem",
+          "Id": [
+            70797
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Taking Your Leavings",
+          "Id": [
+            70798
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Cultivating Data",
+          "Id": [
+            70799
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Toil for the Soil",
+          "Id": [
+            70800
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Stem's the Breaks",
+          "Id": [
+            70801
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " All Tools' Maintenance",
+          "Id": [
+            70802
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Healing the Fields",
+          "Id": [
+            70803
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Bonding with Branchbearers",
+          "Id": [
+            70804
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Bugs Begone",
+          "Id": [
+            70805
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Pain Relief",
+          "Id": [
+            70806
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Stimulating Growth",
+          "Id": [
+            70807
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Fresh Cleaning Supplies",
+          "Id": [
+            70808
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Shine a Light on the Problem",
+          "Id": [
+            70809
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " A Measure of Influence",
+          "Id": [
+            70810
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Promoting Produce",
+          "Id": [
+            70811
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Rough Around the Edges",
+          "Id": [
+            70812
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Building a Better Smoke Bomb",
+          "Id": [
+            70813
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Remedies at the Ready",
+          "Id": [
+            70814
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " A Welcoming Fragrance",
+          "Id": [
+            70815
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Fruit of Friendship",
+          "Id": [
+            70816
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Vital Vegetables",
+          "Id": [
+            70817
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Creative Composting",
+          "Id": [
+            70818
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Stores to Dry For",
+          "Id": [
+            70819
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Keeping the Lights On",
+          "Id": [
+            70820
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Gifts of the Gainery",
+          "Id": [
+            70821
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " A Seasoning for Soup",
+          "Id": [
+            70822
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Store-to-door Delivery",
+          "Id": [
+            70823
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        },
+        {
+          "Title": " Above-average Beverage",
+          "Id": [
+            70824
+          ],
+          "Area": "Yak T'el",
+          "Level": 90
+        }
+      ]
+    }
+  ],
+  "Quests": []
+}

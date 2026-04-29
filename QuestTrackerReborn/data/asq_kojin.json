@@ -1,0 +1,255 @@
+{
+  "Title": "Kojin Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " Heaven-sent",
+          "Id": [
+            68509
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Under Wraps",
+          "Id": [
+            68510
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " The Value of Silence",
+          "Id": [
+            68511
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Misdelivered",
+          "Id": [
+            68512
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " A Test of Courage",
+          "Id": [
+            68513
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " True-blue",
+          "Id": [
+            68514
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " Best Served Foul",
+          "Id": [
+            68515
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " A Real Pearler",
+          "Id": [
+            68516
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " You Have the Rite",
+          "Id": [
+            68517
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Krilled to Pieces",
+          "Id": [
+            68518
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Tonight We Dine in Shells",
+          "Id": [
+            68519
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Pickles of Partnership",
+          "Id": [
+            68520
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Little Kojin Lost",
+          "Id": [
+            68521
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Much at Steak",
+          "Id": [
+            68522
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Confused Courier",
+          "Id": [
+            68523
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Buoyant Bounty",
+          "Id": [
+            68524
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Anala-lyze This",
+          "Id": [
+            68525
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Sand-sifting Specialist",
+          "Id": [
+            68526
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Forever Blowing Bubbles",
+          "Id": [
+            68527
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " No, Not the Boo Box",
+          "Id": [
+            68528
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Pleasure Doing Business",
+          "Id": [
+            68529
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Deep Turquoise Sea",
+          "Id": [
+            68530
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Holy Mother of Pearl",
+          "Id": [
+            68531
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Flotsam and Jetsam",
+          "Id": [
+            68532
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Clammed Up",
+          "Id": [
+            68533
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Tale of Roe",
+          "Id": [
+            68534
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " You Blow It Up",
+          "Id": [
+            68535
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Tentacles of Trade",
+          "Id": [
+            68536
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " The Hot-blooded Kojin",
+          "Id": [
+            68537
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        },
+        {
+          "Title": " Disciplinary Action",
+          "Id": [
+            68538
+          ],
+          "Area": "The Ruby Sea",
+          "Level": 60
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "Title": "Amalj'aa Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": "Peace for Thanalan",
+          "Id": [
+            66753
+          ],
+          "Area": "Ul'dah",
+          "Level": 43
+        },
+        {
+          "Title": "Brotherhood of Ash",
+          "Id": [
+            66754
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Ranger Rescue",
+          "Id": [
+            66755
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "An Eye on the Inside",
+          "Id": [
+            66756
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Martial Perfection",
+          "Id": [
+            66757
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": "A Shell to Scry On",
+          "Id": [
+            66758
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Borderline Slaughter",
+          "Id": [
+            66759
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "A Sappy Ending",
+          "Id": [
+            66760
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Luring Lacovie",
+          "Id": [
+            66761
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Fighting Firesand with Fire",
+          "Id": [
+            66762
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Smothering Instinct",
+          "Id": [
+            66763
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Losing One's Tempered",
+          "Id": [
+            66764
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Ravage the Ravagers",
+          "Id": [
+            66765
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Arms of the U",
+          "Id": [
+            66766
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Blitzing the Beacons",
+          "Id": [
+            66767
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 43
+        },
+        {
+          "Title": "Rite Where It Hurts",
+          "Id": [
+            66768
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Thinning the Ranks",
+          "Id": [
+            66769
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Forged in Flame",
+          "Id": [
+            66770
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Beacon Keepers",
+          "Id": [
+            66771
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Singed Fur Their Own Good",
+          "Id": [
+            66772
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "The Gland That Feeds You",
+          "Id": [
+            66773
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Douse Them While They're Down",
+          "Id": [
+            66774
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Before They Are Tempered",
+          "Id": [
+            66775
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Hard to Port",
+          "Id": [
+            66776
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "This Infernal Heat",
+          "Id": [
+            66777
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 46
+        },
+        {
+          "Title": "Elite Beating",
+          "Id": [
+            66778
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Unholier than Thou",
+          "Id": [
+            66779
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Raiding the Cache",
+          "Id": [
+            66780
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Pulling Fangs",
+          "Id": [
+            66781
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Demolition Drake",
+          "Id": [
+            66782
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Fire-spitting Image",
+          "Id": [
+            66783
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Nothing Sacred",
+          "Id": [
+            66784
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Fodder for the Flamefangs",
+          "Id": [
+            66785
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "Hatchling Humiliation",
+          "Id": [
+            66786
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        },
+        {
+          "Title": "The Beacon That Burns You",
+          "Id": [
+            66787
+          ],
+          "Area": "Southern Thanalan",
+          "Level": 48
+        }
+      ]
+    }
+  ]
+}

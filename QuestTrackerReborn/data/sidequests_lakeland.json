@@ -1,0 +1,407 @@
+{
+  "Title": "Lakeland Sidequests",
+  "Categories": [
+    {
+      "Title": "Lakeland",
+      "Quests": [
+        {
+          "Title": " Stock and Barrel",
+          "Id": [
+            68917
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Classical Condition",
+          "Id": [
+            68918
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Desperate Measures",
+          "Id": [
+            68919
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Imperative Repairs",
+          "Id": [
+            68920
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " The Astute Amaro",
+          "Id": [
+            68921
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " An Unreasonable Request",
+          "Id": [
+            68922
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " You've Got the Tatch",
+          "Id": [
+            68923
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " All That Heavenly Glory",
+          "Id": [
+            68924
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Beers for Fears",
+          "Id": [
+            68925
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Loot Justice Mode",
+          "Id": [
+            68926
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Inglourious Bath Stewards",
+          "Id": [
+            68927
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Lofty Goals",
+          "Id": [
+            68971
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " You Had One Jobb",
+          "Id": [
+            68972
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Of Graveyards and Gremlins",
+          "Id": [
+            68973
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " On Her Own",
+          "Id": [
+            68992
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Carrying On",
+          "Id": [
+            68993
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " In Father's Footsteps",
+          "Id": [
+            68994
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Her True Calling",
+          "Id": [
+            68995
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " His Secret Shame",
+          "Id": [
+            69070
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " A Much-needed Respite",
+          "Id": [
+            69071
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Resolve Regained",
+          "Id": [
+            69072
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Flowering Friendships",
+          "Id": [
+            69051
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " The Sullen Man",
+          "Id": [
+            69105
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Rite of Passage",
+          "Id": [
+            69106
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Bigger Fish to Dry",
+          "Id": [
+            69107
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Treasure-hunting Tykes",
+          "Id": [
+            69108
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " With Furious Anger",
+          "Id": [
+            69109
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Scrumptious Squirmers",
+          "Id": [
+            69110
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        },
+        {
+          "Title": " Simple Treasures",
+          "Id": [
+            69111
+          ],
+          "Area": "Lakeland",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "The Crystarium",
+      "Quests": [
+        {
+          "Title": " A Cry for Help",
+          "Id": [
+            68879
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Rate and Review",
+          "Id": [
+            68880
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Pour One Out",
+          "Id": [
+            68881
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " A Dirty Trick",
+          "Id": [
+            68882
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " From a Distance",
+          "Id": [
+            68883
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " A Fitting Challenge",
+          "Id": [
+            68884
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Do You Believe in Magic",
+          "Id": [
+            68915
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " A Jobb Well Done",
+          "Id": [
+            68916
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "That's So Anden",
+          "Id": [
+            70251
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        },
+        {
+          "Title": " Scars of War",
+          "Id": [
+            69069
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Simple Gifts",
+          "Id": [
+            69100
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " His Own Medicine",
+          "Id": [
+            69101
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Welcome to the Future",
+          "Id": [
+            69102
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " Made, Not Born",
+          "Id": [
+            69103
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": " The Poet Doesn't Know It",
+          "Id": [
+            69104
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Nuts to You",
+          "Id": [
+            69133
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Two Nuts Too Nutty",
+          "Id": [
+            69134
+          ],
+          "Area": "The Crystarium",
+          "Level": 73
+        },
+        {
+          "Title": "How Do You Like Three Nuts",
+          "Id": [
+            69135
+          ],
+          "Area": "The Crystarium",
+          "Level": 76
+        },
+        {
+          "Title": "Too Many Nutters",
+          "Id": [
+            69136
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        },
+        {
+          "Title": "By the Time You Hear This",
+          "Id": [
+            69131
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

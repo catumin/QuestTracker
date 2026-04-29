@@ -1,0 +1,53 @@
+{
+  "Title": "Chronicles of a New Era - The Sorrow of Werlyt",
+  "Quests": [
+    {
+      "Title": "Ruby Doomsday",
+      "Id": [
+        69319
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Sleep Now in Sapphire",
+      "Id": [
+        69431
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Blood of Emerald",
+      "Id": [
+        69516
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "In Memory",
+      "Id": [
+        69517
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Duty in the Sky with Diamond",
+      "Id": [
+        69567
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Forever at Your Side",
+      "Id": [
+        69568
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    }
+  ]
+}

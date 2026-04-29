@@ -1,0 +1,319 @@
+{
+  "Title": "Moogle Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": " Tricks and Stones",
+          "Id": [
+            67856
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " The Milk of Moogle Kindness",
+          "Id": [
+            67857
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Trying Times",
+          "Id": [
+            67858
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Crystalline Solution",
+          "Id": [
+            67859
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " The Tools Make the Moogle",
+          "Id": [
+            67860
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Monumental Task",
+          "Id": [
+            67861
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Piecing Together the Past",
+          "Id": [
+            67862
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": "The Zenith of Craftsmanship",
+          "Id": [
+            67863
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " With a Little Help",
+          "Id": [
+            67826
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Hasty Conclusions",
+          "Id": [
+            67827
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Fundamentally Important Task",
+          "Id": [
+            67828
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Deep into the Weeds",
+          "Id": [
+            67829
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Moogle on the Wall",
+          "Id": [
+            67830
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Kupo for Kupo Nuts",
+          "Id": [
+            67831
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Work That Mallow",
+          "Id": [
+            67832
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Little Pick-me-up",
+          "Id": [
+            67833
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Fine Finish",
+          "Id": [
+            67834
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " The Mining Mishap",
+          "Id": [
+            67835
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Stumbling Blocks",
+          "Id": [
+            67836
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Tricks without Treats",
+          "Id": [
+            67837
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " For Moogles in Peril",
+          "Id": [
+            67838
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " The Negotiator",
+          "Id": [
+            67839
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Back to the Drawing Board",
+          "Id": [
+            67840
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Built to Last",
+          "Id": [
+            67841
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Let There Be Light",
+          "Id": [
+            67842
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Rare Refreshments",
+          "Id": [
+            67843
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Stone's Throw Away",
+          "Id": [
+            67844
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Revivifying Roar",
+          "Id": [
+            67845
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Journey of a Thousand Hews",
+          "Id": [
+            67846
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Ship of Dreams",
+          "Id": [
+            67847
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Stirring by Sternutation",
+          "Id": [
+            67848
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Dragon Draff for Their Behalf",
+          "Id": [
+            67849
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " A Fish for His Favors",
+          "Id": [
+            67850
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " From Lax to Max",
+          "Id": [
+            67851
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " An Ishgardian Treat",
+          "Id": [
+            67852
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Mine and Craft",
+          "Id": [
+            67853
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " The Moogle Motivator",
+          "Id": [
+            67854
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        },
+        {
+          "Title": " Tremble Finishing",
+          "Id": [
+            67855
+          ],
+          "Area": "The Churning Mists",
+          "Level": 50
+        }
+      ]
+    }
+  ]
+}

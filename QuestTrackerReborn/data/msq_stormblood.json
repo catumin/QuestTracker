@@ -1,0 +1,981 @@
+{
+  "Title": "Stormblood Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Beyond the Great Wall",
+      "Id": [
+        67982
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "Lyse Takes the Lead",
+      "Id": [
+        67983
+      ],
+      "Area": "The Fringes",
+      "Level": 60
+    },
+    {
+      "Title": "The Promise of a New Beginning",
+      "Id": [
+        67984
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "A Haven for the Bold",
+      "Id": [
+        67985
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "A Bargain Struck",
+      "Id": [
+        67986
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "A Friend of a Friend in Need",
+      "Id": [
+        67987
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "Signed, Sealed, to Be Delivered",
+      "Id": [
+        67988
+      ],
+      "Area": "The Fringes",
+      "Level": 60
+    },
+    {
+      "Title": "Best Served with Cold Steel",
+      "Id": [
+        67989
+      ],
+      "Area": "The Fringes",
+      "Level": 60
+    },
+    {
+      "Title": "Let Fill Your Hearts with Pride",
+      "Id": [
+        67990
+      ],
+      "Area": "The Fringes",
+      "Level": 60
+    },
+    {
+      "Title": "A Familiar Face Forgotten",
+      "Id": [
+        67991
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "The Prodigal Daughter",
+      "Id": [
+        67992
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "Hard Country",
+      "Id": [
+        68490
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "Death by a Thousand Rocks",
+      "Id": [
+        68491
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "A Life More Ordinary",
+      "Id": [
+        67993
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "The Color of Angry Qiqirn",
+      "Id": [
+        67994
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "The Black Wolf's Pups",
+      "Id": [
+        67995
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "Homeward Bound",
+      "Id": [
+        67996
+      ],
+      "Area": "The Peaks",
+      "Level": 60
+    },
+    {
+      "Title": "Where Men Go as One",
+      "Id": [
+        67997
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "Future Rust, Future Dust",
+      "Id": [
+        68171
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "A Dash of Green",
+      "Id": [
+        68172
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "Ye Wayward Brothers",
+      "Id": [
+        68173
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "Token of Faith",
+      "Id": [
+        68174
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 60
+    },
+    {
+      "Title": "Crossing the Velodyna",
+      "Id": [
+        67998
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 61
+    },
+    {
+      "Title": "In Crimson It Began",
+      "Id": [
+        67999
+      ],
+      "Area": "The Fringes",
+      "Level": 61
+    },
+    {
+      "Title": "The Fires Fade",
+      "Id": [
+        68000
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 61
+    },
+    {
+      "Title": "Bereft of Hearth and Home",
+      "Id": [
+        68001
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 61
+    },
+    {
+      "Title": "Divide and Conquer",
+      "Id": [
+        68002
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 61
+    },
+    {
+      "Title": "Lies, Damn Lies, and Pirates",
+      "Id": [
+        68003
+      ],
+      "Area": "The Fringes",
+      "Level": 61
+    },
+    {
+      "Title": "Tales from the Far East",
+      "Id": [
+        68004
+      ],
+      "Area": "Limsa Lominsa",
+      "Level": 61
+    },
+    {
+      "Title": "Not without Incident",
+      "Id": [
+        68005
+      ],
+      "Area": "Mor Dhona",
+      "Level": 61
+    },
+    {
+      "Title": "The Man from Ul'dah",
+      "Id": [
+        68006
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "Where the Streets Are Paved with Koban",
+      "Id": [
+        68007
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "By the Grace of Lord Lolorito",
+      "Id": [
+        68008
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "A Good Samurai Is Hard to Find",
+      "Id": [
+        68009
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "It's Probably a Trap",
+      "Id": [
+        68010
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "Making the Catfish Sing",
+      "Id": [
+        68011
+      ],
+      "Area": "Kugane",
+      "Level": 61
+    },
+    {
+      "Title": "Once More, to the Ruby Sea",
+      "Id": [
+        68012
+      ],
+      "Area": "Kugane",
+      "Level": 62
+    },
+    {
+      "Title": "Open Water",
+      "Id": [
+        68013
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "Boys with Boats",
+      "Id": [
+        68014
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "To Bend with the Wind",
+      "Id": [
+        68015
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "Confederate Consternation",
+      "Id": [
+        68016
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "The Solace of the Sea",
+      "Id": [
+        68217
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "The Arrows of Misfortune",
+      "Id": [
+        68489
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "The Last Voyage",
+      "Id": [
+        68215
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "Alisaie's Stones",
+      "Id": [
+        68017
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "Under the Sea",
+      "Id": [
+        68018
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "Of Kojin and Kami",
+      "Id": [
+        68019
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 62
+    },
+    {
+      "Title": "In Soroban We Trust",
+      "Id": [
+        68020
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "Forever and Ever Apart",
+      "Id": [
+        68021
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "In Darkness the Magatama Dreams",
+      "Id": [
+        68022
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "The Whims of the Divine",
+      "Id": [
+        68023
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "Breaking and Delivering",
+      "Id": [
+        68024
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "The Lord of the Revel",
+      "Id": [
+        68025
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "Tide Goes in, Imperials Go Out",
+      "Id": [
+        68026
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "A Silence in Three Parts",
+      "Id": [
+        68027
+      ],
+      "Area": "The Ruby Sea",
+      "Level": 63
+    },
+    {
+      "Title": "Life after Doma",
+      "Id": [
+        68028
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "A Glimpse of Madness",
+      "Id": [
+        68470
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "The Stubborn Remainder",
+      "Id": [
+        68029
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "The Ones We Leave Behind",
+      "Id": [
+        68030
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "A New Ruby Tithe",
+      "Id": [
+        68031
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "The Will to Live",
+      "Id": [
+        68032
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "Daughter of the Deep",
+      "Id": [
+        68033
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "Path of No Return",
+      "Id": [
+        68471
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "The Time between the Seconds",
+      "Id": [
+        68034
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "All the Little Angels",
+      "Id": [
+        68035
+      ],
+      "Area": "Yanxia",
+      "Level": 64
+    },
+    {
+      "Title": "Here There Be Xaela",
+      "Id": [
+        68166
+      ],
+      "Area": "Yanxia",
+      "Level": 65
+    },
+    {
+      "Title": "The Search for Lord Hien",
+      "Id": [
+        68036
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "A Season for War",
+      "Id": [
+        68037
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "An Impossible Dream",
+      "Id": [
+        68038
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "Stars in the Dark",
+      "Id": [
+        68039
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "A Warrior's Welcome",
+      "Id": [
+        68040
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "The Heart of Nations",
+      "Id": [
+        68041
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "A Trial Before the Trial",
+      "Id": [
+        68042
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "In the Footsteps of Bardam the Brave",
+      "Id": [
+        68043
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "The Children of Azim",
+      "Id": [
+        68044
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 65
+    },
+    {
+      "Title": "The Labors of Magnai",
+      "Id": [
+        68045
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "For Love of the Moon",
+      "Id": [
+        68046
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "Sworn Enemies of the Sun",
+      "Id": [
+        68047
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "The Undying Ones",
+      "Id": [
+        68048
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "A Final Peace",
+      "Id": [
+        68049
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "As the Gods Will",
+      "Id": [
+        68050
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "Naadam",
+      "Id": [
+        68051
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "Glory to the Khagan",
+      "Id": [
+        68052
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "In Crimson They Walked",
+      "Id": [
+        68053
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "The Hour of Reckoning",
+      "Id": [
+        68054
+      ],
+      "Area": "The Azim Steppe",
+      "Level": 66
+    },
+    {
+      "Title": "The Room Where It Happened",
+      "Id": [
+        68055
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "How Tataru Got Her Groove Back",
+      "Id": [
+        68482
+      ],
+      "Area": "Kugane",
+      "Level": 67
+    },
+    {
+      "Title": "Seeds of Despair",
+      "Id": [
+        68056
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "The Limits of Our Endurance",
+      "Id": [
+        68057
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "Broken Steel, Broken Men",
+      "Id": [
+        68483
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "The Doma Within",
+      "Id": [
+        68058
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "On the Eve of Destiny",
+      "Id": [
+        68059
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "The Die Is Cast",
+      "Id": [
+        68060
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "The World Turned Upside Down",
+      "Id": [
+        68061
+      ],
+      "Area": "Yanxia",
+      "Level": 67
+    },
+    {
+      "Title": "A Swift and Secret Departure",
+      "Id": [
+        68062
+      ],
+      "Area": "Kugane",
+      "Level": 67
+    },
+    {
+      "Title": "While You Were Away",
+      "Id": [
+        68063
+      ],
+      "Area": "Limsa Lominsa",
+      "Level": 67
+    },
+    {
+      "Title": "Rhalgr's Beacon",
+      "Id": [
+        68064
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "The Fortunes of War",
+      "Id": [
+        68065
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "Rising Fortunes, Rising Spirits",
+      "Id": [
+        68066
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "The Lure of the Dream",
+      "Id": [
+        68067
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "The Lady of Bliss",
+      "Id": [
+        68068
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "The Silence of the Gods",
+      "Id": [
+        68069
+      ],
+      "Area": "The Fringes",
+      "Level": 67
+    },
+    {
+      "Title": "The First of Many",
+      "Id": [
+        68070
+      ],
+      "Area": "The Fringes",
+      "Level": 68
+    },
+    {
+      "Title": "Strong and Unified",
+      "Id": [
+        68071
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "Hells Open",
+      "Id": [
+        68072
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "Heavens Weep",
+      "Id": [
+        68073
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "The Road Home",
+      "Id": [
+        68074
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "For the Living and the Dead",
+      "Id": [
+        68075
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "Above the Churning Waters",
+      "Id": [
+        68076
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "The Path Forward",
+      "Id": [
+        68077
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "With Tired Hands We Toil",
+      "Id": [
+        68078
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "Where Courage Endures",
+      "Id": [
+        68079
+      ],
+      "Area": "The Peaks",
+      "Level": 68
+    },
+    {
+      "Title": "The Price of Freedom",
+      "Id": [
+        68080
+      ],
+      "Area": "The Peaks",
+      "Level": 69
+    },
+    {
+      "Title": "Raubahn's Invitation",
+      "Id": [
+        68081
+      ],
+      "Area": "The Peaks",
+      "Level": 69
+    },
+    {
+      "Title": "Liberty or Death",
+      "Id": [
+        68082
+      ],
+      "Area": "The Peaks",
+      "Level": 69
+    },
+    {
+      "Title": "The Lady in Red",
+      "Id": [
+        68083
+      ],
+      "Area": "The Peaks",
+      "Level": 69
+    },
+    {
+      "Title": "Upon the Great Loch's Shore",
+      "Id": [
+        68084
+      ],
+      "Area": "Rhalgr's Reach",
+      "Level": 69
+    },
+    {
+      "Title": "The Key to Victory",
+      "Id": [
+        68085
+      ],
+      "Area": "The Lochs",
+      "Level": 69
+    },
+    {
+      "Title": "The Resonant",
+      "Id": [
+        68086
+      ],
+      "Area": "The Lochs",
+      "Level": 69
+    },
+    {
+      "Title": "The Legacy of Our Fathers",
+      "Id": [
+        68087
+      ],
+      "Area": "The Lochs",
+      "Level": 69
+    },
+    {
+      "Title": "The Measure of His Reach",
+      "Id": [
+        68088
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    },
+    {
+      "Title": "Stormblood",
+      "Id": [
+        68089
+      ],
+      "Area": "The Lochs",
+      "Level": 70
+    }
+  ]
+}

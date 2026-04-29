@@ -1,0 +1,1091 @@
+{
+  "Title": "Lominsan Sidequests",
+  "Categories": [
+    {
+      "Title": "Limsa Lominsa",
+      "Quests": [
+        {
+          "Title": "Coming to Limsa Lominsa",
+          "Id": [
+            65643
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Making a Name",
+          "Id": [
+            65647
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Suspiciously Sober",
+          "Id": [
+            65648
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Proper Procedure",
+          "Id": [
+            65649
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "The Right Price",
+          "Id": [
+            65650
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Duty Calls",
+          "Id": [
+            65651
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "Edelweiss, Edelweiss",
+          "Id": [
+            65859
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "All the Fish in the Sea",
+          "Id": [
+            69379
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "A Thousand Words",
+          "Id": [
+            65653
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 2
+        },
+        {
+          "Title": "Licensed to Reave",
+          "Id": [
+            65654
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 2
+        },
+        {
+          "Title": "Lost and Found",
+          "Id": [
+            65655
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 2
+        },
+        {
+          "Title": "I Stay the Streetlight",
+          "Id": [
+            65656
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 2
+        },
+        {
+          "Title": "A Sheepish Request",
+          "Id": [
+            65652
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 3
+        },
+        {
+          "Title": "Back in the Water",
+          "Id": [
+            65657
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 3
+        },
+        {
+          "Title": "The Rats in the Wharf",
+          "Id": [
+            66197
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 3
+        },
+        {
+          "Title": "Glory Days",
+          "Id": [
+            65658
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 4
+        },
+        {
+          "Title": "Soothing the Savage Siren",
+          "Id": [
+            66198
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 4
+        },
+        {
+          "Title": "Fool Me Once",
+          "Id": [
+            66199
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 4
+        },
+        {
+          "Title": "Leves of Swiftperch",
+          "Id": [
+            66229
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Good for What Ales You",
+          "Id": [
+            66962
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 14
+        },
+        {
+          "Title": "Beauty Is Only Scalp Deep",
+          "Id": [
+            66746
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "Rising to the Challenge",
+          "Id": [
+            66967
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "An Ill-conceived Venture",
+          "Id": [
+            66969
+          ],
+          "Area": "Limsa Lominsa",
+          "Start": "Limsa Lominsa",
+          "Level": 17
+        },
+        {
+          "Title": "My Little Chocobo (Maelstrom)",
+          "Id": [
+            66237
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20,
+          "Gc": "Maelstrom"
+        },
+        {
+          "Title": "A Faerie Tale Come True",
+          "Id": [
+            70300
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "The Beast of Brewer's Beacon",
+          "Id": [
+            66966
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Feast of Famine",
+          "Id": [
+            65782
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "An Egi by Any Other Name",
+          "Id": [
+            67896
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Things Are Getting Sirius",
+          "Id": [
+            67737
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Storming the Hull",
+          "Id": [
+            67784
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Wolves' Den Pier",
+      "Quests": [
+        {
+          "Title": "It's Time to Duel",
+          "Id": [
+            67929
+          ],
+          "Area": "Wolves' Den Pier",
+          "Level": 1
+        },
+        {
+          "Title": "Earning Your Wings",
+          "Id": [
+            68543
+          ],
+          "Area": "Wolves' Den Pier",
+          "Level": 30
+        },
+        {
+          "Title": "The Crystal (Line's) Call",
+          "Id": [
+            70121
+          ],
+          "Area": "Wolves' Den Pier",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Middle La Noscea",
+      "Quests": [
+        {
+          "Title": "Rocks in a Hard Place",
+          "Id": [
+            66007
+          ],
+          "Area": "Middle La Noscea",
+          "Level": 5
+        },
+        {
+          "Title": "The Time Is Ripe",
+          "Id": [
+            66008
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 6
+        },
+        {
+          "Title": "Yarzon, Yarzoff",
+          "Id": [
+            66006
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 7
+        },
+        {
+          "Title": "Orange Crush",
+          "Id": [
+            66009
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 7
+        },
+        {
+          "Title": "A Pound of Cure",
+          "Id": [
+            66010
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 8
+        },
+        {
+          "Title": "Out to Dry",
+          "Id": [
+            65935
+          ],
+          "Area": "Middle La Noscea",
+          "Level": 10
+        },
+        {
+          "Title": "Keeping It Fresh",
+          "Id": [
+            65936
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Baiting Buzzards",
+          "Id": [
+            65937
+          ],
+          "Area": "Middle La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 10
+        }
+      ]
+    },
+    {
+      "Title": "Lower La Noscea",
+      "Quests": [
+        {
+          "Title": "Cry Me a Liver",
+          "Id": [
+            66011
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Moegramm Had a Little Lamb",
+          "Id": [
+            66017
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 5
+        },
+        {
+          "Title": "Where the Heart Is (Mist)",
+          "Id": [
+            66750
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 5
+        },
+        {
+          "Title": "Wool's Errand",
+          "Id": [
+            66012
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 6
+        },
+        {
+          "Title": "Much Ado About Dodos",
+          "Id": [
+            66016
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 6
+        },
+        {
+          "Title": "Whack-a-Mole",
+          "Id": [
+            66018
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 7
+        },
+        {
+          "Title": "What Goes Around",
+          "Id": [
+            66020
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 7
+        },
+        {
+          "Title": "Flour Power",
+          "Id": [
+            66013
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 8
+        },
+        {
+          "Title": "Beetle Juice",
+          "Id": [
+            66019
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 8
+        },
+        {
+          "Title": "Fire and Brimstone",
+          "Id": [
+            66021
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 8
+        },
+        {
+          "Title": "Kobolds Ahoy",
+          "Id": [
+            66022
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 8
+        },
+        {
+          "Title": "Kobolds and Indigents",
+          "Id": [
+            66014
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 9
+        },
+        {
+          "Title": "Bait and Swat",
+          "Id": [
+            66015
+          ],
+          "Area": "Lower La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 9
+        },
+        {
+          "Title": "A Bridge Too Full",
+          "Id": [
+            65943
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 11
+        },
+        {
+          "Title": "What Counts",
+          "Id": [
+            65944
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 12
+        },
+        {
+          "Title": "Failure to Lunch",
+          "Id": [
+            65945
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 12
+        },
+        {
+          "Title": "Nailed It",
+          "Id": [
+            65946
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 13
+        },
+        {
+          "Title": "Constant Carvings",
+          "Id": [
+            65947
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 13
+        },
+        {
+          "Title": "Forbidden Island",
+          "Id": [
+            65952
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 13
+        },
+        {
+          "Title": "Say It with Flowers",
+          "Id": [
+            65953
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 13
+        },
+        {
+          "Title": "Leves of Moraby",
+          "Id": [
+            66231
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 20
+        }
+      ]
+    },
+    {
+      "Title": "Eastern La Noscea",
+      "Quests": [
+        {
+          "Title": "Leves of Costa del Sol",
+          "Id": [
+            66232
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 30
+        },
+        {
+          "Title": "Costa Beach Party",
+          "Id": [
+            66349
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 30
+        },
+        {
+          "Title": "Who Moved My Headcheese",
+          "Id": [
+            66369
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Get a Grip",
+          "Id": [
+            66370
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Unrefined Methods",
+          "Id": [
+            66371
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Buffaloed All the Way",
+          "Id": [
+            66372
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Pests in the Pillars",
+          "Id": [
+            66373
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "To You from Failing Hands We Throw",
+          "Id": [
+            66374
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Raptor 'round Your Little Finger",
+          "Id": [
+            66377
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Put a Cork in It",
+          "Id": [
+            66378
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 32
+        },
+        {
+          "Title": "Mona Lisa Smile",
+          "Id": [
+            66380
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 33
+        },
+        {
+          "Title": "Anise, Chocolate, and a Hint of Toad",
+          "Id": [
+            66385
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 33
+        },
+        {
+          "Title": "The Wind, It Passes",
+          "Id": [
+            66387
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 33
+        },
+        {
+          "Title": "Bird's-eye View",
+          "Id": [
+            66388
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 33
+        },
+        {
+          "Title": "The Stench of Danger",
+          "Id": [
+            66389
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 33
+        },
+        {
+          "Title": "Leves of Wineport",
+          "Id": [
+            65550
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 35
+        },
+        {
+          "Title": "Treasures and Tribulations",
+          "Id": [
+            66747
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 36
+        }
+      ]
+    },
+    {
+      "Title": "Western La Noscea",
+      "Quests": [
+        {
+          "Title": "Simply the Hest",
+          "Id": [
+            65595
+          ],
+          "Area": "Western La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Need to Breed",
+          "Id": [
+            65941
+          ],
+          "Area": "Western La Noscea",
+          "Start": "Limsa Lominsa",
+          "Level": 12
+        },
+        {
+          "Title": "Leves of Aleport",
+          "Id": [
+            66230
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Keep Your Day Job",
+          "Id": [
+            66678
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Mountains out of Molehills",
+          "Id": [
+            66679
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Walk of Shame",
+          "Id": [
+            66680
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "On a Wing and a Prayer",
+          "Id": [
+            66681
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Mummy Dearest",
+          "Id": [
+            66682
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Like Cats and Dogs",
+          "Id": [
+            66825
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Man's Best Fiend",
+          "Id": [
+            66826
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Curiosity Killed the Coeurl",
+          "Id": [
+            66827
+          ],
+          "Area": "Western La Noscea",
+          "Level": 15
+        },
+        {
+          "Title": "Nest We Forget",
+          "Id": [
+            66683
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "Toxic Avenger",
+          "Id": [
+            66684
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "My Brother's Not a Keeper",
+          "Id": [
+            66685
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "Flowers for Aerghaemr",
+          "Id": [
+            66686
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "Scythe Extra Large",
+          "Id": [
+            66687
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "I Hereby Relieve You",
+          "Id": [
+            66688
+          ],
+          "Area": "Western La Noscea",
+          "Level": 16
+        },
+        {
+          "Title": "Grave Happenings",
+          "Id": [
+            66500
+          ],
+          "Area": "Western La Noscea",
+          "Level": 42
+        },
+        {
+          "Title": "Pickled and Brined",
+          "Id": [
+            66501
+          ],
+          "Area": "Western La Noscea",
+          "Level": 42
+        },
+        {
+          "Title": "Too Many Cooks",
+          "Id": [
+            66502
+          ],
+          "Area": "Western La Noscea",
+          "Level": 42
+        },
+        {
+          "Title": "Pier Review",
+          "Id": [
+            66562
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Long Walk off a Short Pier",
+          "Id": [
+            66563
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "To Catch a Cutthroat",
+          "Id": [
+            66564
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Serpent's Tongue-lashing",
+          "Id": [
+            66565
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Culling the Horde",
+          "Id": [
+            66566
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Sibling Rivalry",
+          "Id": [
+            66567
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Wag the Sea Dogs",
+          "Id": [
+            66568
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Sea Wasp Run",
+          "Id": [
+            66569
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "No Sea Wasp for You",
+          "Id": [
+            66570
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "The Way the Crystals Crumble",
+          "Id": [
+            66571
+          ],
+          "Area": "Western La Noscea",
+          "Level": 48
+        },
+        {
+          "Title": "Sirius Business",
+          "Id": [
+            66744
+          ],
+          "Area": "Western La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Why So Sirius",
+          "Id": [
+            66745
+          ],
+          "Area": "Western La Noscea",
+          "Level": 50
+        }
+      ]
+    },
+    {
+      "Title": "Upper La Noscea",
+      "Quests": [
+        {
+          "Title": "The Hottest of Box Lunches",
+          "Id": [
+            66271
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 23
+        },
+        {
+          "Title": "Buried Truth",
+          "Id": [
+            66272
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 23
+        },
+        {
+          "Title": "One Swallow Does Not a Victory Make",
+          "Id": [
+            66394
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "The Monster of Bronze Lake",
+          "Id": [
+            66402
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Red, Red Wine",
+          "Id": [
+            66403
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "The Adventure of the Fainting Goldsmith",
+          "Id": [
+            66404
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 34
+        }
+      ]
+    },
+    {
+      "Title": "Outer La Noscea",
+      "Quests": [
+        {
+          "Title": "Never Trout That I Love",
+          "Id": [
+            66395
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Dead or Sumfin' Like It",
+          "Id": [
+            66396
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Return to Your Dust",
+          "Id": [
+            66397
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Deduce, Reuse, Recycle",
+          "Id": [
+            66398
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Don't Let the Cat out of the Bag",
+          "Id": [
+            66399
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Looking for Trouble",
+          "Id": [
+            66400
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "Helm Me You Love Me",
+          "Id": [
+            66401
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 34
+        },
+        {
+          "Title": "A Pirate's Life for Me",
+          "Id": [
+            66553
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 47
+        },
+        {
+          "Title": "Honor the Fallen",
+          "Id": [
+            66554
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 47
+        },
+        {
+          "Title": "Operation Crucible Down",
+          "Id": [
+            66555
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 47
+        },
+        {
+          "Title": "Claiming the Booty",
+          "Id": [
+            66556
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 47
+        }
+      ]
+    }
+  ]
+}

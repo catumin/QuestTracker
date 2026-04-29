@@ -1,0 +1,157 @@
+{
+  "Title": "Post-Dragonsong Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Promises Kept",
+      "Id": [
+        67877
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "Shadows of the First",
+      "Id": [
+        67878
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 60
+    },
+    {
+      "Title": "Two Sides of a Coin",
+      "Id": [
+        67879
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "Unlikely Allies",
+      "Id": [
+        67880
+      ],
+      "Area": "Outer La Noscea",
+      "Level": 60
+    },
+    {
+      "Title": "The Beast That Mourned at the Heart of the Mountain",
+      "Id": [
+        67881
+      ],
+      "Area": "Outer La Noscea",
+      "Level": 60
+    },
+    {
+      "Title": "Beneath a Star-filled Sky",
+      "Id": [
+        67882
+      ],
+      "Area": "Outer La Noscea",
+      "Level": 60
+    },
+    {
+      "Title": "When We Were Free",
+      "Id": [
+        67883
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 60
+    },
+    {
+      "Title": "Honorable Heroes",
+      "Id": [
+        67884
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 60
+    },
+    {
+      "Title": "One Life for One World",
+      "Id": [
+        67885
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 60
+    },
+    {
+      "Title": "An Ending to Mark a New Beginning",
+      "Id": [
+        67886
+      ],
+      "Area": "Southern Thanalan",
+      "Level": 60
+    },
+    {
+      "Title": "Tidings from Gyr Abania",
+      "Id": [
+        67887
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "An Envoy for Ishgard",
+      "Id": [
+        67888
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "An Allied Decision",
+      "Id": [
+        67889
+      ],
+      "Area": "Gridania",
+      "Level": 60
+    },
+    {
+      "Title": "Griffin, Griffin on the Wall",
+      "Id": [
+        67890
+      ],
+      "Area": "Mor Dhona",
+      "Level": 60
+    },
+    {
+      "Title": "Louisoix's Finest Student",
+      "Id": [
+        67891
+      ],
+      "Area": "East Shroud",
+      "Level": 60
+    },
+    {
+      "Title": "The Obvious Solution",
+      "Id": [
+        67892
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "The Greater Obeisance",
+      "Id": [
+        67893
+      ],
+      "Area": "Gridania",
+      "Level": 60
+    },
+    {
+      "Title": "Fly Free, My Pretty",
+      "Id": [
+        67894
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "The Far Edge of Fate",
+      "Id": [
+        67895
+      ],
+      "Area": "Gridania",
+      "Level": 60
+    }
+  ]
+}

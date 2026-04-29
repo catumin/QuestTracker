@@ -1,0 +1,1235 @@
+{
+  "Title": "Disciple of Magic Job Quests",
+  "Categories": [
+    {
+      "Title": "White Mage Quests",
+      "Quests": [
+        {
+          "Title": "Seer Folly",
+          "Id": [
+            66615
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "Only You Can Prevent Forest Ire",
+          "Id": [
+            66616
+          ],
+          "Area": "South Shroud",
+          "Level": 35
+        },
+        {
+          "Title": "O Brother, Where Art Thou",
+          "Id": [
+            66617
+          ],
+          "Area": "South Shroud",
+          "Level": 40
+        },
+        {
+          "Title": "Following in His Footsteps",
+          "Id": [
+            66618
+          ],
+          "Area": "South Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Yearn for the Urn",
+          "Id": [
+            66619
+          ],
+          "Area": "South Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Heart of the Forest",
+          "Id": [
+            66620
+          ],
+          "Area": "South Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Thyrus)",
+          "Id": [
+            66660
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Taint Misbehaving",
+          "Id": [
+            67255
+          ],
+          "Area": "South Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "A Journey of Purification",
+          "Id": [
+            67256
+          ],
+          "Area": "North Shroud",
+          "Level": 52
+        },
+        {
+          "Title": "The Girl with the Dragon Tissue",
+          "Id": [
+            67257
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 54
+        },
+        {
+          "Title": "The Dark Blight Writhes",
+          "Id": [
+            67258
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "In the Wake of Death",
+          "Id": [
+            67259
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 58
+        },
+        {
+          "Title": "Trials of the Padjals",
+          "Id": [
+            67260
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 58
+        },
+        {
+          "Title": "Hands of Healing",
+          "Id": [
+            67261
+          ],
+          "Area": "South Shroud",
+          "Level": 60
+        },
+        {
+          "Title": "Unease in East End",
+          "Id": [
+            67950
+          ],
+          "Area": "South Shroud",
+          "Level": 60
+        },
+        {
+          "Title": "An Aura for Trouble",
+          "Id": [
+            67951
+          ],
+          "Area": "The Fringes",
+          "Level": 63
+        },
+        {
+          "Title": "A Beacon for Bad Things",
+          "Id": [
+            67952
+          ],
+          "Area": "The Fringes",
+          "Level": 65
+        },
+        {
+          "Title": "The Problem with Padjals",
+          "Id": [
+            67953
+          ],
+          "Area": "The Fringes",
+          "Level": 68
+        },
+        {
+          "Title": "What She Always Wanted",
+          "Id": [
+            67954
+          ],
+          "Area": "The Fringes",
+          "Level": 70
+        },
+        {
+          "Title": "Whence the Healing Springs",
+          "Id": [
+            68751
+          ],
+          "Area": "South Shroud",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Black Mage Quests",
+      "Quests": [
+        {
+          "Title": "Taking the Black",
+          "Id": [
+            66609
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "You'll Never Go Back",
+          "Id": [
+            66610
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "International Relations",
+          "Id": [
+            66611
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "The Voidgate Breathes Gloomy",
+          "Id": [
+            66612
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 45
+        },
+        {
+          "Title": "The Blood Must Flow",
+          "Id": [
+            66613
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 45
+        },
+        {
+          "Title": "Always Bet on Black",
+          "Id": [
+            66614
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Stardust Rod)",
+          "Id": [
+            66659
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Black Books",
+          "Id": [
+            67214
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "An Unexpected Journey",
+          "Id": [
+            67215
+          ],
+          "Area": "Ul'dah",
+          "Level": 52
+        },
+        {
+          "Title": "A Cunning Plan",
+          "Id": [
+            67216
+          ],
+          "Area": "Ul'dah",
+          "Level": 54
+        },
+        {
+          "Title": "Black Squawk Down",
+          "Id": [
+            67217
+          ],
+          "Area": "Ul'dah",
+          "Level": 56
+        },
+        {
+          "Title": "Destruction in the Name of Justice",
+          "Id": [
+            67218
+          ],
+          "Area": "Ul'dah",
+          "Level": 58
+        },
+        {
+          "Title": "The Defiant Ones",
+          "Id": [
+            67219
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Shades of Shatotto",
+          "Id": [
+            68124
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Golems Gone Wild",
+          "Id": [
+            68125
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "When the Golems Get Tough",
+          "Id": [
+            68126
+          ],
+          "Area": "Ul'dah",
+          "Level": 65
+        },
+        {
+          "Title": "Unnatural Selection",
+          "Id": [
+            68127
+          ],
+          "Area": "Ul'dah",
+          "Level": 68
+        },
+        {
+          "Title": "One Golem to Rule Them All",
+          "Id": [
+            68128
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "A Home for a Tome",
+          "Id": [
+            68752
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Summoner Quests",
+      "Quests": [
+        {
+          "Title": "Austerities of Flame",
+          "Id": [
+            66627
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Austerities of Earth",
+          "Id": [
+            66628
+          ],
+          "Area": "Gridania",
+          "Level": 35
+        },
+        {
+          "Title": "Shadowing the Summoner",
+          "Id": [
+            66629
+          ],
+          "Area": "Gridania",
+          "Level": 40
+        },
+        {
+          "Title": "Allagan Attire",
+          "Id": [
+            66630
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Austerities of Wind",
+          "Id": [
+            66631
+          ],
+          "Area": "Gridania",
+          "Level": 45
+        },
+        {
+          "Title": "Primal Burdens",
+          "Id": [
+            66632
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (The Veil of Wiyu)",
+          "Id": [
+            66662
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "A Fitting Tomestone",
+          "Id": [
+            67636
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "A Matter of Fact",
+          "Id": [
+            67637
+          ],
+          "Area": "Gridania",
+          "Level": 52
+        },
+        {
+          "Title": "A Miner Negotiation",
+          "Id": [
+            67638
+          ],
+          "Area": "Ul'dah",
+          "Level": 54
+        },
+        {
+          "Title": "Mad, Bad, and Ebon-clad",
+          "Id": [
+            67639
+          ],
+          "Area": "Ul'dah",
+          "Level": 56
+        },
+        {
+          "Title": "I Could Have Tranced All Night",
+          "Id": [
+            67640
+          ],
+          "Area": "Ul'dah",
+          "Level": 58
+        },
+        {
+          "Title": "A Flare for the Dramatic",
+          "Id": [
+            67641
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "A Book with Bite",
+          "Id": [
+            68161
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "Performing for Prin",
+          "Id": [
+            68162
+          ],
+          "Area": "Gridania",
+          "Level": 63
+        },
+        {
+          "Title": "An Egi-stential Crisis",
+          "Id": [
+            68163
+          ],
+          "Area": "Gridania",
+          "Level": 65
+        },
+        {
+          "Title": "Off the Record",
+          "Id": [
+            68164
+          ],
+          "Area": "Gridania",
+          "Level": 68
+        },
+        {
+          "Title": "An Art for the Living",
+          "Id": [
+            68165
+          ],
+          "Area": "Gridania",
+          "Level": 70
+        },
+        {
+          "Title": "To Be Second Best",
+          "Id": [
+            68753,
+            69569
+          ],
+          "Area": "Gridania",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Scholar Quests",
+      "Quests": [
+        {
+          "Title": "Forgotten but Not Gone",
+          "Id": [
+            66633
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "The Last Remnants",
+          "Id": [
+            66634
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 35
+        },
+        {
+          "Title": "The Consequences of Anger",
+          "Id": [
+            66635
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 40
+        },
+        {
+          "Title": "In the Image of the Ancients",
+          "Id": [
+            66636
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "For Your Fellow Man",
+          "Id": [
+            66637
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 45
+        },
+        {
+          "Title": "The Beast Within",
+          "Id": [
+            66638
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Omnilex)",
+          "Id": [
+            66663
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "The Green Death",
+          "Id": [
+            67207
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Quarantine",
+          "Id": [
+            67208
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 52
+        },
+        {
+          "Title": "False Friends",
+          "Id": [
+            67209
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 54
+        },
+        {
+          "Title": "Ooh Rah",
+          "Id": [
+            67210
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 56
+        },
+        {
+          "Title": "Unseen",
+          "Id": [
+            67211
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 58
+        },
+        {
+          "Title": "Forward, the Royal Marines",
+          "Id": [
+            67212
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 60
+        },
+        {
+          "Title": "The Vanishing Act",
+          "Id": [
+            68459
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "A Safe Place to Hide",
+          "Id": [
+            68460
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 63
+        },
+        {
+          "Title": "In Loving Memory",
+          "Id": [
+            68461
+          ],
+          "Area": "South Shroud",
+          "Level": 65
+        },
+        {
+          "Title": "The Chase",
+          "Id": [
+            68462
+          ],
+          "Area": "South Shroud",
+          "Level": 68
+        },
+        {
+          "Title": "Our Unsung Heroes",
+          "Id": [
+            68463
+          ],
+          "Area": "South Shroud",
+          "Level": 70
+        },
+        {
+          "Title": "True Beauty",
+          "Id": [
+            68754
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Astrologian Quests",
+      "Quests": [
+        {
+          "Title": "Stairway to the Heavens",
+          "Id": [
+            67548
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Fortune Favors the Bole",
+          "Id": [
+            67549
+          ],
+          "Area": "South Shroud",
+          "Level": 30
+        },
+        {
+          "Title": "Hanging in the Balance",
+          "Id": [
+            67550
+          ],
+          "Area": "Ishgard",
+          "Level": 35
+        },
+        {
+          "Title": "A Lesson in Patience",
+          "Id": [
+            67551
+          ],
+          "Area": "Ishgard",
+          "Level": 40
+        },
+        {
+          "Title": "Slings and Arrows",
+          "Id": [
+            67552
+          ],
+          "Area": "Ishgard",
+          "Level": 40
+        },
+        {
+          "Title": "Ewer Right",
+          "Id": [
+            67553
+          ],
+          "Area": "Ishgard",
+          "Level": 45
+        },
+        {
+          "Title": "Loved by the Sun",
+          "Id": [
+            67554
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Spearheading Initiatives",
+          "Id": [
+            67555
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Sharlayan Ascending",
+          "Id": [
+            67556
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Empty Nest",
+          "Id": [
+            67557
+          ],
+          "Area": "Ishgard",
+          "Level": 52
+        },
+        {
+          "Title": "Conviction",
+          "Id": [
+            67558
+          ],
+          "Area": "Ishgard",
+          "Level": 54
+        },
+        {
+          "Title": "Feather in the Cap",
+          "Id": [
+            67559
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Trumped",
+          "Id": [
+            67560
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "The Hands of Fate",
+          "Id": [
+            67561
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "East Meets West",
+          "Id": [
+            67945
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Ride Like the Wind",
+          "Id": [
+            67946
+          ],
+          "Area": "Ishgard",
+          "Level": 63
+        },
+        {
+          "Title": "Come Rain or Shrine",
+          "Id": [
+            67947
+          ],
+          "Area": "Ishgard",
+          "Level": 65
+        },
+        {
+          "Title": "Behind Door Number Two",
+          "Id": [
+            67948
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "Foxfire",
+          "Id": [
+            67949
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "Love, Astrologically",
+          "Id": [
+            68758
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Red Mage Quests",
+      "Quests": [
+        {
+          "Title": "Taking the Red",
+          "Id": [
+            68112
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Crimson Duelist",
+          "Id": [
+            68113
+          ],
+          "Area": "Central Thanalan",
+          "Level": 50
+        },
+        {
+          "Title": "A Rewarding Struggle",
+          "Id": [
+            68114
+          ],
+          "Area": "Eastern Thanalan",
+          "Level": 52
+        },
+        {
+          "Title": "Tracking the Cabal",
+          "Id": [
+            68115
+          ],
+          "Area": "Western Thanalan",
+          "Level": 54
+        },
+        {
+          "Title": "A Vermilion Vendetta",
+          "Id": [
+            68116
+          ],
+          "Area": "Western La Noscea",
+          "Level": 56
+        },
+        {
+          "Title": "On Lambard's Trail",
+          "Id": [
+            68117
+          ],
+          "Area": "Western La Noscea",
+          "Level": 58
+        },
+        {
+          "Title": "Stained in Scarlet",
+          "Id": [
+            68118
+          ],
+          "Area": "Northern Thanalan",
+          "Level": 60
+        },
+        {
+          "Title": "The Color of Her Hair",
+          "Id": [
+            68119
+          ],
+          "Area": "Mor Dhona",
+          "Level": 60
+        },
+        {
+          "Title": "Traced in Blood",
+          "Id": [
+            68120
+          ],
+          "Area": "Idyllshire",
+          "Level": 63
+        },
+        {
+          "Title": "Nightkin",
+          "Id": [
+            68121
+          ],
+          "Area": "Idyllshire",
+          "Level": 65
+        },
+        {
+          "Title": "Child of Lilith",
+          "Id": [
+            68122
+          ],
+          "Area": "Idyllshire",
+          "Level": 68
+        },
+        {
+          "Title": "With Heart and Steel",
+          "Id": [
+            68123
+          ],
+          "Area": "Ishgard",
+          "Level": 70
+        },
+        {
+          "Title": "Succession of Steel",
+          "Id": [
+            68760
+          ],
+          "Area": "Mor Dhona",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Sage Quests",
+      "Quests": [
+        {
+          "Title": "Sage's Path",
+          "Id": [
+            69603
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 70
+        },
+        {
+          "Title": "Sage's Focus",
+          "Id": [
+            69604
+          ],
+          "Area": "Middle La Noscea",
+          "Level": 70
+        },
+        {
+          "Title": "Sands of Despair",
+          "Id": [
+            69605
+          ],
+          "Area": "Idyllshire",
+          "Level": 73
+        },
+        {
+          "Title": "A Poisoned Gift",
+          "Id": [
+            69606
+          ],
+          "Area": "Idyllshire",
+          "Level": 75
+        },
+        {
+          "Title": "Pledge of Hope",
+          "Id": [
+            69607
+          ],
+          "Area": "Idyllshire",
+          "Level": 78
+        },
+        {
+          "Title": "Life Ephemeral, Path Eternal",
+          "Id": [
+            69608
+          ],
+          "Area": "Idyllshire",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Pictomancer Quests",
+      "Quests": [
+        {
+          "Title": "The Joy of Pictomancy",
+          "Id": [
+            70390
+          ],
+          "Area": "Gridania",
+          "Level": 80
+        },
+        {
+          "Title": "Mind over Manor",
+          "Id": [
+            70391
+          ],
+          "Area": "Gridania",
+          "Level": 80
+        },
+        {
+          "Title": "Perspectives in Pursuit",
+          "Id": [
+            70392
+          ],
+          "Area": "Gridania",
+          "Level": 83
+        },
+        {
+          "Title": "The Crate Beyond",
+          "Id": [
+            70393
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 85
+        },
+        {
+          "Title": "Beruru's Clues",
+          "Id": [
+            70394
+          ],
+          "Area": "Kugane",
+          "Level": 88
+        },
+        {
+          "Title": "Somewhere Only She Knows",
+          "Id": [
+            70395
+          ],
+          "Area": "Ul'dah",
+          "Level": 90
+        }
+      ]
+    },
+    {
+      "Title": "Blue Mage Quests",
+      "Quests": [
+        {
+          "Title": "Out of the Blue",
+          "Id": [
+            68728
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 50
+        },
+        {
+          "Title": "Blue Leading the Blue",
+          "Id": [
+            68729
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 1
+        },
+        {
+          "Title": "Blue Collar Work",
+          "Id": [
+            68730
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "Why They Call It the Blues",
+          "Id": [
+            68731
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "Scream Blue Murder",
+          "Id": [
+            68732
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Blue Gold",
+          "Id": [
+            68733
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "The Real Folk Blues",
+          "Id": [
+            68734
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Turning Over a Blue Leaf",
+          "Id": [
+            68735
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Into the Blue Again",
+          "Id": [
+            69268
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Something Borrowed, Something Blue",
+          "Id": [
+            69269
+          ],
+          "Area": "Ul'dah",
+          "Level": 53
+        },
+        {
+          "Title": "Bolt from the Blue",
+          "Id": [
+            69270
+          ],
+          "Area": "Ul'dah",
+          "Level": 55
+        },
+        {
+          "Title": "Blue in the Face",
+          "Id": [
+            69271
+          ],
+          "Area": "Ul'dah",
+          "Level": 58
+        },
+        {
+          "Title": "Blue Scream of Death",
+          "Id": [
+            69272
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Blue Cheese",
+          "Id": [
+            69273
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Second-rate Entertainment",
+          "Id": [
+            69525
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Everybody Was Fukumen Fighting",
+          "Id": [
+            69526
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "Azuro and Goliath",
+          "Id": [
+            69527
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "Where the Gold Goes",
+          "Id": [
+            69528
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "Master of Mimicry",
+          "Id": [
+            69529
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "A Future in Blue",
+          "Id": [
+            69530
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "And the Crowd Goes Mild",
+          "Id": [
+            70309
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "The Beard, the Myth, the Legend",
+          "Id": [
+            70310
+          ],
+          "Area": "Ul'dah",
+          "Level": 73
+        },
+        {
+          "Title": "Gridania's Most Wanted",
+          "Id": [
+            70311
+          ],
+          "Area": "Ul'dah",
+          "Level": 75
+        },
+        {
+          "Title": "No Butts About It",
+          "Id": [
+            70312
+          ],
+          "Area": "Ul'dah",
+          "Level": 78
+        },
+        {
+          "Title": "A New Gold Standard",
+          "Id": [
+            70313
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        },
+        {
+          "Title": "The Brave and the Blue",
+          "Id": [
+            70314
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

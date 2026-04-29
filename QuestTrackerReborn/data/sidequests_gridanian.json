@@ -1,0 +1,980 @@
+{
+  "Title": "Gridanian Sidequests",
+  "Categories": [
+    {
+      "Title": "Gridania",
+      "Quests": [
+        {
+          "Title": "Coming to Gridania",
+          "Id": [
+            65575
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "A Good Adventurer Is Hard to Find",
+          "Id": [
+            65537
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Incense and Sensibility",
+          "Id": [
+            65556
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Coarse Correspondence",
+          "Id": [
+            65560
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Preserving the Past",
+          "Id": [
+            65563
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "I Am Millicent, Hear Me Roar",
+          "Id": [
+            65585
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Parsemontrenomics",
+          "Id": [
+            65574
+          ],
+          "Area": "Gridania",
+          "Level": 2
+        },
+        {
+          "Title": "For Friendship",
+          "Id": [
+            65576
+          ],
+          "Area": "Gridania",
+          "Level": 2
+        },
+        {
+          "Title": "Covered in Roses",
+          "Id": [
+            65577
+          ],
+          "Area": "Gridania",
+          "Level": 2
+        },
+        {
+          "Title": "Sylphic Gratitude",
+          "Id": [
+            65578
+          ],
+          "Area": "Gridania",
+          "Level": 2
+        },
+        {
+          "Title": "Quarrels with Squirrels",
+          "Id": [
+            65561
+          ],
+          "Area": "Gridania",
+          "Level": 3
+        },
+        {
+          "Title": "Once Bitten, Twice Shy",
+          "Id": [
+            65562
+          ],
+          "Area": "Gridania",
+          "Level": 3
+        },
+        {
+          "Title": "Essential Oil",
+          "Id": [
+            65567
+          ],
+          "Area": "Gridania",
+          "Level": 3
+        },
+        {
+          "Title": "A Hard Nut to Crack",
+          "Id": [
+            65568
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 4
+        },
+        {
+          "Title": "Derision of Labor",
+          "Id": [
+            65570
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 4
+        },
+        {
+          "Title": "Population Control",
+          "Id": [
+            65573
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 4
+        },
+        {
+          "Title": "Leves of Bentbranch",
+          "Id": [
+            65756
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Saw That One Coming",
+          "Id": [
+            66961
+          ],
+          "Area": "Gridania",
+          "Level": 14
+        },
+        {
+          "Title": "An Ill-conceived Venture",
+          "Id": [
+            66968
+          ],
+          "Area": "Gridania",
+          "Start": "Gridania",
+          "Level": 17
+        },
+        {
+          "Title": "A Sight to Behold",
+          "Id": [
+            65698
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "My Little Chocobo (Twin Adder)",
+          "Id": [
+            66236
+          ],
+          "Area": "Gridania",
+          "Level": 20,
+          "Gc": "Twin Adder"
+        },
+        {
+          "Title": "Broadening Horizons",
+          "Id": [
+            66338
+          ],
+          "Area": "Gridania",
+          "Level": 29
+        },
+        {
+          "Title": "Beneath the Planks",
+          "Id": [
+            66339
+          ],
+          "Area": "Gridania",
+          "Level": 29
+        },
+        {
+          "Title": "Unicorn Power",
+          "Id": [
+            65730
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "Adventurer for Hire",
+          "Id": [
+            66505
+          ],
+          "Area": "Gridania",
+          "Level": 43
+        },
+        {
+          "Title": "Who Was That Man in Black",
+          "Id": [
+            66544
+          ],
+          "Area": "Gridania",
+          "Level": 46
+        },
+        {
+          "Title": "The Dark Divinity",
+          "Id": [
+            66545
+          ],
+          "Area": "Gridania",
+          "Level": 46
+        },
+        {
+          "Title": "One Night in Amdapor",
+          "Id": [
+            66925
+          ],
+          "Area": "Gridania",
+          "Level": 50
+        },
+        {
+          "Title": "One More Night in Amdapor",
+          "Id": [
+            67818
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Central Shroud",
+      "Quests": [
+        {
+          "Title": "Idle Initiatives",
+          "Id": [
+            65746
+          ],
+          "Area": "Central Shroud",
+          "Level": 5
+        },
+        {
+          "Title": "More than a Flesh Wound",
+          "Id": [
+            65708
+          ],
+          "Area": "Central Shroud",
+          "Start": "Gridania",
+          "Level": 7
+        },
+        {
+          "Title": "Splitting Shells",
+          "Id": [
+            65733
+          ],
+          "Area": "Central Shroud",
+          "Level": 7
+        },
+        {
+          "Title": "Parasite Cleave",
+          "Id": [
+            65663
+          ],
+          "Area": "Central Shroud",
+          "Start": "Gridania",
+          "Level": 8
+        },
+        {
+          "Title": "Soil Despoilers",
+          "Id": [
+            65666
+          ],
+          "Area": "Central Shroud",
+          "Start": "Gridania",
+          "Level": 8
+        },
+        {
+          "Title": "Simply the Hest",
+          "Id": [
+            65596
+          ],
+          "Area": "Central Shroud",
+          "Start": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Not a Material Girl",
+          "Id": [
+            65911
+          ],
+          "Area": "Central Shroud",
+          "Level": 10
+        },
+        {
+          "Title": "Look, but Won't Touch",
+          "Id": [
+            65914
+          ],
+          "Area": "Central Shroud",
+          "Start": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Where the Heart Is (The Lavender Beds)",
+          "Id": [
+            66748
+          ],
+          "Area": "Central Shroud",
+          "Level": 10
+        },
+        {
+          "Title": "Extending Fences",
+          "Id": [
+            65693
+          ],
+          "Area": "Central Shroud",
+          "Level": 11
+        },
+        {
+          "Title": "Walking the Planks",
+          "Id": [
+            65922
+          ],
+          "Area": "Central Shroud",
+          "Level": 11
+        },
+        {
+          "Title": "Sting in a Bottle",
+          "Id": [
+            65694
+          ],
+          "Area": "Central Shroud",
+          "Level": 12
+        },
+        {
+          "Title": "If Ye Break Faith",
+          "Id": [
+            65919
+          ],
+          "Area": "Central Shroud",
+          "Level": 12
+        },
+        {
+          "Title": "Favor for the Fisherwoman",
+          "Id": [
+            65921
+          ],
+          "Area": "Central Shroud",
+          "Level": 12
+        },
+        {
+          "Title": "Slimy Hollows",
+          "Id": [
+            65696
+          ],
+          "Area": "Central Shroud",
+          "Level": 13
+        },
+        {
+          "Title": "So You Think You Can Ride This Chocobo",
+          "Id": [
+            66101
+          ],
+          "Area": "Central Shroud",
+          "Level": 15
+        },
+        {
+          "Title": "Fungal Frolic",
+          "Id": [
+            66340
+          ],
+          "Area": "Central Shroud",
+          "Level": 29
+        },
+        {
+          "Title": "Shocking Discoveries",
+          "Id": [
+            66341
+          ],
+          "Area": "Central Shroud",
+          "Level": 29
+        },
+        {
+          "Title": "In Too Deep",
+          "Id": [
+            66342
+          ],
+          "Area": "Central Shroud",
+          "Level": 29
+        },
+        {
+          "Title": "Doing the Dirty Work",
+          "Id": [
+            66343
+          ],
+          "Area": "Central Shroud",
+          "Level": 29
+        },
+        {
+          "Title": "Bird in Hand",
+          "Id": [
+            67096
+          ],
+          "Area": "Central Shroud",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "East Shroud",
+      "Quests": [
+        {
+          "Title": "Leves of Hawthorne",
+          "Id": [
+            65757
+          ],
+          "Area": "East Shroud",
+          "Level": 15
+        },
+        {
+          "Title": "The Replacement Culler",
+          "Id": [
+            66247
+          ],
+          "Area": "East Shroud",
+          "Level": 20
+        },
+        {
+          "Title": "Meat of the Matter",
+          "Id": [
+            66248
+          ],
+          "Area": "East Shroud",
+          "Level": 20
+        },
+        {
+          "Title": "Stand-in Sentry",
+          "Id": [
+            66249
+          ],
+          "Area": "East Shroud",
+          "Level": 20
+        },
+        {
+          "Title": "Swinophobia",
+          "Id": [
+            66250
+          ],
+          "Area": "East Shroud",
+          "Level": 20
+        },
+        {
+          "Title": "Roof Riders",
+          "Id": [
+            66252
+          ],
+          "Area": "East Shroud",
+          "Level": 21
+        },
+        {
+          "Title": "Sylph Says",
+          "Id": [
+            66256
+          ],
+          "Area": "East Shroud",
+          "Level": 21
+        },
+        {
+          "Title": "Buzz Kill",
+          "Id": [
+            66257
+          ],
+          "Area": "East Shroud",
+          "Level": 21
+        },
+        {
+          "Title": "A Porcine Plight",
+          "Id": [
+            66258
+          ],
+          "Area": "East Shroud",
+          "Level": 21
+        },
+        {
+          "Title": "Threads Unraveled",
+          "Id": [
+            66259
+          ],
+          "Area": "East Shroud",
+          "Level": 21
+        },
+        {
+          "Title": "The Blood Price",
+          "Id": [
+            66281
+          ],
+          "Area": "East Shroud",
+          "Level": 24
+        },
+        {
+          "Title": "Some Seedy Business",
+          "Id": [
+            66506
+          ],
+          "Area": "East Shroud",
+          "Level": 43
+        },
+        {
+          "Title": "This One's for the Lovers",
+          "Id": [
+            66508
+          ],
+          "Area": "East Shroud",
+          "Level": 43
+        },
+        {
+          "Title": "Windy Wedding",
+          "Id": [
+            66509
+          ],
+          "Area": "East Shroud",
+          "Level": 43
+        }
+      ]
+    },
+    {
+      "Title": "South Shroud",
+      "Quests": [
+        {
+          "Title": "Leves of Quarrymill",
+          "Id": [
+            65979
+          ],
+          "Area": "South Shroud",
+          "Level": 20
+        },
+        {
+          "Title": "Cloven-hoofed Horrors",
+          "Id": [
+            66263
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "The Trees Have Eyes",
+          "Id": [
+            66264
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "No Guts, No Glory",
+          "Id": [
+            66265
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "Occupational Hazards",
+          "Id": [
+            66266
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "Potsherds for Posterity",
+          "Id": [
+            66267
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "Stash Saboteur",
+          "Id": [
+            66268
+          ],
+          "Area": "South Shroud",
+          "Level": 22
+        },
+        {
+          "Title": "Enemy Mine",
+          "Id": [
+            66275
+          ],
+          "Area": "South Shroud",
+          "Level": 23
+        },
+        {
+          "Title": "Shadows of the Empire",
+          "Id": [
+            66278
+          ],
+          "Area": "South Shroud",
+          "Level": 24
+        },
+        {
+          "Title": "Savage Snares",
+          "Id": [
+            66302
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "Forest Law",
+          "Id": [
+            66303
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "An Apple a Day",
+          "Id": [
+            66304
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "A Bumper Crop",
+          "Id": [
+            66305
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "Wretched Hive of Villainy",
+          "Id": [
+            66306
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "In Grandfather's Name",
+          "Id": [
+            66307
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "The Marvelous Mun-Tuy Bean",
+          "Id": [
+            66308
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "Masher for a Day",
+          "Id": [
+            66309
+          ],
+          "Area": "South Shroud",
+          "Level": 26
+        },
+        {
+          "Title": "Leves of Camp Tranquil",
+          "Id": [
+            65980
+          ],
+          "Area": "South Shroud",
+          "Level": 30
+        },
+        {
+          "Title": "We'll Always Have Ul'dah",
+          "Id": [
+            66353
+          ],
+          "Area": "South Shroud",
+          "Level": 30
+        },
+        {
+          "Title": "A Burning Request",
+          "Id": [
+            66354
+          ],
+          "Area": "South Shroud",
+          "Level": 30
+        },
+        {
+          "Title": "My Feisty Little Chocobo",
+          "Id": [
+            66698
+          ],
+          "Area": "South Shroud",
+          "Level": 30
+        },
+        {
+          "Title": "Slim Pickings",
+          "Id": [
+            66546
+          ],
+          "Area": "South Shroud",
+          "Level": 46
+        },
+        {
+          "Title": "Serveth Thy Master",
+          "Id": [
+            66547
+          ],
+          "Area": "South Shroud",
+          "Level": 46
+        },
+        {
+          "Title": "All You Wanted to Know about Odin",
+          "Id": [
+            66548
+          ],
+          "Area": "South Shroud",
+          "Level": 46
+        }
+      ]
+    },
+    {
+      "Title": "North Shroud",
+      "Quests": [
+        {
+          "Title": "Jumping at Shadows",
+          "Id": [
+            65706
+          ],
+          "Area": "North Shroud",
+          "Level": 5
+        },
+        {
+          "Title": "The Nose Knows",
+          "Id": [
+            65709
+          ],
+          "Area": "North Shroud",
+          "Level": 5
+        },
+        {
+          "Title": "A Glim Harvest",
+          "Id": [
+            65731
+          ],
+          "Area": "North Shroud",
+          "Level": 5
+        },
+        {
+          "Title": "Death to the Bean Thieves",
+          "Id": [
+            65639
+          ],
+          "Area": "North Shroud",
+          "Level": 6
+        },
+        {
+          "Title": "The Valued Vilekin",
+          "Id": [
+            65707
+          ],
+          "Area": "North Shroud",
+          "Level": 6
+        },
+        {
+          "Title": "A Clear Sign",
+          "Id": [
+            65735
+          ],
+          "Area": "North Shroud",
+          "Level": 6
+        },
+        {
+          "Title": "Hematophagic Harassment",
+          "Id": [
+            65631
+          ],
+          "Area": "North Shroud",
+          "Level": 7
+        },
+        {
+          "Title": "No Quarter Given",
+          "Id": [
+            65710
+          ],
+          "Area": "North Shroud",
+          "Level": 7
+        },
+        {
+          "Title": "Harriers of the Hedgetree",
+          "Id": [
+            65633
+          ],
+          "Area": "North Shroud",
+          "Level": 8
+        },
+        {
+          "Title": "Drink Your Beans, Dear",
+          "Id": [
+            65634
+          ],
+          "Area": "North Shroud",
+          "Level": 8
+        },
+        {
+          "Title": "The Kindness of Strangers",
+          "Id": [
+            65635
+          ],
+          "Area": "North Shroud",
+          "Level": 9
+        },
+        {
+          "Title": "Potable Perils",
+          "Id": [
+            66324
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "No News Is Good News",
+          "Id": [
+            66325
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Save the Trees",
+          "Id": [
+            66326
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Pumiceous Pursuits",
+          "Id": [
+            66327
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Cleaning House",
+          "Id": [
+            66328,
+            67417
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Trouble on the Road",
+          "Id": [
+            66329
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "A Welcome Overstayed",
+          "Id": [
+            66330
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "No Place Like Home",
+          "Id": [
+            66331
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Meals for Miners",
+          "Id": [
+            66332
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Digging in the Dark",
+          "Id": [
+            66333
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "A Leg Up",
+          "Id": [
+            66334
+          ],
+          "Area": "North Shroud",
+          "Level": 28
+        },
+        {
+          "Title": "Hunger Is the Best Sauce",
+          "Id": [
+            66421
+          ],
+          "Area": "North Shroud",
+          "Level": 36
+        },
+        {
+          "Title": "Tit for Tat",
+          "Id": [
+            66442
+          ],
+          "Area": "North Shroud",
+          "Level": 37
+        },
+        {
+          "Title": "Inquire at the Spire",
+          "Id": [
+            66443
+          ],
+          "Area": "North Shroud",
+          "Level": 37
+        },
+        {
+          "Title": "Don't Shut Me Out",
+          "Id": [
+            66444
+          ],
+          "Area": "North Shroud",
+          "Level": 37
+        },
+        {
+          "Title": "From Gridania, with Love",
+          "Id": [
+            66445
+          ],
+          "Area": "North Shroud",
+          "Level": 37
+        },
+        {
+          "Title": "One Man's Trash",
+          "Id": [
+            66676
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Kettle to the Mettle",
+          "Id": [
+            67206
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        }
+      ]
+    }
+  ]
+}

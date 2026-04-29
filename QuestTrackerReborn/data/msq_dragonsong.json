@@ -1,0 +1,205 @@
+{
+  "Title": "Dragonsong Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "An Uncertain Future",
+      "Id": [
+        67692
+      ],
+      "Area": "Fortemps Manor",
+      "Level": 60
+    },
+    {
+      "Title": "Breaking the Cycle",
+      "Id": [
+        67693
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "Another Time, Another Place",
+      "Id": [
+        67694
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 60
+    },
+    {
+      "Title": "In the Eye of the Beholder",
+      "Id": [
+        67695
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "A Little Slow, a Little Late",
+      "Id": [
+        67696
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 60
+    },
+    {
+      "Title": "Dreams of the Lost",
+      "Id": [
+        67697
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 60
+    },
+    {
+      "Title": "Against the Dying of the Light",
+      "Id": [
+        67698
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "As Goes Light, So Goes Darkness",
+      "Id": [
+        67699
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "As It Once Was",
+      "Id": [
+        67767
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "The Word of the Mother",
+      "Id": [
+        67768
+      ],
+      "Area": "The Rising Stones",
+      "Level": 60
+    },
+    {
+      "Title": "This War of Ours",
+      "Id": [
+        67769
+      ],
+      "Area": "Matoya's Cave",
+      "Level": 60
+    },
+    {
+      "Title": "Staunch Conviction",
+      "Id": [
+        67770
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "Once More, a Favor",
+      "Id": [
+        67771
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "For Those We Have Lost",
+      "Id": [
+        67772
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "Consequences",
+      "Id": [
+        67773
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "Choices",
+      "Id": [
+        67774
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "A Spectacle for the Ages",
+      "Id": [
+        67775
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "For Those We Can Yet Save",
+      "Id": [
+        67776
+      ],
+      "Area": "Coerthas Central Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "Causes and Costs",
+      "Id": [
+        67777
+      ],
+      "Area": "Coerthas Western Highlands",
+      "Level": 60
+    },
+    {
+      "Title": "The Man Within",
+      "Id": [
+        67778
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "An Ally for Ishgard",
+      "Id": [
+        67779
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "Winning Over the Wyrm",
+      "Id": [
+        67780
+      ],
+      "Area": "The Dravanian Forelands",
+      "Level": 60
+    },
+    {
+      "Title": "An End to the Song",
+      "Id": [
+        67781
+      ],
+      "Area": "The Churning Mists",
+      "Level": 60
+    },
+    {
+      "Title": "Heroes of the Hour",
+      "Id": [
+        67782
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    },
+    {
+      "Title": "Litany of Peace",
+      "Id": [
+        67783
+      ],
+      "Area": "Ishgard",
+      "Level": 60
+    }
+  ]
+}

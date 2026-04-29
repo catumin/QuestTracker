@@ -1,0 +1,295 @@
+{
+  "Title": "Namazu Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": "Something Fishy This Way Comes",
+          "Id": [
+            68632
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " One Size Fits All",
+          "Id": [
+            68633
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Big, Big Fish",
+          "Id": [
+            68634
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Waiting for Gyodo",
+          "Id": [
+            68635
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Out of the Frypan",
+          "Id": [
+            68636
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Into the Fire",
+          "Id": [
+            68637
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Disciples of Creation",
+          "Id": [
+            68638
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": " The Importance of Being Yes, Yes",
+          "Id": [
+            68639
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Pilgrim's Regress",
+          "Id": [
+            68640
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Unidentified Festive Objects",
+          "Id": [
+            68641
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Carry That Crate",
+          "Id": [
+            68642
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Free for Most",
+          "Id": [
+            68643
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Simpler Gifts",
+          "Id": [
+            68644
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Catching Catfish",
+          "Id": [
+            68645
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Wood You Believe It",
+          "Id": [
+            68646
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Ghosts of Honor",
+          "Id": [
+            68647
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Great Buuz Up",
+          "Id": [
+            68649
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Local Special Tea",
+          "Id": [
+            68650
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Surprise Offerings",
+          "Id": [
+            68656
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Carving a Niche",
+          "Id": [
+            68648
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Collision of Cultures",
+          "Id": [
+            68651
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Beat of the Drum",
+          "Id": [
+            68653
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Ready the Confetti",
+          "Id": [
+            68655
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Bearers Wanted",
+          "Id": [
+            68657
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Roasting a New Dish",
+          "Id": [
+            68658
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " In Steep Trouble",
+          "Id": [
+            68663
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " A Stable's Condition",
+          "Id": [
+            68652
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Cannot Say Neigh",
+          "Id": [
+            68654
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Bull's-eye",
+          "Id": [
+            68660
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " A Favor Repaid",
+          "Id": [
+            68662
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " A Welcome Surprise",
+          "Id": [
+            68664
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Overcommitment",
+          "Id": [
+            68666
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Give till It Hurts",
+          "Id": [
+            68659
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " Taking the Plunge",
+          "Id": [
+            68661
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        },
+        {
+          "Title": " The Deadliest Sport",
+          "Id": [
+            68665
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 60
+        }
+      ]
+    }
+  ]
+}

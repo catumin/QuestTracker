@@ -15,8 +15,8 @@ namespace QuestTrackerReborn
         public string StartArea { get; set; } = "";
         public string GrandCompany { get; set; } = "";
         public uint StartClass { get; set; }
-        public QuestData CategorySelection { get; set; }
-        public QuestData SubcategorySelection { get; set; }
+        public QuestData? CategorySelection { get; set; }
+        public QuestData? SubcategorySelection { get; set; }
 
         [NonSerialized]
         private IDalamudPluginInterface pluginInterface;

@@ -1,0 +1,679 @@
+{
+  "Title": "Coerthan Sidequests",
+  "Categories": [
+    {
+      "Title": "Coerthas Central Highlands",
+      "Quests": [
+        {
+          "Title": "Leves of the Observatorium",
+          "Id": [
+            65552
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 35
+        },
+        {
+          "Title": "Speak Softly to Me",
+          "Id": [
+            66424
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "White Mischief",
+          "Id": [
+            66427
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Adding Fuel to the Fire",
+          "Id": [
+            66428
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Sheep to the Slaughter",
+          "Id": [
+            66429
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "I'd Rather Be Cannon Fodder",
+          "Id": [
+            66430
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Death Becomes You",
+          "Id": [
+            66431
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Toss Fit Workout",
+          "Id": [
+            66846
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Rolling with the Snowies",
+          "Id": [
+            66847
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 36
+        },
+        {
+          "Title": "Papa Do Preach",
+          "Id": [
+            66434
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Dead Is Dead",
+          "Id": [
+            66435
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Don't Light My Fire",
+          "Id": [
+            66436
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Dark and Stormy Night",
+          "Id": [
+            66438
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Too Many Enemies",
+          "Id": [
+            66439
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "The Forest for the Trees",
+          "Id": [
+            66440
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Stand and Quiver",
+          "Id": [
+            66441
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "A Fool and His Life Are Soon Parted",
+          "Id": [
+            66451
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 37
+        },
+        {
+          "Title": "Sebastian vs. the Ogre",
+          "Id": [
+            66437
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 38
+        },
+        {
+          "Title": "A Cup of Joy",
+          "Id": [
+            66449
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 38
+        },
+        {
+          "Title": "Second Lives",
+          "Id": [
+            66450
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 38
+        },
+        {
+          "Title": "Burn Before Reading",
+          "Id": [
+            66452
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 38
+        },
+        {
+          "Title": "Where's My Juice",
+          "Id": [
+            66454
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 38
+        },
+        {
+          "Title": "Cleaning Out the Dead",
+          "Id": [
+            66464
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "A Few Good Men",
+          "Id": [
+            66465
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "The Pecking Order",
+          "Id": [
+            66466
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "Rubble Rouser",
+          "Id": [
+            66467
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "Salving the Wounds",
+          "Id": [
+            66468
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "Run, Fido, Run",
+          "Id": [
+            66469
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "An Augury of Innocence",
+          "Id": [
+            66470
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "Love's Hard Labor",
+          "Id": [
+            66471
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "The King Rat Must Die",
+          "Id": [
+            66472
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 39
+        },
+        {
+          "Title": "Leves of Whitebrim",
+          "Id": [
+            65553
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "It Tolls for Us",
+          "Id": [
+            66478
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Physician, Find Yourself",
+          "Id": [
+            66479
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Blood Sacrifice",
+          "Id": [
+            66480
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "The Bone Collector",
+          "Id": [
+            66481
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Ice Ice Daily",
+          "Id": [
+            66482
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "A Heart Divided",
+          "Id": [
+            66483
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "When a Man Loves a Woman",
+          "Id": [
+            66484
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Whey Too into You",
+          "Id": [
+            66485
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Days of Brandewine and Behemoths",
+          "Id": [
+            66486
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Living on the Edge",
+          "Id": [
+            66487
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Fort of Fear",
+          "Id": [
+            66515
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 44
+        },
+        {
+          "Title": "Doubt Truth to Be a Liar",
+          "Id": [
+            66521
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 44
+        }
+      ]
+    },
+    {
+      "Title": "Coerthas Western Highlands",
+      "Quests": [
+        {
+          "Title": "Contingency Supplies",
+          "Id": [
+            67268
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Dances with Wolves",
+          "Id": [
+            67271
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Grandfather's Belongings",
+          "Id": [
+            67272
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "An Attractive Charm",
+          "Id": [
+            67273
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Bridge over Frozen Water",
+          "Id": [
+            67280
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Stolen Goods",
+          "Id": [
+            67269
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Memories in the Snow",
+          "Id": [
+            67270
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "A Mystery Illness",
+          "Id": [
+            67281
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Bad Wine",
+          "Id": [
+            67282
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Ancient Wisdom",
+          "Id": [
+            67283
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Flower Mill",
+          "Id": [
+            67288
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Lonely Vigil",
+          "Id": [
+            67289
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Protecting What's Important",
+          "Id": [
+            67295
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Baby Steps",
+          "Id": [
+            67296
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Winter Is Coming",
+          "Id": [
+            67299
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Baby Strides",
+          "Id": [
+            67297
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "A Faithful Companion",
+          "Id": [
+            67304
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Spring into Action",
+          "Id": [
+            67303
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Cat on a Cold Stone Roof",
+          "Id": [
+            67290
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "The Secret to Success",
+          "Id": [
+            67298
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Introductory Dragonslaying",
+          "Id": [
+            67300
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Intermediate Dragonslaying",
+          "Id": [
+            67301
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Advanced Dragonslaying",
+          "Id": [
+            67302
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Expert Dragonslaying",
+          "Id": [
+            67305
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        },
+        {
+          "Title": "Two Scoops",
+          "Id": [
+            67421
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "A Den of Evil",
+          "Id": [
+            67422
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "The Old Man and the Lake",
+          "Id": [
+            67423
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "When the Ice Melts",
+          "Id": [
+            67424
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "To the Convictor Go the Spoils",
+          "Id": [
+            67431
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Remember the Fallen",
+          "Id": [
+            67430
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Supply Lines",
+          "Id": [
+            67432
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "The Mother of Invention",
+          "Id": [
+            67433
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Unknown Ultimatum",
+          "Id": [
+            67425
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Personal Effects",
+          "Id": [
+            67426
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Ayleth Absconds",
+          "Id": [
+            67427
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "A Missing Tooth",
+          "Id": [
+            67428
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "A Noble Purpose",
+          "Id": [
+            67429
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "A War without End",
+          "Id": [
+            67434
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "For All the Nights to Come",
+          "Id": [
+            67647
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 51
+        }
+      ]
+    }
+  ]
+}

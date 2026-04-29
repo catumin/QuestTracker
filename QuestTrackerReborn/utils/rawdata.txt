@@ -1,15 +1,43 @@
-The Symbol of Love	Gridania	15
-It's All about Heart	Gridania	15
-The Princesses and the Eggs	Gridania	15
-Peatie in Pink	Central Shroud	15
-Fire Red, Beast Green	Limsa Lominsa	30
-Festival Fan Frenzy	Eastern La Noscea	30
-Siblings Rising	Ul'dah	15
-What Drives Us	Ul'dah	15
-The Fright Stuff	Gridania	15
-A Charmed Life	Gridania	15
-The Aether-starved Ahriman	Gridania	15
-All Fiends Sated on All Saints' Wake	Gridania	15
-Blue Starlight	Gridania	15
-Together at a Distance	Gridania	15
-Starlight Surprise	Gridania	15
+With the Winds	Solution Nine	100
+Through the Thunder	Tuliyollal	100
+Beyond the Mountains	Alexandria Crater	100
+Around the City	Treno	100
+To Work	Treno	100
+In Her Heart	Treno	100
+Toward Trouble	Treno	100
+Where We Call Home	Treno	100
+Into the Mist	Treno	100
+In Fate's Footsteps	Solution Nine	100
+Two Worlds Entwined	Main Hall	100
+A Grave Presentiment	Garlemald	100
+A Beacon from Beyond	The Red Moon	100
+Trail to the Heavens	Mare Lamentorum	100
+Feral Fandom	Solution Nine	100
+The Breathtaker	Greenroom	100
+Daring Devils	Greenroom	100
+Challenger and Champion	Greenroom	100
+Iron Fist	Greenroom	100
+Glory Incarnate	Greenroom	100
+A Spellbinding Read	Old Sharlayan	90
+Abridged Too Far	Old Sharlayan	100
+Starting a New Chapter	Old Sharlayan	90
+A Need for Speed	Solution Nine	100
+Meteorites and Meteor-wrongs	Solution Nine	100
+Mission of Gravity	Phaenna	100
+Memory's Orbit	Oizys	100
+A Manager's Prudence	Oizys	100
+A Manager's Power	Oizys	100
+Terror along the Tracks	Oizys	100
+Timeworn Techniques	Phantom Village	100
+In Pursuit of Perfection	Phantom Village	100
+A Phantom Reborn	Phantom Village	100
+The Hollow Promise	Tuliyollal	100
+Distant Promises	Lower Jeuno	100
+The Icing on the Cake	Old Gridania	15
+What Can Eye Do for You	Ul'dah	15
+Backstage Chats	Ul'dah	15
+Dressed to Protect	Limsa Lominsa	15
+An Adventurous Ambition	Limsa Lominsa	15
+A Light That Ever Burns	Lower La Noscea	15
+Frights of Fancy	Old Gridania	15
+Dressed to Impresario	Old Gridania	15

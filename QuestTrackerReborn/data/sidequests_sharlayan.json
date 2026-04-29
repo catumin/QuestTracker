@@ -1,0 +1,527 @@
+{
+  "Title": "Sharlayan Sidequests",
+  "Categories": [
+    {
+      "Title": "Labyrinthos",
+      "Quests": [
+        {
+          "Title": " It's Not the Heat, It's the Humidity",
+          "Id": [
+            69720
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " No Laughing Matter",
+          "Id": [
+            69721
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Building Good Habitats",
+          "Id": [
+            69722
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " An Ore-ful Lot",
+          "Id": [
+            69723
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Raised on the Fallen",
+          "Id": [
+            69724
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Pot Luck",
+          "Id": [
+            69725
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Uncommon Scents",
+          "Id": [
+            69726
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " A Hard Task to Digest",
+          "Id": [
+            69727
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Learning to Sow",
+          "Id": [
+            69728
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " A Ripe Trade",
+          "Id": [
+            69729
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " It's Not Mud",
+          "Id": [
+            69730
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Not Mushroom for Error",
+          "Id": [
+            69731
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Lost Little Troll",
+          "Id": [
+            70016
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Problematic Pests",
+          "Id": [
+            70017
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Pests Be Gone",
+          "Id": [
+            70018
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Dream Big",
+          "Id": [
+            70019
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Seeing Red",
+          "Id": [
+            69862
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Herbicidal Tendencies",
+          "Id": [
+            69864
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Let the Good Times Troll",
+          "Id": [
+            69865
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Apple-y Ever After",
+          "Id": [
+            69866
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " The Case of the Missing Gleaner",
+          "Id": [
+            69869
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Gleaner's Wish",
+          "Id": [
+            69856
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " A Job for a Loporrit",
+          "Id": [
+            69857
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Gift for a Fan",
+          "Id": [
+            69858
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Wayward Carbuncle",
+          "Id": [
+            69859
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Don't Philter Yourself",
+          "Id": [
+            69860
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Take a Look, It's in a Book",
+          "Id": [
+            69861
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " To Care Enough to Send the Very Best",
+          "Id": [
+            69863
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " The Dry Eyes Have It",
+          "Id": [
+            69867
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Dolling out Punishment",
+          "Id": [
+            69868
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Cooler than Being Cool",
+          "Id": [
+            69870
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " For the Record",
+          "Id": [
+            69871
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Harbinger of Breath",
+          "Id": [
+            69872
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " The Lad in Labyrinthos",
+          "Id": [
+            70020
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Here Comes the Sun",
+          "Id": [
+            70021
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Fiery Thirst",
+          "Id": [
+            70022
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " The Hero in Labyrinthos",
+          "Id": [
+            70023
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": " Thick as Thieves",
+          "Id": [
+            70024
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        },
+        {
+          "Title": "The Pride of Labyrinthos",
+          "Id": [
+            70352
+          ],
+          "Area": "Labyrinthos",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Old Sharlayan",
+      "Quests": [
+        {
+          "Title": "Wings of Hope",
+          "Id": [
+            70331
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 1
+        },
+        {
+          "Title": " A Waiting Love",
+          "Id": [
+            69716
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Scholarly Perspective",
+          "Id": [
+            69717
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " A Literary Delivery",
+          "Id": [
+            69718
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Doll Dash",
+          "Id": [
+            69719
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " A Volatile Education",
+          "Id": [
+            69746
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " The Light of Progress",
+          "Id": [
+            69747
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " My Fair Mammet",
+          "Id": [
+            69748
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " The Creature from the Wooden Crate",
+          "Id": [
+            69749
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Fast Fashion",
+          "Id": [
+            69750
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Booking Books",
+          "Id": [
+            69751
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " For the Love of Pudding",
+          "Id": [
+            69852
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Secret in the Box",
+          "Id": [
+            69853
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Leveilleur Philanthropy",
+          "Id": [
+            69854
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": " Sandwiches and Pretzels",
+          "Id": [
+            69855
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "Cutting the Cheese",
+          "Id": [
+            69703
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Where No Loporrit Has Gone Before",
+          "Id": [
+            69704
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Of Mothers and Merchants",
+          "Id": [
+            70059
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "A Mother's Love",
+          "Id": [
+            70060
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "A Gift from House Leveilleur",
+          "Id": [
+            70061
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "A Request of One's Own",
+          "Id": [
+            70351
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "The Hunt for Specimens",
+          "Id": [
+            69712
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 80
+        },
+        {
+          "Title": "That Specimen Came from the Moon",
+          "Id": [
+            69713
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 83
+        },
+        {
+          "Title": "A Hunt for the Ages",
+          "Id": [
+            69714
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 89
+        },
+        {
+          "Title": "Perfect Specimens",
+          "Id": [
+            69715
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

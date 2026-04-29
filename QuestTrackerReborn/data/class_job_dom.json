@@ -1,0 +1,226 @@
+{
+  "Title": "Disciple of Magic Quests",
+  "Categories": [
+    {
+      "Title": "Conjurer Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Conjurer",
+          "Id": [
+            65669,
+            65558
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "My First Cane",
+          "Id": [
+            65747
+          ],
+          "Area": "Gridania",
+          "Level": 1
+        },
+        {
+          "Title": "Trial by Earth",
+          "Id": [
+            65584
+          ],
+          "Area": "Gridania",
+          "Level": 5
+        },
+        {
+          "Title": "Trial by Wind",
+          "Id": [
+            65683,
+            65627
+          ],
+          "Area": "Gridania",
+          "Level": 10
+        },
+        {
+          "Title": "Trial by Water",
+          "Id": [
+            65628
+          ],
+          "Area": "Gridania",
+          "Level": 15
+        },
+        {
+          "Title": "Sylphie's Trials",
+          "Id": [
+            65629
+          ],
+          "Area": "Gridania",
+          "Level": 20
+        },
+        {
+          "Title": "Like Mother, Like Daughter",
+          "Id": [
+            65976
+          ],
+          "Area": "Gridania",
+          "Level": 25
+        },
+        {
+          "Title": "In Nature's Embrace",
+          "Id": [
+            65977
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Thaumaturge Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Thaumaturge",
+          "Id": [
+            65881,
+            65880
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "My First Scepter",
+          "Id": [
+            65882
+          ],
+          "Area": "Ul'dah",
+          "Level": 1
+        },
+        {
+          "Title": "The Threat of Intimacy",
+          "Id": [
+            65883
+          ],
+          "Area": "Ul'dah",
+          "Level": 5
+        },
+        {
+          "Title": "The Threat of Paucity",
+          "Id": [
+            65884,
+            65885
+          ],
+          "Area": "Ul'dah",
+          "Level": 10
+        },
+        {
+          "Title": "The Threat of Superiority",
+          "Id": [
+            65886
+          ],
+          "Area": "Ul'dah",
+          "Level": 15
+        },
+        {
+          "Title": "The Threat of Perplexity",
+          "Id": [
+            65887
+          ],
+          "Area": "Ul'dah",
+          "Level": 20
+        },
+        {
+          "Title": "The Hidden Chapter",
+          "Id": [
+            65888
+          ],
+          "Area": "Ul'dah",
+          "Level": 25
+        },
+        {
+          "Title": "Facing Your Demons",
+          "Id": [
+            65889
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        }
+      ]
+    },
+    {
+      "Title": "Arcanist Quests",
+      "Quests": [
+        {
+          "Title": "Way of the Arcanist",
+          "Id": [
+            65988,
+            65989
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "My First Grimoire",
+          "Id": [
+            65990
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 1
+        },
+        {
+          "Title": "What's in the Box",
+          "Id": [
+            65991
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 5
+        },
+        {
+          "Title": "Tactical Planning",
+          "Id": [
+            65993,
+            65992
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 10
+        },
+        {
+          "Title": "Topaz Teachings",
+          "Id": [
+            66639
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "Over the Rails",
+          "Id": [
+            65994
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 15
+        },
+        {
+          "Title": "Pincer Maneuver",
+          "Id": [
+            65995
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 20
+        },
+        {
+          "Title": "Grimoire Fandango",
+          "Id": [
+            65996
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 25
+        },
+        {
+          "Title": "Sinking Doesmaga",
+          "Id": [
+            65997
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        }
+      ]
+    }
+  ]
+}

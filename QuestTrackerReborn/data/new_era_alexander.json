@@ -1,0 +1,125 @@
+{
+  "Title": "Chronicles of a New Era - Alexander",
+  "Quests": [
+    {
+      "Title": "Disarmed",
+      "Id": [
+        67626
+      ],
+      "Area": "Idyllshire",
+      "Level": 60
+    },
+    {
+      "Title": "Steel and Steam",
+      "Id": [
+        67627
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Tinker, Seeker, Soldier, Spy",
+      "Id": [
+        67628
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "The Pulsing Heart",
+      "Id": [
+        67629
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Enigma",
+      "Id": [
+        67630
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Rearmed",
+      "Id": [
+        67785
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "The Folly of Youth",
+      "Id": [
+        67786
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Toppling the Tyrant",
+      "Id": [
+        67787
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "One Step Behind",
+      "Id": [
+        67788
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "A Gob in the Machine",
+      "Id": [
+        67789
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "The Coeurl and the Colossus",
+      "Id": [
+        67871
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Biggs and Wedge's Excellent Adventure",
+      "Id": [
+        67872
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Thus Spake Quickthinx",
+      "Id": [
+        67873
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Judgment Day",
+      "Id": [
+        67874
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    },
+    {
+      "Title": "Of Endings and Beginnings",
+      "Id": [
+        67875
+      ],
+      "Area": "The Dravanian Hinterlands",
+      "Level": 60
+    }
+  ]
+}

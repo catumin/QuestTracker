@@ -1,0 +1,149 @@
+{
+  "Title": "Chronicles of a New Era - The Arcadion",
+  "Quests": [
+    {
+      "Title": "A New Challenger Appears",
+      "Id": [
+        70496
+      ],
+      "Area": "Solution Nine",
+      "Level": 100
+    },
+    {
+      "Title": "The Claw in the Dark",
+      "Id": [
+        70497
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Sweet Poison",
+      "Id": [
+        70498
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Yaana's Yarn",
+      "Id": [
+        70499
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Vile Heat",
+      "Id": [
+        70500
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "The Neoteric Witch",
+      "Id": [
+        70501
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Souls under Siege",
+      "Id": [
+        70825
+      ],
+      "Area": "Solution Nine",
+      "Level": 100
+    },
+    {
+      "Title": "The Dancing King",
+      "Id": [
+        70826
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Art at War",
+      "Id": [
+        70827
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Twisted Vengeance",
+      "Id": [
+        70828
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+      "Title": "Family Matters",
+      "Id": [
+        70829
+      ],
+      "Area": "Tritails Training",
+      "Level": 100
+    },
+    {
+      "Title": "The Lone Wolf",
+      "Id": [
+        70830
+      ],
+      "Area": "Greenroom",
+      "Level": 100
+    },
+    {
+    "Title": "Feral Fandom",
+    "Id": [
+      70971
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "The Breathtaker",
+    "Id": [
+      70972
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Daring Devils",
+    "Id": [
+      70973
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Challenger and Champion",
+    "Id": [
+      70974
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Iron Fist",
+    "Id": [
+      70975
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Glory Incarnate",
+    "Id": [
+      70976
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  }
+  ]
+}

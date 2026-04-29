@@ -8408,7 +8408,120 @@
                             ],
                             "Area": "The Backroom",
                             "Level": 100
-                        }
+                        },
+                        {
+    "Title": "With the Winds",
+    "Id": [
+      70962
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "Through the Thunder",
+    "Id": [
+      70963
+    ],
+    "Area": "Tuliyollal",
+    "Level": 100
+  },
+  {
+    "Title": "Beyond the Mountains",
+    "Id": [
+      70964
+    ],
+    "Area": "Alexandria Crater",
+    "Level": 100
+  },
+  {
+    "Title": "Around the City",
+    "Id": [
+      70965
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "To Work",
+    "Id": [
+      70966
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "In Her Heart",
+    "Id": [
+      70967
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "Toward Trouble",
+    "Id": [
+      70968
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "Where We Call Home",
+    "Id": [
+      70969
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "Into the Mist",
+    "Id": [
+      67408,
+      70970
+    ],
+    "Area": "Treno",
+    "Level": 100
+  },
+  {
+    "Title": "In Fate's Footsteps",
+    "Id": [
+      71006
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "Two Worlds Entwined",
+    "Id": [
+      71007
+    ],
+    "Area": "Main Hall",
+    "Level": 100
+  },
+  {
+    "Title": "A Grave Presentiment",
+    "Id": [
+      71008
+    ],
+    "Area": "Garlemald",
+    "Level": 100
+  },
+  {
+    "Title": "A Beacon from Beyond",
+    "Id": [
+      71009
+    ],
+    "Area": "The Red Moon",
+    "Level": 100
+  },
+  {
+    "Title": "Trail to the Heavens",
+    "Id": [
+      71010
+    ],
+    "Area": "Mare Lamentorum",
+    "Level": 100
+  }
                     ]
                 }
             ]
@@ -9917,7 +10030,55 @@
                             ],
                             "Area": "Greenroom",
                             "Level": 100
-                        }
+                        },
+                        {
+    "Title": "Feral Fandom",
+    "Id": [
+      70971
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "The Breathtaker",
+    "Id": [
+      70972
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Daring Devils",
+    "Id": [
+      70973
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Challenger and Champion",
+    "Id": [
+      70974
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Iron Fist",
+    "Id": [
+      70975
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  },
+  {
+    "Title": "Glory Incarnate",
+    "Id": [
+      70976
+    ],
+    "Area": "Greenroom",
+    "Level": 100
+  }
                     ]
                 },
                 {
@@ -9986,7 +10147,23 @@
                             ],
                             "Area": "Shaaloani",
                             "Level": 100
-                        }
+                        },
+                        {
+    "Title": "The Hollow Promise",
+    "Id": [
+      71015
+    ],
+    "Area": "Tuliyollal",
+    "Level": 100
+  },
+  {
+    "Title": "Distant Promises",
+    "Id": [
+      71016
+    ],
+    "Area": "Lower Jeuno",
+    "Level": 100
+  }
                     ]
                 }
             ]
@@ -10596,7 +10773,23 @@
                                     ],
                                     "Area": "Shaaloani",
                                     "Level": 100
-                                }
+                                },
+                                {
+    "Title": "A Need for Speed",
+    "Id": [
+      70982
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  },
+  {
+    "Title": "Meteorites and Meteor-wrongs",
+    "Id": [
+      70983
+    ],
+    "Area": "Solution Nine",
+    "Level": 100
+  }
                             ]
                         }
                     ]
@@ -11211,7 +11404,31 @@
                                     ],
                                     "Area": "Phantom Village",
                                     "Level": 100
-                                }
+                                },
+                                {
+    "Title": "Timeworn Techniques",
+    "Id": [
+      70990
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  },
+  {
+    "Title": "In Pursuit of Perfection",
+    "Id": [
+      70991
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  },
+  {
+    "Title": "A Phantom Reborn",
+    "Id": [
+      70992
+    ],
+    "Area": "Phantom Village",
+    "Level": 100
+  }
                             ]
                         }
                     ]
@@ -11874,7 +12091,31 @@
                                     ],
                                     "Area": "Thavnair",
                                     "Level": 90
-                                }
+                                },
+                                {
+    "Title": "A Spellbinding Read",
+    "Id": [
+      70977
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 90
+  },
+  {
+    "Title": "Abridged Too Far",
+    "Id": [
+      70995
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 100
+  },
+  {
+    "Title": "Starting a New Chapter",
+    "Id": [
+      70978
+    ],
+    "Area": "Old Sharlayan",
+    "Level": 90
+  }
                             ]
                         },
                         {
@@ -11903,7 +12144,23 @@
                                     ],
                                     "Area": "Phaenna",
                                     "Level": 10
-                                }
+                                },
+                                {
+    "Title": "Mission of Gravity",
+    "Id": [
+      70984
+    ],
+    "Area": "Phaenna",
+    "Level": 100
+  },
+  {
+    "Title": "Memory's Orbit",
+    "Id": [
+      70985
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  }
                             ]
                         },
                         {
@@ -11956,7 +12213,31 @@
                                     ],
                                     "Area": "Phaenna",
                                     "Level": 10
-                                }
+                                },
+                                {
+    "Title": "A Manager's Prudence",
+    "Id": [
+      70986
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  },
+  {
+    "Title": "A Manager's Power",
+    "Id": [
+      70988
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  },
+  {
+    "Title": "Terror along the Tracks",
+    "Id": [
+      70987
+    ],
+    "Area": "Oizys",
+    "Level": 100
+  }
                             ]
                         },
                         {

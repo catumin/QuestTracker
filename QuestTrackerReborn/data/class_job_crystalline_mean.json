@@ -1,0 +1,171 @@
+{
+  "Title": "Crystalline Mean Quests",
+  "Categories": [
+    {
+      "Title": "Facet of Forging Quests",
+      "Quests": [
+        {
+          "Title": "Iola, Forgemaster",
+          "Id": [
+            68763
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "To Struggle Nu Mou",
+          "Id": [
+            68764
+          ],
+          "Area": "The Crystarium",
+          "Level": 75
+        },
+        {
+          "Title": "The Iron Bellows",
+          "Id": [
+            68765
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Facet of Crafting Quests",
+      "Quests": [
+        {
+          "Title": "Cherished Memories",
+          "Id": [
+            68766
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "For Sentimental Reasons",
+          "Id": [
+            68767
+          ],
+          "Area": "The Crystarium",
+          "Level": 75
+        },
+        {
+          "Title": "The Notes of Bond Restoring",
+          "Id": [
+            68768
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Facet of Nourishing Quests",
+      "Quests": [
+        {
+          "Title": "Friends of a Feather",
+          "Id": [
+            68769
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Where We Belong",
+          "Id": [
+            68770
+          ],
+          "Area": "The Crystarium",
+          "Level": 75
+        },
+        {
+          "Title": "Healing Old Wounds",
+          "Id": [
+            68771
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Facet of Gathering Quests",
+      "Quests": [
+        {
+          "Title": "On the Trail of a Myth",
+          "Id": [
+            68772
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Shedding Light on the Myth",
+          "Id": [
+            68773
+          ],
+          "Area": "The Crystarium",
+          "Level": 75
+        },
+        {
+          "Title": "The Myth Takes Form",
+          "Id": [
+            68774
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Facet of Fishing Quests",
+      "Quests": [
+        {
+          "Title": "Well Eel Be Damned",
+          "Id": [
+            68775
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "Fishing for Confidence",
+          "Id": [
+            68776
+          ],
+          "Area": "The Crystarium",
+          "Level": 75
+        },
+        {
+          "Title": "Morsel of the Deep",
+          "Id": [
+            68777
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Crystalline Mean Quests",
+      "Quests": [
+        {
+          "Title": "The Crystalline Mean",
+          "Id": [
+            69191
+          ],
+          "Area": "The Crystarium",
+          "Level": 70
+        },
+        {
+          "Title": "For Every Child a Star",
+          "Id": [
+            68778
+          ],
+          "Area": "The Crystarium",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

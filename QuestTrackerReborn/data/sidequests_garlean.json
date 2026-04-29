@@ -1,0 +1,274 @@
+{
+  "Title": "Garlean Sidequests",
+  "Categories": [
+    {
+      "Title": "Garlemald",
+      "Quests": [
+        {
+          "Title": " Your Inventory Is Not Full",
+          "Id": [
+            69755
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Bear Baiting",
+          "Id": [
+            69759
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Heroes All",
+          "Id": [
+            69757
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Under Lock and Code",
+          "Id": [
+            69760
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Help Me to Help You",
+          "Id": [
+            69756
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Scouting for Scouts",
+          "Id": [
+            69758
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Best Delivered Cold",
+          "Id": [
+            69752
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Armored Up",
+          "Id": [
+            69753
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " A Dream of Home",
+          "Id": [
+            69754
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " In Pursuit of Power",
+          "Id": [
+            70034
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Camp Broken Engines",
+          "Id": [
+            70035
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Operation: Reactivation",
+          "Id": [
+            70036
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Energy for All",
+          "Id": [
+            70037
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " And Then a Hero Comes Along",
+          "Id": [
+            69761
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " With Folded Hands",
+          "Id": [
+            69762
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " A Light That Never Goes Out",
+          "Id": [
+            69763
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " P.S. I Love You",
+          "Id": [
+            69764
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Brick by Brick, Tank by Tank",
+          "Id": [
+            69765
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Rest, Thy Warfare O'er",
+          "Id": [
+            69766
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Some Like It Hot",
+          "Id": [
+            69767
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Children Are Our Future",
+          "Id": [
+            69768
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Mama, She Is in Rubble Deep",
+          "Id": [
+            69769
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Put Your Plasma Where Your Mouth Is",
+          "Id": [
+            69770
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " The Hero Never Bombs",
+          "Id": [
+            69771
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Beasts of the Imperial Wild",
+          "Id": [
+            69772
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Ordnance Cleanup Committee",
+          "Id": [
+            69773
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " A Place of Greater Safety",
+          "Id": [
+            69774
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " In the Skies above Garlemald",
+          "Id": [
+            69775
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Stranded at the Station",
+          "Id": [
+            70038
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Longing for Home",
+          "Id": [
+            70039
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Palatial Possibilities",
+          "Id": [
+            70040
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Mum Is the Word",
+          "Id": [
+            70041
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        },
+        {
+          "Title": " Who Is Your Daddy",
+          "Id": [
+            70042
+          ],
+          "Area": "Garlemald",
+          "Level": 80
+        }
+      ]
+    }
+  ]
+}

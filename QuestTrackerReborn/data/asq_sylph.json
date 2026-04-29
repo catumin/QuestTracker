@@ -1,0 +1,295 @@
+{
+  "Title": "Sylph Quests",
+  "Categories": [
+    {
+      "Title": "Main Quests",
+      "Quests": [
+        {
+          "Title": "Seeking Solace",
+          "Id": [
+            66788
+          ],
+          "Area": "Gridania",
+          "Level": 42
+        },
+        {
+          "Title": "Voyce of Concern",
+          "Id": [
+            66789
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Pilfered Podlings",
+          "Id": [
+            66790
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Idle Hands",
+          "Id": [
+            66791
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Feathers and Folly",
+          "Id": [
+            66792
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        }
+      ]
+    },
+    {
+      "Title": "Daily Quests",
+      "Quests": [
+        {
+          "Title": "Deck the Hut",
+          "Id": [
+            66793
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Malodorous Mischief",
+          "Id": [
+            66794
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Gourd Grief",
+          "Id": [
+            66795
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Feed Me",
+          "Id": [
+            66796
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Giddy for Goobbues",
+          "Id": [
+            66797
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Now You See Me",
+          "Id": [
+            66798
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Imperial Intruders",
+          "Id": [
+            66799
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "The Magitek Menace",
+          "Id": [
+            66800
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Not Who They Seem",
+          "Id": [
+            66801
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "Raising a Stink",
+          "Id": [
+            66802
+          ],
+          "Area": "East Shroud",
+          "Level": 42
+        },
+        {
+          "Title": "With One Stone",
+          "Id": [
+            66803
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "I Dream of Slimy",
+          "Id": [
+            66804
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Mushroom Madness",
+          "Id": [
+            66805
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Milkroot in Moderation",
+          "Id": [
+            66806
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Something to Sneeze At",
+          "Id": [
+            66807
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Shocking Developments",
+          "Id": [
+            66808
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Waterbringer",
+          "Id": [
+            66809
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "In the Sylphlands, Treasure Hunts You",
+          "Id": [
+            66810
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Perilous Pumpkins",
+          "Id": [
+            66811
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Fungal Foulness",
+          "Id": [
+            66812
+          ],
+          "Area": "East Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Ripe for the Picking",
+          "Id": [
+            66813
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "A Sticky Situation",
+          "Id": [
+            66814
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Sympathy for the Sentinel",
+          "Id": [
+            66815
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "No Root for You",
+          "Id": [
+            66816
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Mist Opportunities",
+          "Id": [
+            66817
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Clearing the Air",
+          "Id": [
+            66818
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Podling Peril",
+          "Id": [
+            66819
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Boar Wars",
+          "Id": [
+            66820
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Moxia's Magnum Opus",
+          "Id": [
+            66821
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        },
+        {
+          "Title": "Bane of the Barbs",
+          "Id": [
+            66822
+          ],
+          "Area": "East Shroud",
+          "Level": 48
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Title": "Chronicles of a New Era - Echoes of Vana'diel",
+  "Quests": [
+    {
+      "Title": "An Otherworldly Encounter",
+      "Id": [
+        70769
+      ],
+      "Area": "Tuliyollal",
+      "Level": 100
+    },
+    {
+      "Title": "It All Began with a Stone",
+      "Id": [
+        70770
+      ],
+      "Area": "Lower Jeuno",
+      "Level": 100
+    },
+    {
+      "Title": "That World Was Called Vana'diel",
+      "Id": [
+        70771
+      ],
+      "Area": "Lower Jeuno",
+      "Level": 100
+    },
+    {
+      "Title": "Jeuno",
+      "Id": [
+        70772
+      ],
+      "Area": "Tuliyollal",
+      "Level": 100
+    },
+    {
+      "Title": "Dreams of Paradise",
+      "Id": [
+        70862
+      ],
+      "Area": "Tuliyollal",
+      "Level": 100
+    },
+    {
+      "Title": "Northward",
+      "Id": [
+        70863
+      ],
+      "Area": "Lower Jeuno",
+      "Level": 100
+    },
+    {
+      "Title": "For Whom the Verse Is Sung",
+      "Id": [
+        70864
+      ],
+      "Area": "Shaaloani",
+      "Level": 100
+    },
+    {
+      "Title": "Apocalypse Nigh",
+      "Id": [
+        70865
+      ],
+      "Area": "Shaaloani",
+      "Level": 100
+    },
+    {
+    "Title": "The Hollow Promise",
+    "Id": [
+      71015
+    ],
+    "Area": "Tuliyollal",
+    "Level": 100
+  },
+  {
+    "Title": "Distant Promises",
+    "Id": [
+      71016
+    ],
+    "Area": "Lower Jeuno",
+    "Level": 100
+  }
+  ]
+}

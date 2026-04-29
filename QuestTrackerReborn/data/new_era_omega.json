@@ -1,0 +1,151 @@
+{
+  "Title": "Chronicles of a New Era - Omega",
+  "Categories": [
+    {
+      "Title": "Omega Quests",
+      "Quests": [
+        {
+          "Title": "The Hunt for Omega",
+          "Id": [
+            68464
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "Into the Deltascape",
+          "Id": [
+            68465
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "A Catastrophe Waiting",
+          "Id": [
+            68466
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "The Croak Queen",
+          "Id": [
+            68467
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "A Void at All Costs",
+          "Id": [
+            68468
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "The Anomaly",
+          "Id": [
+            68469
+          ],
+          "Area": "The Fringes",
+          "Level": 70
+        },
+        {
+          "Title": "Return to the Rift",
+          "Id": [
+            68567
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "No Slowing Down",
+          "Id": [
+            68568
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "An Unfinished Masterpiece",
+          "Id": [
+            68569
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "Won't Let You Pass",
+          "Id": [
+            68570
+          ],
+          "Area": "The Fringes",
+          "Level": 70
+        },
+        {
+          "Title": "Test World of Ruin",
+          "Id": [
+            68571
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "In the Beginning, There Was Chaos",
+          "Id": [
+            68690
+          ],
+          "Area": "Rhalgr's Reach",
+          "Level": 70
+        },
+        {
+          "Title": "And Like Fire Was His Mane",
+          "Id": [
+            68691
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "In the End, There Is Omega",
+          "Id": [
+            68692
+          ],
+          "Area": "The Interdimensional Rift",
+          "Level": 70
+        },
+        {
+          "Title": "To Kweh under Distant Skies",
+          "Id": [
+            68693
+          ],
+          "Area": "The Fringes",
+          "Level": 70
+        }
+      ]
+    },
+    {
+      "Title": "Omega: Beyond the Rift",
+      "Quests": [
+        {
+          "Title": "A Heartless Hypothesis",
+          "Id": [
+            70122
+          ],
+          "Area": "Old Sharlayan",
+          "Level": 90
+        },
+        {
+          "Title": "Goodbye, ε̆│̆│Δ",
+          "Id": [
+            70123
+          ],
+          "Area": "Radz-at-Han",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}

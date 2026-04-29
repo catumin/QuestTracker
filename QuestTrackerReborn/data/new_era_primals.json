@@ -1,0 +1,125 @@
+{
+  "Title": "Chronicles of a New Era - Primals",
+  "Quests": [
+    {
+      "Title": "A Recurring Problem",
+      "Id": [
+        66583
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Ifrit Bleeds, We Can Kill It",
+      "Id": [
+        66584
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "In for Garuda Awakening",
+      "Id": [
+        66693
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "In a Titan Spot",
+      "Id": [
+        66694
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Primal Nature",
+      "Id": [
+        66730
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Gale-force Warning",
+      "Id": [
+        66731
+      ],
+      "Area": "Gridania",
+      "Level": 50
+    },
+    {
+      "Title": "Quake Me Up Before You O'Ghomoro",
+      "Id": [
+        66732
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Ifrit Ain't Broke",
+      "Id": [
+        66733
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "To Tussle with Gods",
+      "Id": [
+        66734
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Primal Focus",
+      "Id": [
+        66845
+      ],
+      "Area": "Mor Dhona",
+      "Level": 50
+    },
+    {
+      "Title": "The King Lives",
+      "Id": [
+        66948
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Whorl of a Time",
+      "Id": [
+        66949
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Judgment Bolts and Lightning",
+      "Id": [
+        67066
+      ],
+      "Area": "Gridania",
+      "Level": 50
+    },
+    {
+      "Title": "Drop Dead Shiva",
+      "Id": [
+        65626
+      ],
+      "Area": "The Waking Sands",
+      "Level": 50
+    },
+    {
+      "Title": "Fear and Odin in the Shroud",
+      "Id": [
+        65969
+      ],
+      "Area": "Gridania",
+      "Level": 50
+    }
+  ]
+}

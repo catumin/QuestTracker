@@ -1,0 +1,261 @@
+{
+  "Title": "Post-Shadowbringers Main Scenario Quests",
+  "Quests": [
+    {
+      "Title": "Shaken Resolve",
+      "Id": [
+        69209
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "A Grand Adventure",
+      "Id": [
+        69210
+      ],
+      "Area": "The Ocular",
+      "Level": 80
+    },
+    {
+      "Title": "A Welcome Guest",
+      "Id": [
+        69211
+      ],
+      "Area": "Lakeland",
+      "Level": 80
+    },
+    {
+      "Title": "Good for the Soul",
+      "Id": [
+        69212
+      ],
+      "Area": "Amh Araeng",
+      "Level": 80
+    },
+    {
+      "Title": "Nowhere to Turn",
+      "Id": [
+        69213
+      ],
+      "Area": "Amh Araeng",
+      "Level": 80
+    },
+    {
+      "Title": "A Notable Absence",
+      "Id": [
+        69214
+      ],
+      "Area": "Eulmore",
+      "Level": 80
+    },
+    {
+      "Title": "For the People",
+      "Id": [
+        69215
+      ],
+      "Area": "Eulmore",
+      "Level": 80
+    },
+    {
+      "Title": "Finding Good Help",
+      "Id": [
+        69216
+      ],
+      "Area": "Kholusia",
+      "Level": 80
+    },
+    {
+      "Title": "Moving Forward",
+      "Id": [
+        69217
+      ],
+      "Area": "Kholusia",
+      "Level": 80
+    },
+    {
+      "Title": "Vows of Virtue, Deeds of Cruelty",
+      "Id": [
+        69218
+      ],
+      "Area": "Eulmore",
+      "Level": 80
+    },
+    {
+      "Title": "Old Enemies, New Threats",
+      "Id": [
+        69297
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "The Way Home",
+      "Id": [
+        69298
+      ],
+      "Area": "The Lochs",
+      "Level": 80
+    },
+    {
+      "Title": "Seeking Counsel",
+      "Id": [
+        69299
+      ],
+      "Area": "The Ocular",
+      "Level": 80
+    },
+    {
+      "Title": "Facing the Truth",
+      "Id": [
+        69300
+      ],
+      "Area": "Lakeland",
+      "Level": 80
+    },
+    {
+      "Title": "A Sleep Disturbed",
+      "Id": [
+        69301
+      ],
+      "Area": "The Ocular",
+      "Level": 80
+    },
+    {
+      "Title": "An Old Friend",
+      "Id": [
+        69302
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 80
+    },
+    {
+      "Title": "Deep Designs",
+      "Id": [
+        69303
+      ],
+      "Area": "The Rak'tika Greatwood",
+      "Level": 80
+    },
+    {
+      "Title": "A Whale's Tale",
+      "Id": [
+        69304
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    },
+    {
+      "Title": "Beneath the Surface",
+      "Id": [
+        69305
+      ],
+      "Area": "Lakeland",
+      "Level": 80
+    },
+    {
+      "Title": "Echoes of a Fallen Star",
+      "Id": [
+        69306
+      ],
+      "Area": "Kholusia",
+      "Level": 80
+    },
+    {
+      "Title": "In the Name of the Light",
+      "Id": [
+        69307
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Heroic Dreams",
+      "Id": [
+        69308
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Fraying Threads",
+      "Id": [
+        69309
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Food for the Soul",
+      "Id": [
+        69310
+      ],
+      "Area": "The Rising Stones",
+      "Level": 80
+    },
+    {
+      "Title": "Faded Memories",
+      "Id": [
+        69311
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Etched in the Stars",
+      "Id": [
+        69312
+      ],
+      "Area": "The Tempest",
+      "Level": 80
+    },
+    {
+      "Title": "The Converging Light",
+      "Id": [
+        69313
+      ],
+      "Area": "Kholusia",
+      "Level": 80
+    },
+    {
+      "Title": "Hope's Confluence",
+      "Id": [
+        69314
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "Nothing Unsaid",
+      "Id": [
+        69315
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    },
+    {
+      "Title": "The Journey Continues",
+      "Id": [
+        69316
+      ],
+      "Area": "Eulmore",
+      "Level": 80
+    },
+    {
+      "Title": "Unto the Morrow",
+      "Id": [
+        69317
+      ],
+      "Area": "Il Mheg",
+      "Level": 80
+    },
+    {
+      "Title": "Reflections in Crystal",
+      "Id": [
+        69318
+      ],
+      "Area": "The Crystarium",
+      "Level": 80
+    }
+  ]
+}

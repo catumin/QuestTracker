@@ -1,0 +1,194 @@
+{
+  "Title": "Ishgardian Sidequests",
+  "Categories": [
+    {
+      "Title": "Ishgard",
+      "Quests": [
+        {
+          "Title": "Remembering Ishgard",
+          "Id": [
+            67262
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "The Best Laid Plans",
+          "Id": [
+            67263
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Drinking the Pain Away",
+          "Id": [
+            67264
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Landing a Stable Job",
+          "Id": [
+            67265
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Cold Days, Colder Nights",
+          "Id": [
+            67266
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Dinner for Four",
+          "Id": [
+            67267
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Mum's the Word",
+          "Id": [
+            67278
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "An Unwanted Delivery",
+          "Id": [
+            67279
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Homesick",
+          "Id": [
+            67286
+          ],
+          "Area": "Ishgard",
+          "Level": 51
+        },
+        {
+          "Title": "Looking to the Future",
+          "Id": [
+            67287
+          ],
+          "Area": "Ishgard",
+          "Level": 51
+        },
+        {
+          "Title": "Enlisted",
+          "Id": [
+            67409
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Honoring the Past",
+          "Id": [
+            67410
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Caught in the Act",
+          "Id": [
+            67406
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Into the Mists",
+          "Id": [
+            67408
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "A Full Stomach and Happy Heart",
+          "Id": [
+            67441
+          ],
+          "Area": "Ishgard",
+          "Level": 57
+        },
+        {
+          "Title": "Unfulfilled Dreams",
+          "Id": [
+            67442
+          ],
+          "Area": "Ishgard",
+          "Level": 57
+        },
+        {
+          "Title": "Moogles in the Sky",
+          "Id": [
+            67508
+          ],
+          "Area": "Ishgard",
+          "Level": 59
+        },
+        {
+          "Title": "Inscrutable Tastes",
+          "Id": [
+            67631
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Let the Clan Hunt Begin",
+          "Id": [
+            67655
+          ],
+          "Area": "Ishgard",
+          "Level": 53
+        },
+        {
+          "Title": "Better Bill Hunting",
+          "Id": [
+            67656
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Elite and Dangerous",
+          "Id": [
+            67658
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Do It for Gilly",
+          "Id": [
+            67649
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "Ascending to Empyreum",
+          "Id": [
+            69708
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        }
+      ]
+    }
+  ]
+}

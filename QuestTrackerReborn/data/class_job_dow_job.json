@@ -1,0 +1,1654 @@
+{
+  "Title": "Disciple of War Job Quests",
+  "Categories": [
+    {
+      "Title": "Paladin Quests",
+      "Quests": [
+        {
+          "Title": "Paladin's Pledge",
+          "Id": [
+            66591
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Honor Lost",
+          "Id": [
+            66592
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "Power Struggles",
+          "Id": [
+            66593
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "Poisoned Hearts",
+          "Id": [
+            66594
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Parley in the Sagolii",
+          "Id": [
+            66595
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Keeping the Oath",
+          "Id": [
+            66596
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Curtana)",
+          "Id": [
+            66656
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "An Exemplary Example",
+          "Id": [
+            67568
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Paladin Who Cried Wolf",
+          "Id": [
+            67569
+          ],
+          "Area": "Central Thanalan",
+          "Level": 52
+        },
+        {
+          "Title": "Big Sollerets to Fill",
+          "Id": [
+            67570
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 54
+        },
+        {
+          "Title": "Hey Soul Crystal",
+          "Id": [
+            67571
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "All According to Plan",
+          "Id": [
+            67572
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 58
+        },
+        {
+          "Title": "This Little Sword of Mine",
+          "Id": [
+            67573
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 60
+        },
+        {
+          "Title": "Tournament of the Century",
+          "Id": [
+            68107
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "In Thal's Name",
+          "Id": [
+            68108
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "In Nald's Name",
+          "Id": [
+            68109
+          ],
+          "Area": "Ul'dah",
+          "Level": 65
+        },
+        {
+          "Title": "Fade to Black Lotus",
+          "Id": [
+            68110
+          ],
+          "Area": "Ul'dah",
+          "Level": 68
+        },
+        {
+          "Title": "Raising the Sword",
+          "Id": [
+            68111
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "Worth Fighting For",
+          "Id": [
+            68746
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Monk Quests",
+      "Quests": [
+        {
+          "Title": "Brother from Another Mother",
+          "Id": [
+            66597
+          ],
+          "Area": "Ul'dah",
+          "Level": 30
+        },
+        {
+          "Title": "Insulted Intelligence",
+          "Id": [
+            66598
+          ],
+          "Area": "Ul'dah",
+          "Level": 35
+        },
+        {
+          "Title": "A Slave to the Aether",
+          "Id": [
+            66599
+          ],
+          "Area": "Ul'dah",
+          "Level": 40
+        },
+        {
+          "Title": "The Pursuit of Power",
+          "Id": [
+            66600
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Good Vibrations",
+          "Id": [
+            66601
+          ],
+          "Area": "Ul'dah",
+          "Level": 45
+        },
+        {
+          "Title": "Five Easy Pieces",
+          "Id": [
+            66602
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Sphairai)",
+          "Id": [
+            66657
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "The Legend Continues",
+          "Id": [
+            67562
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Let's Talk about Sects",
+          "Id": [
+            67563
+          ],
+          "Area": "Mor Dhona",
+          "Level": 52
+        },
+        {
+          "Title": "Against the Shadow",
+          "Id": [
+            67564
+          ],
+          "Area": "Mor Dhona",
+          "Level": 54
+        },
+        {
+          "Title": "Fight the Battle to Win",
+          "Id": [
+            67565
+          ],
+          "Area": "Mor Dhona",
+          "Level": 56
+        },
+        {
+          "Title": "Stop the Senseless Killing",
+          "Id": [
+            67566
+          ],
+          "Area": "Mor Dhona",
+          "Level": 58
+        },
+        {
+          "Title": "Appetite for Destruction",
+          "Id": [
+            67567
+          ],
+          "Area": "Mor Dhona",
+          "Level": 60
+        },
+        {
+          "Title": "A Fistful of Resolve",
+          "Id": [
+            67962
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Return of the Monk",
+          "Id": [
+            67963
+          ],
+          "Area": "Mor Dhona",
+          "Level": 63
+        },
+        {
+          "Title": "Cross-fist Training",
+          "Id": [
+            67964
+          ],
+          "Area": "The Peaks",
+          "Level": 65
+        },
+        {
+          "Title": "Choices and Paths",
+          "Id": [
+            67965
+          ],
+          "Area": "The Peaks",
+          "Level": 68
+        },
+        {
+          "Title": "The Power to Protect",
+          "Id": [
+            67966
+          ],
+          "Area": "The Peaks",
+          "Level": 70
+        },
+        {
+          "Title": "A Monk's Legacy",
+          "Id": [
+            68747
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Warrior Quests",
+      "Quests": [
+        {
+          "Title": "Pride and Duty (Will Take You from the Mountain)",
+          "Id": [
+            66585
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "Embracing the Beast",
+          "Id": [
+            66586
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 35
+        },
+        {
+          "Title": "Curious Gorge Goes to Wineport",
+          "Id": [
+            66587
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 40
+        },
+        {
+          "Title": "Looking the Part",
+          "Id": [
+            66588
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 45
+        },
+        {
+          "Title": "Proof Is the Pudding",
+          "Id": [
+            66589
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 45
+        },
+        {
+          "Title": "How to Quit You",
+          "Id": [
+            66590
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Bravura)",
+          "Id": [
+            66655
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Better Axe Around",
+          "Id": [
+            66121
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "Duty and the Beast",
+          "Id": [
+            66122
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 52
+        },
+        {
+          "Title": "The Bear Necessity",
+          "Id": [
+            66124
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 54
+        },
+        {
+          "Title": "Pirates of Shallow Water",
+          "Id": [
+            66132
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 56
+        },
+        {
+          "Title": "How to Train Your Warrior",
+          "Id": [
+            67213
+          ],
+          "Area": "Western La Noscea",
+          "Level": 56
+        },
+        {
+          "Title": "Slap an' Chop",
+          "Id": [
+            66134
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 58
+        },
+        {
+          "Title": "And My Axe",
+          "Id": [
+            66137
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 60
+        },
+        {
+          "Title": "Curious Gorge Meets His Match",
+          "Id": [
+            68436
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 60
+        },
+        {
+          "Title": "Field Training",
+          "Id": [
+            68437
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 63
+        },
+        {
+          "Title": "When Push Comes to Shove",
+          "Id": [
+            68438
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 65
+        },
+        {
+          "Title": "Going the Distance",
+          "Id": [
+            68439
+          ],
+          "Area": "Lower La Noscea",
+          "Level": 68
+        },
+        {
+          "Title": "The Heart of the Problem",
+          "Id": [
+            68440
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 70
+        },
+        {
+          "Title": "Once, Twice, Three Times a Warrior",
+          "Id": [
+            68748
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Dragoon Quests",
+      "Quests": [
+        {
+          "Title": "Eye of the Dragon",
+          "Id": [
+            66603
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "Lance of Fury",
+          "Id": [
+            66604
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 35
+        },
+        {
+          "Title": "Unfading Skies",
+          "Id": [
+            66605
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 40
+        },
+        {
+          "Title": "Double Dragoon",
+          "Id": [
+            66606
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 45
+        },
+        {
+          "Title": "Fatal Seduction",
+          "Id": [
+            66607
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 45
+        },
+        {
+          "Title": "Into the Dragon's Maw",
+          "Id": [
+            66608
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Gae Bolg)",
+          "Id": [
+            66658
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Sky's the Limit",
+          "Id": [
+            67225
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "Days of Azure",
+          "Id": [
+            67226
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 52
+        },
+        {
+          "Title": "Heart of Justice",
+          "Id": [
+            67227
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 52
+        },
+        {
+          "Title": "Sworn Upon a Lance",
+          "Id": [
+            67228
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 54
+        },
+        {
+          "Title": "Dragoon's Errand",
+          "Id": [
+            67229
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 56
+        },
+        {
+          "Title": "Sanguine Dragoon",
+          "Id": [
+            67230
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 58
+        },
+        {
+          "Title": "Dragoon's Fate",
+          "Id": [
+            67231
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 60
+        },
+        {
+          "Title": "Friends through Eternity",
+          "Id": [
+            68446
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 60
+        },
+        {
+          "Title": "Drowsy Dragons",
+          "Id": [
+            68447
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 63
+        },
+        {
+          "Title": "Serpent and the Sea of Rubies",
+          "Id": [
+            68448
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 65
+        },
+        {
+          "Title": "Dark as the Night Sky",
+          "Id": [
+            68449
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "Dragon Sound",
+          "Id": [
+            68450
+          ],
+          "Area": "The Azim Steppe",
+          "Level": 70
+        },
+        {
+          "Title": "Gone but Not Forgiven",
+          "Id": [
+            68749
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Bard Quests",
+      "Quests": [
+        {
+          "Title": "A Song of Bards and Bowmen",
+          "Id": [
+            66621
+          ],
+          "Area": "Gridania",
+          "Level": 30
+        },
+        {
+          "Title": "The Archer's Anthem",
+          "Id": [
+            66622
+          ],
+          "Area": "South Shroud",
+          "Level": 35
+        },
+        {
+          "Title": "Bard's-eye View",
+          "Id": [
+            66623
+          ],
+          "Area": "South Shroud",
+          "Level": 40
+        },
+        {
+          "Title": "Doing It the Bard Way",
+          "Id": [
+            66624
+          ],
+          "Area": "South Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Pieces of the Past",
+          "Id": [
+            66625
+          ],
+          "Area": "South Shroud",
+          "Level": 45
+        },
+        {
+          "Title": "Requiem for the Fallen",
+          "Id": [
+            66626
+          ],
+          "Area": "South Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Artemis Bow)",
+          "Id": [
+            66661
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "On the Road Again",
+          "Id": [
+            67249
+          ],
+          "Area": "South Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "The Stiff and the Spent",
+          "Id": [
+            67250
+          ],
+          "Area": "Ishgard",
+          "Level": 52
+        },
+        {
+          "Title": "Requiem on Ice",
+          "Id": [
+            67251
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 54
+        },
+        {
+          "Title": "When Gnaths Cry",
+          "Id": [
+            67252
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 56
+        },
+        {
+          "Title": "A Saint of Song",
+          "Id": [
+            67253
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 58
+        },
+        {
+          "Title": "The Ballad of Oblivion",
+          "Id": [
+            67254
+          ],
+          "Area": "The Churning Mists",
+          "Level": 60
+        },
+        {
+          "Title": "Three's a Company",
+          "Id": [
+            68426
+          ],
+          "Area": "South Shroud",
+          "Level": 60
+        },
+        {
+          "Title": "Masked Motives",
+          "Id": [
+            68427
+          ],
+          "Area": "The Fringes",
+          "Level": 63
+        },
+        {
+          "Title": "One Autumn's Secret",
+          "Id": [
+            68428
+          ],
+          "Area": "The Fringes",
+          "Level": 65
+        },
+        {
+          "Title": "Sleeping Truths Lie",
+          "Id": [
+            68429
+          ],
+          "Area": "The Fringes",
+          "Level": 68
+        },
+        {
+          "Title": "Sweet Dreams Are Made of Peace",
+          "Id": [
+            68430
+          ],
+          "Area": "Gridania",
+          "Level": 70
+        },
+        {
+          "Title": "A Harmony from the Heavens",
+          "Id": [
+            68750
+          ],
+          "Area": "South Shroud",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Ninja Quests",
+      "Quests": [
+        {
+          "Title": "Peasants by Day, Ninjas by Night",
+          "Id": [
+            65748
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 30
+        },
+        {
+          "Title": "My First Mudra",
+          "Id": [
+            65749
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 30
+        },
+        {
+          "Title": "Killer Combinations",
+          "Id": [
+            65750
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 35
+        },
+        {
+          "Title": "Once Upon a Time in Doma",
+          "Id": [
+            65751
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 35
+        },
+        {
+          "Title": "Pirates versus Ninjas",
+          "Id": [
+            65752
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 40
+        },
+        {
+          "Title": "Ninja Bathin'",
+          "Id": [
+            65753
+          ],
+          "Area": "Upper La Noscea",
+          "Level": 40
+        },
+        {
+          "Title": "Tough Guys",
+          "Id": [
+            65768
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 45
+        },
+        {
+          "Title": "The Crow Knows",
+          "Id": [
+            65769
+          ],
+          "Area": "Middle La Noscea",
+          "Level": 45
+        },
+        {
+          "Title": "Master and Student",
+          "Id": [
+            65770
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "A Relic Reborn (Yoshimitsu)",
+          "Id": [
+            67115
+          ],
+          "Area": "North Shroud",
+          "Level": 50
+        },
+        {
+          "Title": "Strangers in a Strange Land",
+          "Id": [
+            65771
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 50
+        },
+        {
+          "Title": "The Impossible Girl",
+          "Id": [
+            67220
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 52
+        },
+        {
+          "Title": "Ninja Assassin",
+          "Id": [
+            67221
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 54
+        },
+        {
+          "Title": "Medieval Espionage",
+          "Id": [
+            67222
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 56
+        },
+        {
+          "Title": "Staying Alive",
+          "Id": [
+            67223
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 58
+        },
+        {
+          "Title": "In Her Defense",
+          "Id": [
+            67224
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 60
+        },
+        {
+          "Title": "Search for the Stolen Scroll",
+          "Id": [
+            68484
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 60
+        },
+        {
+          "Title": "Ninja Bathin' Redux",
+          "Id": [
+            68485
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 63
+        },
+        {
+          "Title": "A Game of Life and Death",
+          "Id": [
+            68486
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "True Enlightenment",
+          "Id": [
+            68487
+          ],
+          "Area": "Yanxia",
+          "Level": 68
+        },
+        {
+          "Title": "When Clans Collide",
+          "Id": [
+            68488
+          ],
+          "Area": "Yanxia",
+          "Level": 70
+        },
+        {
+          "Title": "Oboro's Big Idea",
+          "Id": [
+            68755
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Dark Knight Quests",
+      "Quests": [
+        {
+          "Title": "Our End",
+          "Id": [
+            67589
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Ishgardian Justice",
+          "Id": [
+            67590
+          ],
+          "Area": "Ishgard",
+          "Level": 30
+        },
+        {
+          "Title": "The Voice in the Abyss",
+          "Id": [
+            67591
+          ],
+          "Area": "Ishgard",
+          "Level": 35
+        },
+        {
+          "Title": "Heroic Reprise",
+          "Id": [
+            67592
+          ],
+          "Area": "Ishgard",
+          "Level": 40
+        },
+        {
+          "Title": "Declaration of Blood",
+          "Id": [
+            67593
+          ],
+          "Area": "Ishgard",
+          "Level": 45
+        },
+        {
+          "Title": "Our Answer",
+          "Id": [
+            67594
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "The Wages of Mercy",
+          "Id": [
+            67595
+          ],
+          "Area": "Coerthas Central Highlands",
+          "Level": 50
+        },
+        {
+          "Title": "The Knight and the Maiden Fair",
+          "Id": [
+            67596
+          ],
+          "Area": "Ishgard",
+          "Level": 52
+        },
+        {
+          "Title": "Kindred Spirits",
+          "Id": [
+            67597
+          ],
+          "Area": "Ishgard",
+          "Level": 54
+        },
+        {
+          "Title": "Original Sins",
+          "Id": [
+            67598
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "The Flame in the Abyss",
+          "Id": [
+            67599
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Absolution",
+          "Id": [
+            67600
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "In Memories We Walked",
+          "Id": [
+            68451
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Widow and Her Love",
+          "Id": [
+            68452
+          ],
+          "Area": "Coerthas Western Highlands",
+          "Level": 63
+        },
+        {
+          "Title": "The Orphans and the Broken Blade",
+          "Id": [
+            68453
+          ],
+          "Area": "The Dravanian Forelands",
+          "Level": 65
+        },
+        {
+          "Title": "We Can Never Go Home",
+          "Id": [
+            68454
+          ],
+          "Area": "The Churning Mists",
+          "Level": 68
+        },
+        {
+          "Title": "Our Compromise",
+          "Id": [
+            68455
+          ],
+          "Area": "Ishgard",
+          "Level": 70
+        },
+        {
+          "Title": "Our Closure",
+          "Id": [
+            68757
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Machinist Quests",
+      "Quests": [
+        {
+          "Title": "Savior of Skysteel",
+          "Id": [
+            67232
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Master of Marksmanship",
+          "Id": [
+            67233
+          ],
+          "Area": "Outer La Noscea",
+          "Level": 30
+        },
+        {
+          "Title": "Always the Last Place You Look",
+          "Id": [
+            67234
+          ],
+          "Area": "Ishgard",
+          "Level": 35
+        },
+        {
+          "Title": "Rook Before You Reap",
+          "Id": [
+            67235
+          ],
+          "Area": "Ishgard",
+          "Level": 40
+        },
+        {
+          "Title": "Securing the Locks",
+          "Id": [
+            67236
+          ],
+          "Area": "Ishgard",
+          "Level": 40
+        },
+        {
+          "Title": "A Suppressive Strategy",
+          "Id": [
+            67237
+          ],
+          "Area": "Ishgard",
+          "Level": 45
+        },
+        {
+          "Title": "Blood on the Sands",
+          "Id": [
+            67238
+          ],
+          "Area": "Ishgard",
+          "Level": 45
+        },
+        {
+          "Title": "Rage against the Machinists",
+          "Id": [
+            67239
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "The Power of a Tourney",
+          "Id": [
+            67240
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "A Joye-less Celebration",
+          "Id": [
+            67241
+          ],
+          "Area": "Ishgard",
+          "Level": 50
+        },
+        {
+          "Title": "Pushing the Brume",
+          "Id": [
+            67242
+          ],
+          "Area": "Ishgard",
+          "Level": 52
+        },
+        {
+          "Title": "A Joye-ful Reunion",
+          "Id": [
+            67243
+          ],
+          "Area": "Ishgard",
+          "Level": 54
+        },
+        {
+          "Title": "Wheels of Justice",
+          "Id": [
+            67244
+          ],
+          "Area": "Ishgard",
+          "Level": 56
+        },
+        {
+          "Title": "Taking the Fall",
+          "Id": [
+            67246
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Rusted Steel",
+          "Id": [
+            67247
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "Rise of the Machinists",
+          "Id": [
+            67248
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Machinists' Choice",
+          "Id": [
+            68441
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "The Hrunting Heist",
+          "Id": [
+            68442
+          ],
+          "Area": "Ishgard",
+          "Level": 63
+        },
+        {
+          "Title": "Release the Hounds",
+          "Id": [
+            68443
+          ],
+          "Area": "Ishgard",
+          "Level": 65
+        },
+        {
+          "Title": "Snouts Down, Tails Up",
+          "Id": [
+            68444
+          ],
+          "Area": "Ishgard",
+          "Level": 68
+        },
+        {
+          "Title": "The Mongrel and the Knight",
+          "Id": [
+            68445
+          ],
+          "Area": "Ishgard",
+          "Level": 70
+        },
+        {
+          "Title": "Machinists for the Morrow",
+          "Id": [
+            68756
+          ],
+          "Area": "Ishgard",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Samurai Quests",
+      "Quests": [
+        {
+          "Title": "The Way of the Samurai",
+          "Id": [
+            68095
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "Master Musosai",
+          "Id": [
+            68096
+          ],
+          "Area": "Ul'dah",
+          "Level": 50
+        },
+        {
+          "Title": "The Sands of Debt",
+          "Id": [
+            68097
+          ],
+          "Area": "Ul'dah",
+          "Level": 52
+        },
+        {
+          "Title": "Blood on the Deck",
+          "Id": [
+            68098
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 54
+        },
+        {
+          "Title": "A Fraudster in the Forest",
+          "Id": [
+            68099
+          ],
+          "Area": "Gridania",
+          "Level": 56
+        },
+        {
+          "Title": "Tears in the Snow",
+          "Id": [
+            68100
+          ],
+          "Area": "Ishgard",
+          "Level": 58
+        },
+        {
+          "Title": "The Face of True Evil",
+          "Id": [
+            68101
+          ],
+          "Area": "Ishgard",
+          "Level": 60
+        },
+        {
+          "Title": "A Dignified Visitor",
+          "Id": [
+            68102
+          ],
+          "Area": "Ul'dah",
+          "Level": 60
+        },
+        {
+          "Title": "Trials of the Sekiseigumi",
+          "Id": [
+            68103
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "Matsuba Mayhem",
+          "Id": [
+            68104
+          ],
+          "Area": "Kugane",
+          "Level": 65
+        },
+        {
+          "Title": "The Hunt for Ugetsu",
+          "Id": [
+            68105
+          ],
+          "Area": "Kugane",
+          "Level": 68
+        },
+        {
+          "Title": "The Battle on Bekko",
+          "Id": [
+            68106
+          ],
+          "Area": "Kugane",
+          "Level": 70
+        },
+        {
+          "Title": "The Legend of Musosai",
+          "Id": [
+            68759
+          ],
+          "Area": "Kugane",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Gunbreaker Quests",
+      "Quests": [
+        {
+          "Title": "The Makings of a Gunbreaker",
+          "Id": [
+            68797
+          ],
+          "Area": "Gridania",
+          "Level": 60
+        },
+        {
+          "Title": "Hired Gunblades",
+          "Id": [
+            68798
+          ],
+          "Area": "East Shroud",
+          "Level": 60
+        },
+        {
+          "Title": "For Better or Worse",
+          "Id": [
+            68799
+          ],
+          "Area": "Ul'dah",
+          "Level": 63
+        },
+        {
+          "Title": "Confessions of a Flaming Mongrel",
+          "Id": [
+            68800
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 65
+        },
+        {
+          "Title": "Of Defectors and Defenders",
+          "Id": [
+            68801
+          ],
+          "Area": "Ishgard",
+          "Level": 68
+        },
+        {
+          "Title": "Steel against Steel",
+          "Id": [
+            68802
+          ],
+          "Area": "Ishgard",
+          "Level": 70
+        },
+        {
+          "Title": "Gunblades of the Patriots",
+          "Id": [
+            68761
+          ],
+          "Area": "Mor Dhona",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Dancer Quests",
+      "Quests": [
+        {
+          "Title": "Shall We Dance",
+          "Id": [
+            68785
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "Gamboling for Gil",
+          "Id": [
+            68786
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 60
+        },
+        {
+          "Title": "A Soirée in the Sultanate",
+          "Id": [
+            68787
+          ],
+          "Area": "Eastern La Noscea",
+          "Level": 63
+        },
+        {
+          "Title": "Dances with Duskwights",
+          "Id": [
+            68788
+          ],
+          "Area": "Ul'dah",
+          "Level": 65
+        },
+        {
+          "Title": "High-steppin' in the Holy See",
+          "Id": [
+            68789
+          ],
+          "Area": "Gridania",
+          "Level": 68
+        },
+        {
+          "Title": "Save the Last Dance for Me",
+          "Id": [
+            68790
+          ],
+          "Area": "Gridania",
+          "Level": 70
+        },
+        {
+          "Title": "Rising to the Occasion",
+          "Id": [
+            68762
+          ],
+          "Area": "Limsa Lominsa",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Reaper Quests",
+      "Quests": [
+        {
+          "Title": "The Killer Instinct",
+          "Id": [
+            69609
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "The Harvest Begins",
+          "Id": [
+            69610
+          ],
+          "Area": "Ul'dah",
+          "Level": 70
+        },
+        {
+          "Title": "On the Hunt",
+          "Id": [
+            69611
+          ],
+          "Area": "Ul'dah",
+          "Level": 73
+        },
+        {
+          "Title": "Dark Days",
+          "Id": [
+            69612
+          ],
+          "Area": "Ul'dah",
+          "Level": 75
+        },
+        {
+          "Title": "Thicker than Blood",
+          "Id": [
+            69613
+          ],
+          "Area": "Ul'dah",
+          "Level": 78
+        },
+        {
+          "Title": "The Killing Art",
+          "Id": [
+            69614
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        }
+      ]
+    },
+    {
+      "Title": "Viper Quests",
+      "Quests": [
+        {
+          "Title": "Enter the Viper",
+          "Id": [
+            70384
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        },
+        {
+          "Title": "Fangs of the Viper",
+          "Id": [
+            70385
+          ],
+          "Area": "Ul'dah",
+          "Level": 80
+        },
+        {
+          "Title": "Viper in the Vidraal's Shadow",
+          "Id": [
+            70386
+          ],
+          "Area": "Ul'dah",
+          "Level": 83
+        },
+        {
+          "Title": "Vipers on the Hunt",
+          "Id": [
+            70387
+          ],
+          "Area": "South Shroud",
+          "Level": 85
+        },
+        {
+          "Title": "Into the Viper Pit",
+          "Id": [
+            70388
+          ],
+          "Area": "South Shroud",
+          "Level": 88
+        },
+        {
+          "Title": "Vengeance of the Viper",
+          "Id": [
+            70389
+          ],
+          "Area": "South Shroud",
+          "Level": 90
+        }
+      ]
+    }
+  ]
+}
